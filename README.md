@@ -1,6 +1,6 @@
 # Interview Questions Bank
 
-A comprehensive web application for generating, managing, and exporting real-world scenario-based interview questions for candidates.
+A comprehensive web application for generating, managing, and exporting real-world scenario-based interview questions for candidates. Updated with 10,000 detailed questions across all topics.
 
 ![Interview Questions Bank](https://via.placeholder.com/800x400?text=Interview+Questions+Bank)
 
