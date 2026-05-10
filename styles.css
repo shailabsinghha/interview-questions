@@ -408,6 +408,21 @@ body {
     color: #06b6d4;
 }
 
+.topic-badge[data-topic="System Design"] {
+    background: rgba(139, 92, 246, 0.15);
+    color: #8b5cf6;
+}
+
+.topic-badge[data-topic="Security"] {
+    background: rgba(239, 68, 68, 0.15);
+    color: #ef4444;
+}
+
+.topic-badge[data-topic="Performance"] {
+    background: rgba(245, 158, 11, 0.15);
+    color: #f59e0b;
+}
+
 .difficulty-badge {
     padding: 0.35rem 0.75rem;
     border-radius: 20px;

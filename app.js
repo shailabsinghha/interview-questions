@@ -33,7 +33,10 @@ function updateCounts() {
         DSA: 0,
         Troubleshooting: 0,
         Kubernetes: 0,
-        Docker: 0
+        Docker: 0,
+        'System Design': 0,
+        Security: 0,
+        Performance: 0
     };
 
     questionsData.forEach(q => {
@@ -51,7 +54,10 @@ function updateCounts() {
     document.getElementById('countTroubleshooting').textContent = counts.Troubleshooting;
     document.getElementById('countKubernetes').textContent = counts.Kubernetes;
     document.getElementById('countDocker').textContent = counts.Docker;
-    document.getElementById('totalTopics').textContent = '7';
+    document.getElementById('countSystemDesign').textContent = counts['System Design'];
+    document.getElementById('countSecurity').textContent = counts.Security;
+    document.getElementById('countPerformance').textContent = counts.Performance;
+    document.getElementById('totalTopics').textContent = '10';
 }
 
 function setupEventListeners() {
