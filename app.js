@@ -194,33 +194,83 @@ function updateSelectionBar() {
 }
 
 function downloadDOCXWithOptions(candidateName, viewType) {
-    const questionIds = Array.from(selectedQuestions).join(',');
+    const selectedData = questionsData.filter(q => selectedQuestions.has(q.id));
     
-    const form = document.createElement('form');
-    form.method = 'POST';
-    form.action = '/download';
+    if (selectedData.length === 0) {
+        alert('No questions selected');
+        return;
+    }
     
-    const input1 = document.createElement('input');
-    input1.type = 'hidden';
-    input1.name = 'questions';
-    input1.value = questionIds;
+    // Create a simple text-based download as fallback for static hosting
+    let content = `INTERVIEW QUESTIONS\n`;
+    content += `==================\n\n`;
+    content += `Candidate: ${candidateName}\n`;
+    content += `Total Questions: ${selectedData.length}\n`;
+    content += `View Type: ${viewType}\n\n`;
     
-    const input2 = document.createElement('input');
-    input2.type = 'hidden';
-    input2.name = 'candidate';
-    input2.value = candidateName;
+    if (viewType === 'candidate') {
+        content += `--- QUESTIONS FOR CANDIDATE ---\n\n`;
+        selectedData.forEach((q, i) => {
+            content += `${i + 1}. ${q.question}\n\n`;
+        });
+        content += `\n--- MASTER COPY (For Interviewer) ---\n\n`;
+        selectedData.forEach((q, i) => {
+            content += `${i + 1}. [${q.topic}] ${q.difficulty}\n`;
+            content += `Q: ${q.question}\n`;
+            content += `A: ${q.answer}\n\n`;
+        });
+    } else {
+        content += `--- INTERVIEW QUESTIONS ---\n\n`;
+        selectedData.forEach((q, i) => {
+            content += `${i + 1}. [${q.topic}] ${q.difficulty}\n`;
+            content += `Q: ${q.question}\n`;
+            content += `A: ${q.answer}\n\n`;
+        });
+    }
     
-    const input3 = document.createElement('input');
-    input3.type = 'hidden';
-    input3.name = 'viewType';
-    input3.value = viewType;
+    // For GitHub Pages static hosting, download as .txt
+    // For local server, use the Python backend
+    const isGitHubPages = window.location.hostname.includes('github.io');
     
-    form.appendChild(input1);
-    form.appendChild(input2);
-    form.appendChild(input3);
-    document.body.appendChild(form);
-    form.submit();
-    document.body.removeChild(form);
+    if (isGitHubPages) {
+        // Download as text file for static hosting
+        const blob = new Blob([content], { type: 'text/plain' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `Interview_Questions_${candidateName.replace(/\s+/g, '_')}.txt`;
+        a.click();
+        URL.revokeObjectURL(url);
+    } else {
+        // Use Python server for local development
+        const questionIds = selectedQuestions.map(q => q.id).join(',');
+        
+        const form = document.createElement('form');
+        form.method = 'POST';
+        form.action = '/download';
+        
+        const input1 = document.createElement('input');
+        input1.type = 'hidden';
+        input1.name = 'questions';
+        input1.value = questionIds;
+        
+        const input2 = document.createElement('input');
+        input2.type = 'hidden';
+        input2.name = 'candidate';
+        input2.value = candidateName;
+        
+        const input3 = document.createElement('input');
+        input3.type = 'hidden';
+        input3.name = 'viewType';
+        input3.value = viewType;
+        
+        form.appendChild(input1);
+        form.appendChild(input2);
+        form.appendChild(input3);
+        document.body.appendChild(form);
+        form.submit();
+        document.body.removeChild(form);
+    }
 }
 
 function applyFilters() {
