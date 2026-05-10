@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interview Questions Bank</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="app-container">
+        <header class="header">
+            <div class="header-content">
+                <div class="logo">
+                    <i class="fas fa-brain"></i>
+                    <span>InterviewQ</span>
+                </div>
+                <div class="header-stats">
+                    <div class="stat-item">
+                        <span class="stat-value" id="totalQuestions">0</span>
+                        <span class="stat-label">Questions</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-value" id="totalTopics">5</span>
+                        <span class="stat-label">Topics</span>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <main class="main-content">
+            <aside class="sidebar">
+                <div class="sidebar-header">
+                    <h2><i class="fas fa-filter"></i> Filters</h2>
+                </div>
+                
+                <div class="filter-section">
+                    <h3>Topic</h3>
+                    <div class="filter-options" id="topicFilters">
+                        <label class="filter-option active" data-topic="all">
+                            <input type="radio" name="topic" value="all" checked>
+                            <span class="filter-content">
+                                <i class="fas fa-globe"></i>
+                                All Topics
+                                <span class="count" id="countAll">0</span>
+                            </span>
+                        </label>
+                        <label class="filter-option" data-topic="MongoDB">
+                            <input type="radio" name="topic" value="MongoDB">
+                            <span class="filter-content">
+                                <i class="fas fa-leaf"></i>
+                                MongoDB
+                                <span class="count" id="countMongoDB">0</span>
+                            </span>
+                        </label>
+                        <label class="filter-option" data-topic="Spring Boot">
+                            <input type="radio" name="topic" value="Spring Boot">
+                            <span class="filter-content">
+                                <i class="fas fa-leaf"></i>
+                                Spring Boot
+                                <span class="count" id="countSpringBoot">0</span>
+                            </span>
+                        </label>
+                        <label class="filter-option" data-topic="AWS">
+                            <input type="radio" name="topic" value="AWS">
+                            <span class="filter-content">
+                                <i class="fab fa-aws"></i>
+                                AWS
+                                <span class="count" id="countAWS">0</span>
+                            </span>
+                        </label>
+                        <label class="filter-option" data-topic="DSA">
+                            <input type="radio" name="topic" value="DSA">
+                            <span class="filter-content">
+                                <i class="fas fa-code"></i>
+                                DSA
+                                <span class="count" id="countDSA">0</span>
+                            </span>
+                        </label>
+                        <label class="filter-option" data-topic="Troubleshooting">
+                            <input type="radio" name="topic" value="Troubleshooting">
+                            <span class="filter-content">
+                                <i class="fas fa-wrench"></i>
+                                Troubleshooting
+                                <span class="count" id="countTroubleshooting">0</span>
+                            </span>
+                        </label>
+                        <label class="filter-option" data-topic="Kubernetes">
+                            <input type="radio" name="topic" value="Kubernetes">
+                            <span class="filter-content">
+                                <i class="fas fa-dharmachakra"></i>
+                                Kubernetes
+                                <span class="count" id="countKubernetes">0</span>
+                            </span>
+                        </label>
+                        <label class="filter-option" data-topic="Docker">
+                            <input type="radio" name="topic" value="Docker">
+                            <span class="filter-content">
+                                <i class="fab fa-docker"></i>
+                                Docker
+                                <span class="count" id="countDocker">0</span>
+                            </span>
+                        </label>
+                    </div>
+                </div>
+
+                <div class="filter-section">
+                    <h3>Difficulty</h3>
+                    <div class="filter-options" id="difficultyFilters">
+                        <label class="filter-option active" data-difficulty="all">
+                            <input type="radio" name="difficulty" value="all" checked>
+                            <span class="filter-content">
+                                <i class="fas fa-layer-group"></i>
+                                All Levels
+                            </span>
+                        </label>
+                        <label class="filter-option" data-difficulty="Easy">
+                            <input type="radio" name="difficulty" value="Easy">
+                            <span class="filter-content difficulty-easy">
+                                <i class="fas fa-seedling"></i>
+                                Easy
+                            </span>
+                        </label>
+                        <label class="filter-option" data-difficulty="Medium">
+                            <input type="radio" name="difficulty" value="Medium">
+                            <span class="filter-content difficulty-medium">
+                                <i class="fas fa-fire"></i>
+                                Medium
+                            </span>
+                        </label>
+                        <label class="filter-option" data-difficulty="Hard">
+                            <input type="radio" name="difficulty" value="Hard">
+                            <span class="filter-content difficulty-hard">
+                                <i class="fas fa-mountain"></i>
+                                Hard
+                            </span>
+                        </label>
+                    </div>
+                </div>
+
+                <div class="sidebar-footer">
+                    <button class="reset-btn" id="resetFilters">
+                        <i class="fas fa-redo"></i> Reset Filters
+                    </button>
+                </div>
+            </aside>
+
+            <section class="content-area">
+                <div class="search-section">
+                    <div class="search-wrapper">
+                        <i class="fas fa-search"></i>
+                        <input type="text" id="searchInput" placeholder="Search questions by scenario, technology, or keyword...">
+                        <button class="clear-search" id="clearSearch" style="display: none;">
+                            <i class="fas fa-times"></i>
+                        </button>
+                    </div>
+                    <div class="search-stats">
+                        <span id="showingResults">Showing 0 of 0 questions</span>
+                    </div>
+                </div>
+
+                <div class="questions-container" id="questionsContainer">
+                    <div class="question-card" style="display: none;">
+                        <div class="card-header">
+                            <label class="select-checkbox">
+                                <input type="checkbox">
+                                <span class="checkmark"></span>
+                            </label>
+                            <span class="topic-badge">MongoDB</span>
+                            <span class="difficulty-badge easy">Easy</span>
+                        </div>
+                        <div class="card-body">
+                            <p class="question-text"></p>
+                            <div class="answer-section">
+                                <button class="toggle-answer">
+                                    <span>Show Solution</span>
+                                    <i class="fas fa-chevron-down"></i>
+                                </button>
+                                <div class="answer-content">
+                                    <p></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="load-more-section" id="loadMoreSection">
+                    <button class="load-more-btn" id="loadMoreBtn">
+                        <i class="fas fa-plus"></i> Load More Questions
+                    </button>
+                </div>
+
+                <div class="no-results" id="noResults" style="display: none;">
+                    <i class="fas fa-search"></i>
+                    <h3>No questions found</h3>
+                    <p>Try adjusting your search or filters</p>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <div class="modal" id="questionModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span class="topic-badge" id="modalTopic">MongoDB</span>
+                <span class="difficulty-badge" id="modalDifficulty">Easy</span>
+                <button class="close-modal" id="closeModal">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h2 class="modal-question" id="modalQuestion"></h2>
+                <div class="modal-answer">
+                    <h3><i class="fas fa-lightbulb"></i> Solution</h3>
+                    <p id="modalAnswer"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="selection-bar" id="selectionBar">
+        <div class="selection-info">
+            <i class="fas fa-check-square"></i>
+            <span id="selectedCount">0</span> questions selected
+        </div>
+        <div class="selection-actions">
+            <button class="btn-clear" id="clearSelection">
+                <i class="fas fa-times"></i> Clear
+            </button>
+            <button class="btn-download" id="downloadSelected">
+                <i class="fas fa-file-word"></i> Download DOCX
+            </button>
+        </div>
+    </div>
+
+    <div class="modal" id="downloadModal">
+        <div class="modal-content download-modal">
+            <div class="modal-header">
+                <h2><i class="fas fa-file-download"></i> Download Questions</h2>
+                <button class="close-modal" id="closeDownloadModal">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label>Candidate Name</label>
+                    <input type="text" id="candidateName" placeholder="Enter candidate name">
+                </div>
+                <div class="form-group">
+                    <label>Select View Type</label>
+                    <div class="view-options">
+                        <label class="view-option">
+                            <input type="radio" name="viewType" value="candidate" checked>
+                            <div class="view-card">
+                                <i class="fas fa-user"></i>
+                                <h3>Candidate View</h3>
+                                <p>Only questions - for candidate to solve</p>
+                            </div>
+                        </label>
+                        <label class="view-option">
+                            <input type="radio" name="viewType" value="interview">
+                            <div class="view-card">
+                                <i class="fas fa-user-tie"></i>
+                                <h3>Interview View</h3>
+                                <p>Full format with answers - for interviewer</p>
+                            </div>
+                        </label>
+                    </div>
+                </div>
+                <button class="btn-download-full" id="confirmDownload">
+                    <i class="fas fa-download"></i> Generate DOCX
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
