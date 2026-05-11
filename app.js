@@ -207,64 +207,103 @@ function downloadDOCXWithOptions(candidateName, viewType) {
         return;
     }
     
-    // Build content based on view type
-    let content = '';
-    const isGitHubPages = window.location.hostname.includes('github.io');
+    const { Document, Packer, Paragraph, TextRun, HeadingLevel, AlignmentType } = docx;
+    
+    const children = [];
     
     if (viewType === 'candidate') {
-        // CANDIDATE VIEW: Only questions (no answers)
-        content += `INTERVIEW QUESTIONS - CANDIDATE VIEW\n`;
-        content += `======================================\n\n`;
-        content += `Candidate: ${candidateName}\n`;
-        content += `Total Questions: ${selectedData.length}\n`;
-        content += `Date: ${new Date().toLocaleDateString()}\n\n`;
-        content += `Answer the following questions:\n\n`;
-        content += `----------------------------------------\n\n`;
+        children.push(
+            new Paragraph({
+                text: "INTERVIEW QUESTIONS - CANDIDATE VIEW",
+                heading: HeadingLevel.HEADING_1,
+                alignment: AlignmentType.CENTER
+            }),
+            new Paragraph({ text: "" }),
+            new Paragraph({ text: `Candidate: ${candidateName}` }),
+            new Paragraph({ text: `Total Questions: ${selectedData.length}` }),
+            new Paragraph({ text: `Date: ${new Date().toLocaleDateString()}` }),
+            new Paragraph({ text: "" }),
+            new Paragraph({ text: "Answer the following questions:", heading: HeadingLevel.HEADING_2 }),
+            new Paragraph({ text: "" })
+        );
         
         selectedData.forEach((q, i) => {
-            content += `Question ${i + 1}:\n${q.question}\n\n`;
+            children.push(
+                new Paragraph({
+                    text: `Question ${i + 1}:`,
+                    heading: HeadingLevel.HEADING_3
+                }),
+                new Paragraph({ text: q.question }),
+                new Paragraph({ text: "" })
+            );
         });
         
-        // Add master copy section at the end
-        content += `\n======================================\n`;
-        content += `MASTER COPY (For Interviewer Use)\n`;
-        content += `======================================\n\n`;
+        children.push(
+            new Paragraph({ text: "" }),
+            new Paragraph({
+                text: "MASTER COPY (For Interviewer Use)",
+                heading: HeadingLevel.HEADING_1,
+                alignment: AlignmentType.CENTER
+            }),
+            new Paragraph({ text: "" })
+        );
         
         selectedData.forEach((q, i) => {
-            content += `Q${i + 1}. [${q.topic}] ${q.difficulty}\n`;
-            content += `Question: ${q.question}\n`;
-            content += `Answer: ${q.answer}\n\n`;
+            children.push(
+                new Paragraph({ text: `Q${i + 1}. [${q.topic}] ${q.difficulty}` }),
+                new Paragraph({ text: `Question: ${q.question}` }),
+                new Paragraph({ text: `Answer: ${q.answer}` }),
+                new Paragraph({ text: "" })
+            );
         });
     } else {
-        // INTERVIEWER VIEW: Full format with all attributes
-        content += `INTERVIEW QUESTIONS - INTERVIEWER VIEW\n`;
-        content += `=======================================\n\n`;
-        content += `Candidate: ${candidateName}\n`;
-        content += `Total Questions: ${selectedData.length}\n`;
-        content += `Date: ${new Date().toLocaleDateString()}\n\n`;
+        children.push(
+            new Paragraph({
+                text: "INTERVIEW QUESTIONS - INTERVIEWER VIEW",
+                heading: HeadingLevel.HEADING_1,
+                alignment: AlignmentType.CENTER
+            }),
+            new Paragraph({ text: "" }),
+            new Paragraph({ text: `Candidate: ${candidateName}` }),
+            new Paragraph({ text: `Total Questions: ${selectedData.length}` }),
+            new Paragraph({ text: `Date: ${new Date().toLocaleDateString()}` }),
+            new Paragraph({ text: "" })
+        );
         
         selectedData.forEach((q, i) => {
-            content += `----------------------------------------\n`;
-            content += `Question ${i + 1}\n`;
-            content += `----------------------------------------\n`;
-            content += `Topic: ${q.topic}\n`;
-            content += `Difficulty: ${q.difficulty}\n\n`;
-            content += `Question:\n${q.question}\n\n`;
-            content += `Answer:\n${q.answer}\n\n`;
+            children.push(
+                new Paragraph({ text: `Question ${i + 1}`, heading: HeadingLevel.HEADING_2 }),
+                new Paragraph({ text: `Topic: ${q.topic}` }),
+                new Paragraph({ text: `Difficulty: ${q.difficulty}` }),
+                new Paragraph({ text: "" }),
+                new Paragraph({ text: "Question:" }),
+                new Paragraph({ text: q.question }),
+                new Paragraph({ text: "" }),
+                new Paragraph({ text: "Answer:" }),
+                new Paragraph({ text: q.answer }),
+                new Paragraph({ text: "" })
+            );
         });
     }
     
-    // Download as file - try .docx extension (works in Word)
-    const blob = new Blob([content], { type: 'application/msword' });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement('a');
-    a.href = url;
-    const filename = `Interview_Questions_${candidateName.replace(/\s+/g, '_')}_${viewType}.docx`;
-    a.download = filename;
-    document.body.appendChild(a);
-    a.click();
-    document.body.removeChild(a);
-    URL.revokeObjectURL(url);
+    const doc = new Document({
+        sections: [{
+            properties: {},
+            children: children
+        }]
+    });
+    
+    Packer.toBlob(doc).then(blob => {
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        const filename = `Interview_Questions_${candidateName.replace(/\s+/g, '_')}_${viewType}.docx`;
+        a.download = filename;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+    });
 }
 
 function applyFilters() {
