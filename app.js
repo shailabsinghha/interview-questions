@@ -266,17 +266,8 @@ function downloadDOCXWithOptions(candidateName, viewType) {
     document.body.removeChild(a);
     URL.revokeObjectURL(url);
 }
-        input1.name = 'questions';
-        input1.value = questionIds;
-        
-        const input2 = document.createElement('input');
-        input2.type = 'hidden';
-        input2.name = 'candidate';
-        input2.value = candidateName;
-        
-        const input3 = document.createElement('input');
-        input3.type = 'hidden';
-        input3.name = 'viewType';
+
+function applyFilters() {
         input3.value = viewType;
         
         form.appendChild(input1);
