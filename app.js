@@ -207,56 +207,65 @@ function downloadDOCXWithOptions(candidateName, viewType) {
         return;
     }
     
-    // Create a simple text-based download as fallback for static hosting
-    let content = `INTERVIEW QUESTIONS\n`;
-    content += `==================\n\n`;
-    content += `Candidate: ${candidateName}\n`;
-    content += `Total Questions: ${selectedData.length}\n`;
-    content += `View Type: ${viewType}\n\n`;
+    // Build content based on view type
+    let content = '';
+    const isGitHubPages = window.location.hostname.includes('github.io');
     
     if (viewType === 'candidate') {
-        content += `--- QUESTIONS FOR CANDIDATE ---\n\n`;
+        // CANDIDATE VIEW: Only questions (no answers)
+        content += `INTERVIEW QUESTIONS - CANDIDATE VIEW\n`;
+        content += `======================================\n\n`;
+        content += `Candidate: ${candidateName}\n`;
+        content += `Total Questions: ${selectedData.length}\n`;
+        content += `Date: ${new Date().toLocaleDateString()}\n\n`;
+        content += `Answer the following questions:\n\n`;
+        content += `----------------------------------------\n\n`;
+        
         selectedData.forEach((q, i) => {
-            content += `${i + 1}. ${q.question}\n\n`;
+            content += `Question ${i + 1}:\n${q.question}\n\n`;
         });
-        content += `\n--- MASTER COPY (For Interviewer) ---\n\n`;
+        
+        // Add master copy section at the end
+        content += `\n======================================\n`;
+        content += `MASTER COPY (For Interviewer Use)\n`;
+        content += `======================================\n\n`;
+        
         selectedData.forEach((q, i) => {
-            content += `${i + 1}. [${q.topic}] ${q.difficulty}\n`;
-            content += `Q: ${q.question}\n`;
-            content += `A: ${q.answer}\n\n`;
+            content += `Q${i + 1}. [${q.topic}] ${q.difficulty}\n`;
+            content += `Question: ${q.question}\n`;
+            content += `Answer: ${q.answer}\n\n`;
         });
     } else {
-        content += `--- INTERVIEW QUESTIONS ---\n\n`;
+        // INTERVIEWER VIEW: Full format with all attributes
+        content += `INTERVIEW QUESTIONS - INTERVIEWER VIEW\n`;
+        content += `=======================================\n\n`;
+        content += `Candidate: ${candidateName}\n`;
+        content += `Total Questions: ${selectedData.length}\n`;
+        content += `Date: ${new Date().toLocaleDateString()}\n\n`;
+        
         selectedData.forEach((q, i) => {
-            content += `${i + 1}. [${q.topic}] ${q.difficulty}\n`;
-            content += `Q: ${q.question}\n`;
-            content += `A: ${q.answer}\n\n`;
+            content += `----------------------------------------\n`;
+            content += `Question ${i + 1}\n`;
+            content += `----------------------------------------\n`;
+            content += `Topic: ${q.topic}\n`;
+            content += `Difficulty: ${q.difficulty}\n\n`;
+            content += `Question:\n${q.question}\n\n`;
+            content += `Answer:\n${q.answer}\n\n`;
         });
     }
     
-    // For GitHub Pages static hosting, download as .txt
-    // For local server, use the Python backend
-    const isGitHubPages = window.location.hostname.includes('github.io');
-    
-    if (isGitHubPages) {
-        // Download as text file for static hosting
-        const blob = new Blob([content], { type: 'text/plain' });
-        const url = URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = `Interview_Questions_${candidateName.replace(/\s+/g, '_')}.txt`;
-        a.click();
-        URL.revokeObjectURL(url);
-    } else {
-        // Use Python server for local development
-        const questionIds = selectedQuestions.map(q => q.id).join(',');
-        
-        const form = document.createElement('form');
-        form.method = 'POST';
-        form.action = '/download';
-        
-        const input1 = document.createElement('input');
-        input1.type = 'hidden';
+    // Download as file - try .docx extension (works in Word)
+    const blob = new Blob([content], { type: 'application/msword' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    const filename = `Interview_Questions_${candidateName.replace(/\s+/g, '_')}_${viewType}.docx`;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+}
         input1.name = 'questions';
         input1.value = questionIds;
         
