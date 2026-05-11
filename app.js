@@ -268,18 +268,6 @@ function downloadDOCXWithOptions(candidateName, viewType) {
 }
 
 function applyFilters() {
-        input3.value = viewType;
-        
-        form.appendChild(input1);
-        form.appendChild(input2);
-        form.appendChild(input3);
-        document.body.appendChild(form);
-        form.submit();
-        document.body.removeChild(form);
-    }
-}
-
-function applyFilters() {
     filteredQuestions = questionsData.filter(q => {
         const matchesTopic = currentTopic === 'all' || q.topic === currentTopic;
         const matchesDifficulty = currentDifficulty === 'all' || q.difficulty === currentDifficulty;
