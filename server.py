@@ -5,7 +5,12 @@ import webbrowser
 import os
 import json
 import io
+import random
 import urllib.parse
+import urllib.request
+import urllib.error
+import subprocess
+import re
 from docx import Document
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 
@@ -13,10 +18,115 @@ PORT = 8000
 os.chdir('/Users/shailabsingh/Desktop/interviewQues')
 
 class CustomHandler(http.server.SimpleHTTPRequestHandler):
+    def do_GET(self):
+        if self.path == '/api/questions':
+            try:
+                with open('questions.json', 'r', encoding='utf-8') as f:
+                    questions = json.load(f)
+                random.shuffle(questions)
+                response = json.dumps(questions).encode('utf-8')
+                self.send_response(200)
+                self.send_header('Content-Type', 'application/json')
+                self.send_header('Access-Control-Allow-Origin', '*')
+                self.send_header('Content-Length', str(len(response)))
+                self.end_headers()
+                self.wfile.write(response)
+            except Exception as e:
+                self.send_response(500)
+                self.send_header('Content-Type', 'text/plain')
+                self.end_headers()
+                self.wfile.write(str(e).encode())
+        else:
+            super().do_GET()
+
     def do_POST(self):
-        if self.path == '/download':
-            content_length = int(self.headers.get('Content-Length', 0))
-            post_data = self.rfile.read(content_length).decode('utf-8')
+        content_length = int(self.headers.get('Content-Length', 0))
+        post_data = self.rfile.read(content_length).decode('utf-8')
+
+        if self.path == '/api/ai/generate':
+            try:
+                body = json.loads(post_data)
+            except json.JSONDecodeError:
+                self.send_response(400)
+                self.send_header('Content-Type', 'application/json')
+                self.send_header('Access-Control-Allow-Origin', '*')
+                self.end_headers()
+                self.wfile.write(json.dumps({'error': 'Invalid JSON'}).encode())
+                return
+
+            try:
+                prompt = body.get('prompt', '')
+                model = body.get('model', 'meta-llama/llama-3.3-70b-instruct:free')
+                api_key = body.get('apiKey', '')
+
+                result = None
+                err_msg = None
+
+                # 1) Try OpenRouter if an API key was provided
+                if api_key:
+                    openrouter_model = model.replace('opencode/', '')
+                    payload = json.dumps({
+                        'model': openrouter_model,
+                        'messages': [{'role': 'user', 'content': prompt}],
+                        'max_tokens': 4096,
+                    }).encode()
+                    req = urllib.request.Request(
+                        'https://openrouter.ai/api/v1/chat/completions',
+                        data=payload,
+                        headers={
+                            'Content-Type': 'application/json',
+                            'Authorization': f'Bearer {api_key}',
+                        },
+                        method='POST',
+                    )
+                    try:
+                        with urllib.request.urlopen(req, timeout=120) as resp:
+                            or_data = json.loads(resp.read().decode())
+                            result = or_data.get('choices', [{}])[0].get('message', {}).get('content', '')
+                    except urllib.error.HTTPError as e:
+                        err_msg = f'OpenRouter API error ({e.code}): {e.read().decode()}'
+                    except Exception as e:
+                        err_msg = f'OpenRouter error: {str(e)}'
+
+                # 2) Fallback: opencode subprocess (local only)
+                if result is None:
+                    OPENCODE_BIN = '/opt/homebrew/lib/node_modules/opencode-ai/bin/opencode.exe'
+                    oc_model = model if model.startswith('opencode/') else 'opencode/deepseek-v4-flash-free'
+                    cmd = [OPENCODE_BIN, 'run', '--model', oc_model, '--format', 'json']
+                    proc = subprocess.run(cmd, input=prompt, capture_output=True, text=True, timeout=120, env={**os.environ})
+                    if proc.returncode == 0:
+                        text_parts = []
+                        for line in proc.stdout.strip().split('\n'):
+                            line = line.strip()
+                            if not line:
+                                continue
+                            try:
+                                event = json.loads(line)
+                                if event.get('type') == 'text':
+                                    text_parts.append(event.get('part', {}).get('text', ''))
+                            except json.JSONDecodeError:
+                                continue
+                        result = ''.join(text_parts) or None
+                    else:
+                        err_msg = (err_msg or '') + ('; ' if err_msg else '') + f'opencode failed: {proc.stderr[:200]}'
+
+                if result is None:
+                    raise Exception(err_msg or 'All AI backends failed')
+
+                self.send_response(200)
+                self.send_header('Content-Type', 'application/json')
+                self.send_header('Access-Control-Allow-Origin', '*')
+                self.end_headers()
+                self.wfile.write(json.dumps({'text': result}).encode())
+
+            except Exception as e:
+                self.send_response(500)
+                self.send_header('Content-Type', 'application/json')
+                self.send_header('Access-Control-Allow-Origin', '*')
+                self.end_headers()
+                self.wfile.write(json.dumps({'error': str(e)}).encode())
+
+        elif self.path == '/download':
             
             try:
                 params = urllib.parse.parse_qs(post_data)

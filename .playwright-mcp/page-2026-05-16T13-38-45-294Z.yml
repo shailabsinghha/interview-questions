@@ -1,0 +1,363 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - generic [ref=e6]: 
+          - generic [ref=e7]: InterviewQ
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - generic [ref=e10]: "10308"
+            - generic [ref=e11]: Questions
+          - generic [ref=e12]:
+            - generic [ref=e13]: "14"
+            - generic [ref=e14]: Topics
+        - generic [ref=e15]:
+          - button "Refresh questions" [active] [ref=e16] [cursor=pointer]:
+            - generic: 
+          - text: 
+    - main [ref=e17]:
+      - complementary [ref=e18]:
+        - heading " Filters" [level=2] [ref=e20]:
+          - generic [ref=e21]: 
+          - text: Filters
+        - generic [ref=e22]:
+          - heading "Topic" [level=3] [ref=e23]
+          - generic [ref=e24]:
+            - generic [ref=e317] [cursor=pointer]:
+              - radio " All Topics 10308" [checked]
+              - generic [ref=e318]:
+                - generic [ref=e319]: 
+                - text: All Topics
+                - generic [ref=e320]: "10308"
+            - generic [ref=e321] [cursor=pointer]:
+              - radio " DSA 3398"
+              - generic [ref=e322]:
+                - generic [ref=e323]: 
+                - text: DSA
+                - generic [ref=e324]: "3398"
+            - generic [ref=e325] [cursor=pointer]:
+              - radio " Spring Boot 1666"
+              - generic [ref=e326]:
+                - generic [ref=e327]: 
+                - text: Spring Boot
+                - generic [ref=e328]: "1666"
+            - generic [ref=e329] [cursor=pointer]:
+              - radio " AWS 1430"
+              - generic [ref=e330]:
+                - generic [ref=e331]: 
+                - text: AWS
+                - generic [ref=e332]: "1430"
+            - generic [ref=e333] [cursor=pointer]:
+              - radio " MongoDB 1087"
+              - generic [ref=e334]:
+                - generic [ref=e335]: 
+                - text: MongoDB
+                - generic [ref=e336]: "1087"
+            - generic [ref=e337] [cursor=pointer]:
+              - radio " Troubleshooting 1060"
+              - generic [ref=e338]:
+                - generic [ref=e339]: 
+                - text: Troubleshooting
+                - generic [ref=e340]: "1060"
+            - generic [ref=e341] [cursor=pointer]:
+              - radio " Kubernetes 631"
+              - generic [ref=e342]:
+                - generic [ref=e343]: 
+                - text: Kubernetes
+                - generic [ref=e344]: "631"
+            - generic [ref=e345] [cursor=pointer]:
+              - radio " System Design 408"
+              - generic [ref=e346]:
+                - generic [ref=e347]: 
+                - text: System Design
+                - generic [ref=e348]: "408"
+            - generic [ref=e349] [cursor=pointer]:
+              - radio " Backend Development 205"
+              - generic [ref=e350]:
+                - generic [ref=e351]: 
+                - text: Backend Development
+                - generic [ref=e352]: "205"
+            - generic [ref=e353] [cursor=pointer]:
+              - radio " Performance 205"
+              - generic [ref=e354]:
+                - generic [ref=e355]: 
+                - text: Performance
+                - generic [ref=e356]: "205"
+            - generic [ref=e357] [cursor=pointer]:
+              - radio " Security 57"
+              - generic [ref=e358]:
+                - generic [ref=e359]: 
+                - text: Security
+                - generic [ref=e360]: "57"
+            - generic [ref=e361] [cursor=pointer]:
+              - radio " Docker 56"
+              - generic [ref=e362]:
+                - generic [ref=e363]: 
+                - text: Docker
+                - generic [ref=e364]: "56"
+            - generic [ref=e365] [cursor=pointer]:
+              - radio " Microservices 50"
+              - generic [ref=e366]:
+                - generic [ref=e367]: 
+                - text: Microservices
+                - generic [ref=e368]: "50"
+            - generic [ref=e369] [cursor=pointer]:
+              - radio " Generative AI 49"
+              - generic [ref=e370]:
+                - generic [ref=e371]: 
+                - text: Generative AI
+                - generic [ref=e372]: "49"
+            - generic [ref=e373] [cursor=pointer]:
+              - radio " HTML 6"
+              - generic [ref=e374]:
+                - generic [ref=e375]: 
+                - text: HTML
+                - generic [ref=e376]: "6"
+        - generic [ref=e85]:
+          - heading "Difficulty" [level=3] [ref=e86]
+          - generic [ref=e87]:
+            - generic [ref=e88] [cursor=pointer]:
+              - radio " All Levels" [checked]
+              - generic [ref=e89]:
+                - generic [ref=e90]: 
+                - text: All Levels
+            - generic [ref=e91] [cursor=pointer]:
+              - radio " Easy"
+              - generic [ref=e92]:
+                - generic [ref=e93]: 
+                - text: Easy
+            - generic [ref=e94] [cursor=pointer]:
+              - radio " Medium"
+              - generic [ref=e95]:
+                - generic [ref=e96]: 
+                - text: Medium
+            - generic [ref=e97] [cursor=pointer]:
+              - radio " Hard"
+              - generic [ref=e98]:
+                - generic [ref=e99]: 
+                - text: Hard
+        - button " Reset Filters" [ref=e101] [cursor=pointer]:
+          - generic [ref=e102]: 
+          - text: Reset Filters
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - generic [ref=e105]:
+            - generic [ref=e106]: 
+            - textbox "Search questions by scenario, technology, or keyword..." [ref=e107]
+            - text: 
+          - generic [ref=e108]: Showing 15 of 10308 questions
+        - generic [ref=e109]:
+          - generic [ref=e377]:
+            - generic [ref=e378]:
+              - generic [ref=e379] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e381]: Kubernetes
+              - generic [ref=e382]: Hard
+            - generic [ref=e383]:
+              - paragraph [ref=e384]: Design a multi-cluster Kubernetes platform for 100+ microservices. Use Service and Service for observability.
+              - generic [ref=e385]:
+                - button "Show Solution " [ref=e386] [cursor=pointer]:
+                  - generic [ref=e387]: Show Solution
+                  - generic [ref=e388]: 
+                - paragraph [ref=e389]: Cluster API for lifecycle. ArgoCD for GitOps. Service for workload. Istio for service mesh. OPA/Gatekeeper for policy. Prometheus/Grafana for monitoring. Fluentd + Elasticsearch for logging.
+          - generic [ref=e390]:
+            - generic [ref=e391]:
+              - generic [ref=e392] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e394]: MongoDB
+              - generic [ref=e395]: Medium
+            - generic [ref=e396]:
+              - paragraph [ref=e397]: Design a MongoDB schema and index strategy for a IoT sensor system using the 'products' collection. Use delete operations.
+              - generic [ref=e398]:
+                - button "Show Solution " [ref=e399] [cursor=pointer]:
+                  - generic [ref=e400]: Show Solution
+                  - generic [ref=e401]: 
+                - paragraph [ref=e402]: "Schema: embed for read-together data, reference for independent entities. Compound indexes on query patterns. Use delete with proper read concern. Handle scale with sharding."
+          - generic [ref=e403]:
+            - generic [ref=e404]:
+              - generic [ref=e405] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e407]: DSA
+              - generic [ref=e408]: Hard
+            - generic [ref=e409]:
+              - paragraph [ref=e410]: Design distributed segment tree for processing 10M items with frequency count. Handle memory limits.
+              - generic [ref=e411]:
+                - button "Show Solution " [ref=e412] [cursor=pointer]:
+                  - generic [ref=e413]: Show Solution
+                  - generic [ref=e414]: 
+                - paragraph [ref=e415]: Advanced DS technique. Handle memory limits with appropriate data structure. Consider distributed/parallel approach.
+          - generic [ref=e416]:
+            - generic [ref=e417]:
+              - generic [ref=e418] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e420]: DSA
+              - generic [ref=e421]: Hard
+            - generic [ref=e422]:
+              - paragraph [ref=e423]: Design distributed segment tree for processing 1M items with O(1) get/put. Handle data skew.
+              - generic [ref=e424]:
+                - button "Show Solution " [ref=e425] [cursor=pointer]:
+                  - generic [ref=e426]: Show Solution
+                  - generic [ref=e427]: 
+                - paragraph [ref=e428]: Advanced DS technique. Handle data skew with appropriate data structure. Consider distributed/parallel approach.
+          - generic [ref=e429]:
+            - generic [ref=e430]:
+              - generic [ref=e431] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e433]: Kubernetes
+              - generic [ref=e434]: Hard
+            - generic [ref=e435]:
+              - paragraph [ref=e436]: Design a production-grade Kubernetes platform for 100+ microservices. Use HPA and NetworkPolicy for scalability.
+              - generic [ref=e437]:
+                - button "Show Solution " [ref=e438] [cursor=pointer]:
+                  - generic [ref=e439]: Show Solution
+                  - generic [ref=e440]: 
+                - paragraph [ref=e441]: Cluster API for lifecycle. ArgoCD for GitOps. HPA for workload. Istio for service mesh. OPA/Gatekeeper for policy. Prometheus/Grafana for monitoring. Fluentd + Elasticsearch for logging.
+          - generic [ref=e442]:
+            - generic [ref=e443]:
+              - generic [ref=e444] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e446]: Troubleshooting
+              - generic [ref=e447]: Hard
+            - generic [ref=e448]:
+              - paragraph [ref=e449]: "[Spring Boot] In a regulated financial services environment: After adding spring-boot-starter-actuator, the application fails to start with 'Multiple representations of the same entity X are being merged'. What's the conflict?"
+              - generic [ref=e450]:
+                - button "Show Solution " [ref=e451] [cursor=pointer]:
+                  - generic [ref=e452]: Show Solution
+                  - generic [ref=e453]: 
+                - paragraph [ref=e454]: 1) This is typically a JPA/Hibernate issue, not directly actuator-related. 2) Check if actuator's /entities endpoint is exposing entities with lazy-loaded relationships. 3) Configure 'spring.jpa.open-in-view=false' to avoid lazy loading issues. 4) Use DTOs instead of exposing entities directly through actuator endpoints. 5) Check for duplicate entity manager configurations. 6) Review actuator endpoint exposure settings in application.properties. Add this scenario to the on-call runbook.
+          - generic [ref=e455]:
+            - generic [ref=e456]:
+              - generic [ref=e457] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e459]: Spring Boot
+              - generic [ref=e460]: Easy
+            - generic [ref=e461]:
+              - paragraph [ref=e462]: Is it possible to change the port of the embedded Tomcat server in Spring Boot?
+              - generic [ref=e463]:
+                - button "Show Solution " [ref=e464] [cursor=pointer]:
+                  - generic [ref=e465]: Show Solution
+                  - generic [ref=e466]: 
+                - paragraph [ref=e467]: "Yes, it is possible to change the port by setting the server.port property in the application.properties file. For example: server.port=8081 changes the port to 8081."
+          - generic [ref=e468]:
+            - generic [ref=e469]:
+              - generic [ref=e470] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e472]: Troubleshooting
+              - generic [ref=e473]: Hard
+            - generic [ref=e474]:
+              - paragraph [ref=e475]: "[Spring Boot] In a real-time data processing pipeline: Two @Transactional methods calling each other within the same class - the inner method's propagation setting (REQUIRES_NEW) is ignored. Both run in the same transaction."
+              - generic [ref=e476]:
+                - button "Show Solution " [ref=e477] [cursor=pointer]:
+                  - generic [ref=e478]: Show Solution
+                  - generic [ref=e479]: 
+                - paragraph [ref=e480]: "1) Spring's AOP proxy doesn't work for self-invocation - calling method B from method A in the same class bypasses the proxy. 2) Inject the service into itself (self-injection) to go through the proxy. 3) Use AopContext.currentProxy() to get the proxied reference: '((MyService) AopContext.currentProxy()).methodB()'. 4) Enable proxy exposure: '@EnableAspectJAutoProxy(exposeProxy = true)'. 5) Better: split the methods into separate service classes. 6) Use TransactionTemplate for programmatic transaction control. 7) This is a common Spring gotcha - always be aware of proxy limitations. Create a post-mortem document for the team."
+          - generic [ref=e481]:
+            - generic [ref=e482]:
+              - generic [ref=e483] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e485]: DSA
+              - generic [ref=e486]: Hard
+            - generic [ref=e487]:
+              - paragraph [ref=e488]: Design distributed R-tree for processing 1M items with max flow. Handle node failures.
+              - generic [ref=e489]:
+                - button "Show Solution " [ref=e490] [cursor=pointer]:
+                  - generic [ref=e491]: Show Solution
+                  - generic [ref=e492]: 
+                - paragraph [ref=e493]: Advanced DS technique. Handle node failures with appropriate data structure. Consider distributed/parallel approach.
+          - generic [ref=e494]:
+            - generic [ref=e495]:
+              - generic [ref=e496] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e498]: AWS
+              - generic [ref=e499]: Medium
+            - generic [ref=e500]:
+              - paragraph [ref=e501]: Design an architecture using API Gateway, Aurora, and RDS for a data pipeline. How do they integrate?
+              - generic [ref=e502]:
+                - button "Show Solution " [ref=e503] [cursor=pointer]:
+                  - generic [ref=e504]: Show Solution
+                  - generic [ref=e505]: 
+                - paragraph [ref=e506]: "Architecture: API Gateway for compute/storage, Aurora for messaging/data, use IAM for security. Use VPC for networking. Auto-scale with load balancer. Monitor with CloudWatch. Follow AWS Well-Architected Framework."
+          - generic [ref=e507]:
+            - generic [ref=e508]:
+              - generic [ref=e509] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e511]: DSA
+              - generic [ref=e512]: Medium
+            - generic [ref=e513]:
+              - paragraph [ref=e514]: Implement graph that supports merge. Handle null input.
+              - generic [ref=e515]:
+                - button "Show Solution " [ref=e516] [cursor=pointer]:
+                  - generic [ref=e517]: Show Solution
+                  - generic [ref=e518]: 
+                - paragraph [ref=e519]: Apply optimal DS & algorithm. Focus on time complexity.
+          - generic [ref=e520]:
+            - generic [ref=e521]:
+              - generic [ref=e522] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e524]: Spring Boot
+              - generic [ref=e525]: Medium
+            - generic [ref=e526]:
+              - paragraph [ref=e527]: Design a REST API using Spring Boot with @Configuration. Handle caching responses. Explain the architecture pattern.
+              - generic [ref=e528]:
+                - button "Show Solution " [ref=e529] [cursor=pointer]:
+                  - generic [ref=e530]: Show Solution
+                  - generic [ref=e531]: 
+                - paragraph [ref=e532]: "Use layered architecture: Controller -> Service -> Repository. @Configuration enables specific functionality. Handle caching responses with proper configuration. Add error handling with @ControllerAdvice, caching with @Cacheable."
+          - generic [ref=e533]:
+            - generic [ref=e534]:
+              - generic [ref=e535] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e537]: Microservices
+              - generic [ref=e538]: Medium
+            - generic [ref=e539]:
+              - paragraph [ref=e540]: Explain the concept of a bounded context in Domain-Driven Design and its relevance to microservices.
+              - generic [ref=e541]:
+                - button "Show Solution " [ref=e542] [cursor=pointer]:
+                  - generic [ref=e543]: Show Solution
+                  - generic [ref=e544]: 
+                - paragraph [ref=e545]: A bounded context is a specific boundary within which a particular term or concept has a specific meaning, helping to define clear interfaces and responsibilities in microservices.
+          - generic [ref=e546]:
+            - generic [ref=e547]:
+              - generic [ref=e548] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e550]: MongoDB
+              - generic [ref=e551]: Easy
+            - generic [ref=e552]:
+              - paragraph [ref=e553]: Write a MongoDB query to delete documents in the 'inventory' collection where price = 100.
+              - generic [ref=e554]:
+                - button "Show Solution " [ref=e555] [cursor=pointer]:
+                  - generic [ref=e556]: Show Solution
+                  - generic [ref=e557]: 
+                - paragraph [ref=e558]: "db.inventory.delete({field: value}). Use $gt/$lt for comparisons. Add projection to limit fields. Use explain() to verify index usage."
+          - generic [ref=e559]:
+            - generic [ref=e560]:
+              - generic [ref=e561] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e563]: Kubernetes
+              - generic [ref=e564]: Hard
+            - generic [ref=e565]:
+              - paragraph [ref=e566]: Design a production-grade Kubernetes platform for 500+ developers. Use Service and HPA for isolation.
+              - generic [ref=e567]:
+                - button "Show Solution " [ref=e568] [cursor=pointer]:
+                  - generic [ref=e569]: Show Solution
+                  - generic [ref=e570]: 
+                - paragraph [ref=e571]: Cluster API for lifecycle. ArgoCD for GitOps. Service for workload. Istio for service mesh. OPA/Gatekeeper for policy. Prometheus/Grafana for monitoring. Fluentd + Elasticsearch for logging.
+        - button "+ Load More Questions" [ref=e306] [cursor=pointer]:
+          - generic [ref=e307]: +
+          - text: Load More Questions
+        - text: 
+  - text:  
+  - generic [ref=e308]:
+    - generic [ref=e309]:
+      - generic [ref=e310]: 
+      - generic [ref=e311]: "0"
+      - text: questions selected
+    - generic [ref=e312]:
+      - button " Clear" [ref=e313] [cursor=pointer]:
+        - generic [ref=e314]: 
+        - text: Clear
+      - button " Download DOCX" [ref=e315] [cursor=pointer]:
+        - generic [ref=e316]: 
+        - text: Download DOCX
+  - text:     

@@ -1,0 +1,450 @@
+- generic [ref=e3]:
+  - generic [ref=e637]:
+    - text: 👨‍💻 You're not alone! 38 other developers are getting interview-ready right now.
+    - generic [ref=e638]:
+      - generic [ref=e639]: Verified by Firebase
+      - img "firebase icon" [ref=e640]
+  - generic [ref=e5]:
+    - generic [ref=e7]:
+      - link "devinterview logo" [ref=e9] [cursor=pointer]:
+        - /url: /
+        - img "devinterview logo" [ref=e10]
+      - generic [ref=e11]:
+        - combobox "Select theme" [ref=e13] [cursor=pointer]:
+          - option "System" [selected]
+          - option "Light"
+          - option "Dark"
+        - button "Sign in" [ref=e16] [cursor=pointer]
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - img "star icon" [ref=e21]
+          - img "star icon" [ref=e22]
+          - img "star icon" [ref=e23]
+          - img "star icon" [ref=e24]
+          - img "star icon" [ref=e25]
+        - paragraph [ref=e26]: "\"Huge timesaver. Worth the money\""
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - img "star icon" [ref=e29]
+          - img "star icon" [ref=e30]
+          - img "star icon" [ref=e31]
+          - img "star icon" [ref=e32]
+          - img "star icon" [ref=e33]
+        - paragraph [ref=e34]: "\"It's an excellent tool\""
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - img "star icon" [ref=e37]
+          - img "star icon" [ref=e38]
+          - img "star icon" [ref=e39]
+          - img "star icon" [ref=e40]
+          - img "star icon" [ref=e41]
+        - paragraph [ref=e42]: "\"Fantastic catalogue of questions\""
+    - generic [ref=e43]:
+      - heading "Ace your next tech interview with confidence" [level=1] [ref=e44]
+      - heading "Explore our carefully curated catalog of interview essentials covering full-stack, data structures and algorithms, system design, data science, and machine learning interview questions" [level=2] [ref=e45]
+      - button "Start preparing now" [ref=e46] [cursor=pointer]
+  - generic [ref=e49]:
+    - generic [ref=e50]:
+      - generic [ref=e51]:
+        - link "Web & Mobile Dev" [ref=e52] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development
+          - generic [ref=e53]: Web & Mobile Dev
+        - link "Data Structures & Algorithms" [ref=e54] [cursor=pointer]:
+          - /url: /questions/data-structures-and-algorithms
+          - generic [ref=e55]: Data Structures & Algorithms
+        - link "System Design" [ref=e56] [cursor=pointer]:
+          - /url: /questions/software-architecture-and-system-design
+          - generic [ref=e57]: System Design
+        - link "Machine Learning & Data Science" [ref=e58] [cursor=pointer]:
+          - /url: /questions/machine-learning-and-data-science
+          - generic [ref=e59]: Machine Learning & Data Science
+        - link "Behavioral Questions" [ref=e60] [cursor=pointer]:
+          - /url: /questions/behavioral-questions
+          - generic [ref=e61]: Behavioral Questions
+      - generic [ref=e62]:
+        - link "topic icon Junior engineering (BQ)" [ref=e63] [cursor=pointer]:
+          - /url: /questions/behavioral-questions/behavioral-junior-interview-questions/
+          - img "topic icon" [ref=e64]
+          - generic [ref=e65]: Junior engineering (BQ)
+        - link "topic icon Senior engineering (BQ)" [ref=e66] [cursor=pointer]:
+          - /url: /questions/behavioral-questions/behavioral-senior-interview-questions/
+          - img "topic icon" [ref=e67]
+          - generic [ref=e68]: Senior engineering (BQ)
+        - link "topic icon Staff / principal (BQ)" [ref=e69] [cursor=pointer]:
+          - /url: /questions/behavioral-questions/behavioral-staff-interview-questions/
+          - img "topic icon" [ref=e70]
+          - generic [ref=e71]: Staff / principal (BQ)
+        - link "topic icon Engineering management (BQ)" [ref=e72] [cursor=pointer]:
+          - /url: /questions/behavioral-questions/behavioral-managerial-interview-questions/
+          - img "topic icon" [ref=e73]
+          - generic [ref=e74]: Engineering management (BQ)
+    - generic [ref=e75]:
+      - generic [ref=e76]:
+        - generic [ref=e77]:
+          - generic [ref=e78]:
+            - img "Junior engineering (BQ)" [ref=e79]
+            - heading "30 Junior engineering (BQ) interview questions" [level=1] [ref=e80]
+          - button "close button" [ref=e81] [cursor=pointer]:
+            - img "close button" [ref=e82]
+        - generic [ref=e83]:
+          - generic [ref=e84]:
+            - generic [ref=e87] [cursor=pointer]: Only coding challenges
+            - button "Reset progress" [ref=e90] [cursor=pointer]
+          - generic [ref=e92]:
+            - img "search bar icon" [ref=e94]
+            - textbox "search bar icon" [ref=e95]:
+              - /placeholder: Search...
+        - generic [ref=e98]:
+          - generic [ref=e99]: "Topic progress:"
+          - generic [ref=e100]: 0%
+      - main [ref=e103]:
+        - generic [ref=e104]:
+          - generic [ref=e105]:
+            - generic [ref=e106]:
+              - separator [ref=e107]
+              - heading "Adaptability and Learning Velocity" [level=2] [ref=e108]
+              - separator [ref=e109]
+            - list [ref=e110]:
+              - listitem [ref=e111]:
+                - article [ref=e112]:
+                  - generic [ref=e113] [cursor=pointer]:
+                    - generic [ref=e114]:
+                      - generic [ref=e115]: "1."
+                      - heading "Describe a time you had to learn a new programming language or framework quickly to complete a project." [level=3] [ref=e116]
+                    - button "Question" [ref=e119]
+                  - generic [ref=e123]: "Answer:"
+              - listitem [ref=e125]:
+                - article [ref=e126]:
+                  - generic [ref=e127] [cursor=pointer]:
+                    - generic [ref=e128]:
+                      - generic [ref=e129]: "2."
+                      - heading "Tell me about a time you received constructive feedback that was difficult to hear; how did you change your approach?" [level=3] [ref=e130]
+                    - button "Question" [ref=e133]
+                  - generic [ref=e137]: "Answer:"
+              - listitem [ref=e139]:
+                - article [ref=e140]:
+                  - generic [ref=e141] [cursor=pointer]:
+                    - generic [ref=e142]:
+                      - generic [ref=e143]: "3."
+                      - heading "Give an example of a technical concept you struggled to understand and the steps you took to master it." [level=3] [ref=e144]
+                    - button "Question" [ref=e147]
+                  - generic [ref=e151]: "Answer:"
+              - listitem [ref=e153]:
+                - article [ref=e154]:
+                  - generic [ref=e155] [cursor=pointer]:
+                    - generic [ref=e156]:
+                      - generic [ref=e157]: "4."
+                      - heading "Describe a situation where you had to pivot your strategy midway through a project because your initial approach wasn’t working." [level=3] [ref=e158]
+                    - button "Question" [ref=e161]
+                  - generic [ref=e165]: "Answer:"
+              - listitem [ref=e167]:
+                - article [ref=e168]:
+                  - generic [ref=e169] [cursor=pointer]:
+                    - generic [ref=e170]:
+                      - generic [ref=e171]: "5."
+                      - heading "How do you stay updated with new technologies while balancing your primary responsibilities?" [level=3] [ref=e172]
+                    - button "Question" [ref=e175]
+                  - generic [ref=e179]: "Answer:"
+          - generic [ref=e181]:
+            - generic [ref=e182]:
+              - separator [ref=e183]
+              - heading "Ownership and Execution" [level=2] [ref=e184]
+              - separator [ref=e185]
+            - list [ref=e186]:
+              - listitem [ref=e187]:
+                - article [ref=e188]:
+                  - generic [ref=e189] [cursor=pointer]:
+                    - generic [ref=e190]:
+                      - generic [ref=e191]: "6."
+                      - heading "Tell me about a small feature or task you owned from start to finish; what was your process for ensuring success?" [level=3] [ref=e192]
+                    - button "Question" [ref=e195]
+                  - generic [ref=e199]: "Answer:"
+              - listitem [ref=e201]:
+                - article [ref=e202]:
+                  - generic [ref=e203] [cursor=pointer]:
+                    - generic [ref=e204]:
+                      - generic [ref=e205]: "7."
+                      - heading "Describe a time you identified a bug or issue that wasn’t assigned to you; what did you do?" [level=3] [ref=e206]
+                    - button "Question" [ref=e209]
+                  - generic [ref=e213]: "Answer:"
+              - listitem [ref=e215]:
+                - article [ref=e216]:
+                  - generic [ref=e217] [cursor=pointer]:
+                    - generic [ref=e218]:
+                      - generic [ref=e219]: "8."
+                      - heading "Give an example of a time you were given a vague requirement; how did you clarify the scope to move forward?" [level=3] [ref=e220]
+                    - button "Question" [ref=e223]
+                  - generic [ref=e227]: "Answer:"
+              - listitem [ref=e229]:
+                - article [ref=e230]:
+                  - generic [ref=e231] [cursor=pointer]:
+                    - generic [ref=e232]:
+                      - generic [ref=e233]: "9."
+                      - heading "Describe a time you had to manage your own time to meet a tight deadline on a school or internship project." [level=3] [ref=e234]
+                    - button "Question" [ref=e237]
+                  - generic [ref=e241]: "Answer:"
+              - listitem [ref=e243]:
+                - article [ref=e244]:
+                  - generic [ref=e245] [cursor=pointer]:
+                    - generic [ref=e246]:
+                      - generic [ref=e247]: "10."
+                      - heading "How do you decide when to keep troubleshooting a problem on your own versus asking for help?" [level=3] [ref=e248]
+                    - button "Question" [ref=e251]
+                  - generic [ref=e255]: "Answer:"
+          - generic [ref=e257]:
+            - generic [ref=e258]:
+              - separator [ref=e259]
+              - heading "Collaboration and Teamwork" [level=2] [ref=e260]
+              - separator [ref=e261]
+            - list [ref=e262]:
+              - listitem [ref=e263]:
+                - article [ref=e264]:
+                  - generic [ref=e265] [cursor=pointer]:
+                    - generic [ref=e266]:
+                      - generic [ref=e267]: "11."
+                      - heading "Tell me about a time you worked on a team project where a peer wasn’t pulling their weight; how did you handle it?" [level=3] [ref=e268]
+                    - button "Question" [ref=e271]
+                  - generic [ref=e275]: "Answer:"
+              - listitem [ref=e277]:
+                - article [ref=e278]:
+                  - generic [ref=e279] [cursor=pointer]:
+                    - generic [ref=e280]:
+                      - generic [ref=e281]: "12."
+                      - heading "Describe a time you had to explain a complex technical problem to a non-technical stakeholder or team member." [level=3] [ref=e282]
+                    - button "Question" [ref=e285]
+                  - generic [ref=e289]: "Answer:"
+              - listitem [ref=e291]:
+                - article [ref=e292]:
+                  - generic [ref=e293] [cursor=pointer]:
+                    - generic [ref=e294]:
+                      - generic [ref=e295]: "13."
+                      - heading "Give an example of a time you had to integrate your work with code written by someone else." [level=3] [ref=e296]
+                    - button "Question" [ref=e299]
+                  - generic [ref=e303]: "Answer:"
+              - listitem [ref=e305]:
+                - article [ref=e306]:
+                  - generic [ref=e307] [cursor=pointer]:
+                    - generic [ref=e308]:
+                      - generic [ref=e309]: "14."
+                      - heading "Tell me about a time you disagreed with a team member’s technical approach; how did you resolve the conflict?" [level=3] [ref=e310]
+                    - button "Question" [ref=e313]
+                  - generic [ref=e317]: "Answer:"
+              - listitem [ref=e319]:
+                - article [ref=e320]:
+                  - generic [ref=e321] [cursor=pointer]:
+                    - generic [ref=e322]:
+                      - generic [ref=e323]: "15."
+                      - heading "How do you ensure your code is readable and maintainable for your teammates?" [level=3] [ref=e324]
+                    - button "Question" [ref=e327]
+                  - generic [ref=e331]: "Answer:"
+          - generic [ref=e333]:
+            - generic [ref=e334]:
+              - separator [ref=e335]
+              - heading "Problem Solving and Debugging" [level=2] [ref=e336]
+              - separator [ref=e337]
+            - list [ref=e338]:
+              - listitem [ref=e339]:
+                - article [ref=e340]:
+                  - generic [ref=e341] [cursor=pointer]:
+                    - generic [ref=e342]:
+                      - generic [ref=e343]: "16."
+                      - heading "Describe the most challenging bug you’ve encountered; how did you isolate the root cause?" [level=3] [ref=e344]
+                    - generic [ref=e345]:
+                      - img "Lock icon indicating premium question" [ref=e347]
+                      - button "Question" [ref=e349]
+                  - generic [ref=e353]: "Answer:"
+              - listitem [ref=e355]:
+                - article [ref=e356]:
+                  - generic [ref=e357] [cursor=pointer]:
+                    - generic [ref=e358]:
+                      - generic [ref=e359]: "17."
+                      - heading "Tell me about a time you had to work with a codebase that was poorly documented or messy." [level=3] [ref=e360]
+                    - generic [ref=e361]:
+                      - img "Lock icon indicating premium question" [ref=e363]
+                      - button "Question" [ref=e365]
+                  - generic [ref=e369]: "Answer:"
+              - listitem [ref=e371]:
+                - article [ref=e372]:
+                  - generic [ref=e373] [cursor=pointer]:
+                    - generic [ref=e374]:
+                      - generic [ref=e375]: "18."
+                      - heading "Give an example of a time you made a mistake in your code that made it into production (or a demo); how did you fix it?" [level=3] [ref=e376]
+                    - generic [ref=e377]:
+                      - img "Lock icon indicating premium question" [ref=e379]
+                      - button "Question" [ref=e381]
+                  - generic [ref=e385]: "Answer:"
+              - listitem [ref=e387]:
+                - article [ref=e388]:
+                  - generic [ref=e389] [cursor=pointer]:
+                    - generic [ref=e390]:
+                      - generic [ref=e391]: "19."
+                      - heading "Describe a time you had to prioritize which bugs or features to work on when everything felt like an emergency." [level=3] [ref=e392]
+                    - generic [ref=e393]:
+                      - img "Lock icon indicating premium question" [ref=e395]
+                      - button "Question" [ref=e397]
+                  - generic [ref=e401]: "Answer:"
+              - listitem [ref=e403]:
+                - article [ref=e404]:
+                  - generic [ref=e405] [cursor=pointer]:
+                    - generic [ref=e406]:
+                      - generic [ref=e407]: "20."
+                      - heading "Tell me about a project where the requirements changed halfway through; how did you adapt your code?" [level=3] [ref=e408]
+                    - generic [ref=e409]:
+                      - img "Lock icon indicating premium question" [ref=e411]
+                      - button "Question" [ref=e413]
+                  - generic [ref=e417]: "Answer:"
+          - generic [ref=e419]:
+            - generic [ref=e420]:
+              - separator [ref=e421]
+              - heading "Navigating Ambiguity and Growth" [level=2] [ref=e422]
+              - separator [ref=e423]
+            - list [ref=e424]:
+              - listitem [ref=e425]:
+                - article [ref=e426]:
+                  - generic [ref=e427] [cursor=pointer]:
+                    - generic [ref=e428]:
+                      - generic [ref=e429]: "21."
+                      - heading "Describe a time you were assigned a task you didn’t feel qualified to handle; how did you approach it?" [level=3] [ref=e430]
+                    - generic [ref=e431]:
+                      - img "Lock icon indicating premium question" [ref=e433]
+                      - button "Question" [ref=e435]
+                  - generic [ref=e439]: "Answer:"
+              - listitem [ref=e441]:
+                - article [ref=e442]:
+                  - generic [ref=e443] [cursor=pointer]:
+                    - generic [ref=e444]:
+                      - generic [ref=e445]: "22."
+                      - heading "Tell me about a time you had to rely on documentation or external resources to solve a problem you had never seen before." [level=3] [ref=e446]
+                    - generic [ref=e447]:
+                      - img "Lock icon indicating premium question" [ref=e449]
+                      - button "Question" [ref=e451]
+                  - generic [ref=e455]: "Answer:"
+              - listitem [ref=e457]:
+                - article [ref=e458]:
+                  - generic [ref=e459] [cursor=pointer]:
+                    - generic [ref=e460]:
+                      - generic [ref=e461]: "23."
+                      - heading "Give an example of a time you felt stuck on a task; what was your process for getting “unstuck”?" [level=3] [ref=e462]
+                    - generic [ref=e463]:
+                      - img "Lock icon indicating premium question" [ref=e465]
+                      - button "Question" [ref=e467]
+                  - generic [ref=e471]: "Answer:"
+              - listitem [ref=e473]:
+                - article [ref=e474]:
+                  - generic [ref=e475] [cursor=pointer]:
+                    - generic [ref=e476]:
+                      - generic [ref=e477]: "24."
+                      - heading "Describe a time you received a code review with significant critique; how did you process the feedback and update your work?" [level=3] [ref=e478]
+                    - generic [ref=e479]:
+                      - img "Lock icon indicating premium question" [ref=e481]
+                      - button "Question" [ref=e483]
+                  - generic [ref=e487]: "Answer:"
+              - listitem [ref=e489]:
+                - article [ref=e490]:
+                  - generic [ref=e491] [cursor=pointer]:
+                    - generic [ref=e492]:
+                      - generic [ref=e493]: "25."
+                      - heading "How do you balance the need for high-quality code with the need to move fast as a junior developer?" [level=3] [ref=e494]
+                    - generic [ref=e495]:
+                      - img "Lock icon indicating premium question" [ref=e497]
+                      - button "Question" [ref=e499]
+                  - generic [ref=e503]: "Answer:"
+          - generic [ref=e505]:
+            - generic [ref=e506]:
+              - separator [ref=e507]
+              - heading "Professionalism and Ethics" [level=2] [ref=e508]
+              - separator [ref=e509]
+            - list [ref=e510]:
+              - listitem [ref=e511]:
+                - article [ref=e512]:
+                  - generic [ref=e513] [cursor=pointer]:
+                    - generic [ref=e514]:
+                      - generic [ref=e515]: "26."
+                      - heading "Tell me about a time you realized you were going to miss a deadline; how did you communicate this to your lead?" [level=3] [ref=e516]
+                    - generic [ref=e517]:
+                      - img "Lock icon indicating premium question" [ref=e519]
+                      - button "Question" [ref=e521]
+                  - generic [ref=e525]: "Answer:"
+              - listitem [ref=e527]:
+                - article [ref=e528]:
+                  - generic [ref=e529] [cursor=pointer]:
+                    - generic [ref=e530]:
+                      - generic [ref=e531]: "27."
+                      - heading "Describe a situation where you saw a colleague do something that conflicted with best practices or team standards." [level=3] [ref=e532]
+                    - generic [ref=e533]:
+                      - img "Lock icon indicating premium question" [ref=e535]
+                      - button "Question" [ref=e537]
+                  - generic [ref=e541]: "Answer:"
+              - listitem [ref=e543]:
+                - article [ref=e544]:
+                  - generic [ref=e545] [cursor=pointer]:
+                    - generic [ref=e546]:
+                      - generic [ref=e547]: "28."
+                      - heading "Give an example of a time you had to balance your personal learning goals with the goals of the team." [level=3] [ref=e548]
+                    - generic [ref=e549]:
+                      - img "Lock icon indicating premium question" [ref=e551]
+                      - button "Question" [ref=e553]
+                  - generic [ref=e557]: "Answer:"
+              - listitem [ref=e559]:
+                - article [ref=e560]:
+                  - generic [ref=e561] [cursor=pointer]:
+                    - generic [ref=e562]:
+                      - generic [ref=e563]: "29."
+                      - heading "Describe a time you felt overwhelmed by your workload; how did you manage the stress and prioritize your tasks?" [level=3] [ref=e564]
+                    - generic [ref=e565]:
+                      - img "Lock icon indicating premium question" [ref=e567]
+                      - button "Question" [ref=e569]
+                  - generic [ref=e573]: "Answer:"
+              - listitem [ref=e575]:
+                - article [ref=e576]:
+                  - generic [ref=e577] [cursor=pointer]:
+                    - generic [ref=e578]:
+                      - generic [ref=e579]: "30."
+                      - heading "Tell me about a time you had to advocate for yourself when you didn’t have enough information to complete a task." [level=3] [ref=e580]
+                    - generic [ref=e581]:
+                      - img "Lock icon indicating premium question" [ref=e583]
+                      - button "Question" [ref=e585]
+                  - generic [ref=e589]: "Answer:"
+  - generic [ref=e593]:
+    - generic [ref=e594]:
+      - img "graph icon" [ref=e595]
+      - heading "Track progress" [level=1] [ref=e596]
+      - paragraph [ref=e598]: Simple interface helps to track your learning progress. Easily navigate through the wide range of questions and focus on key topics you need for your interview success.
+    - generic [ref=e599]:
+      - img "clock icon" [ref=e600]
+      - heading "Save time" [level=1] [ref=e601]
+      - paragraph [ref=e603]: Save countless hours searching for information on hundreds of low-quality sites designed to drive traffic and make money from advertising.
+  - generic [ref=e606]:
+    - paragraph [ref=e607]: Land a six-figure job at one of the top tech companies
+    - generic [ref=e608]:
+      - img "amazon logo" [ref=e609]
+      - img "meta logo" [ref=e610]
+      - img "google logo" [ref=e611]
+      - img "microsoft logo" [ref=e612]
+      - img "openai logo" [ref=e613]
+  - generic [ref=e615]:
+    - generic [ref=e616]: Ready to nail your next interview?
+    - heading "Stand out and get your dream job" [level=1] [ref=e617]
+    - button "Kickstart your prep" [ref=e618] [cursor=pointer]
+  - generic [ref=e621]:
+    - link "logo" [ref=e623] [cursor=pointer]:
+      - /url: /
+      - img "logo" [ref=e624]
+    - generic [ref=e625]:
+      - link "Blog" [ref=e626] [cursor=pointer]:
+        - /url: /blog-posts
+      - link "Terms of use" [ref=e627] [cursor=pointer]:
+        - /url: /terms/terms
+      - link "Privacy policy" [ref=e628] [cursor=pointer]:
+        - /url: /terms/privacy
+      - link "Pricing" [ref=e629] [cursor=pointer]:
+        - /url: /terms/pricing
+      - link "FAQs" [ref=e630] [cursor=pointer]:
+        - /url: /terms/faq
+      - link "Contact Us" [ref=e631] [cursor=pointer]:
+        - /url: /terms/contacts
+      - paragraph [ref=e632]: © 2026 Devinterview.io
+  - generic [ref=e633] [cursor=pointer]:
+    - img "scroll up button" [ref=e634]
+    - paragraph [ref=e635]: Go up

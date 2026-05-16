@@ -1,0 +1,361 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - generic [ref=e6]: 
+          - generic [ref=e7]: InterviewQ
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - generic [ref=e10]: "10308"
+            - generic [ref=e11]: Questions
+          - generic [ref=e12]:
+            - generic [ref=e13]: "14"
+            - generic [ref=e14]: Topics
+        - button "Toggle sidebar" [active] [ref=e315] [cursor=pointer]:
+          - generic [ref=e316]: 
+    - main [ref=e15]:
+      - complementary [ref=e16]:
+        - heading " Filters" [level=2] [ref=e18]:
+          - generic [ref=e19]: 
+          - text: Filters
+        - generic [ref=e20]:
+          - heading "Topic" [level=3] [ref=e21]
+          - generic [ref=e22]:
+            - generic [ref=e23] [cursor=pointer]:
+              - radio " All Topics 10308"
+              - generic [ref=e24]:
+                - generic [ref=e25]: 
+                - text: All Topics
+                - generic [ref=e26]: "10308"
+            - generic [ref=e27] [cursor=pointer]:
+              - radio " DSA 3398"
+              - generic [ref=e28]:
+                - generic [ref=e29]: 
+                - text: DSA
+                - generic [ref=e30]: "3398"
+            - generic [ref=e31] [cursor=pointer]:
+              - radio " Spring Boot 1666"
+              - generic [ref=e32]:
+                - generic [ref=e33]: 
+                - text: Spring Boot
+                - generic [ref=e34]: "1666"
+            - generic [ref=e35] [cursor=pointer]:
+              - radio " AWS 1430"
+              - generic [ref=e36]:
+                - generic [ref=e37]: 
+                - text: AWS
+                - generic [ref=e38]: "1430"
+            - generic [ref=e39] [cursor=pointer]:
+              - radio " MongoDB 1087"
+              - generic [ref=e40]:
+                - generic [ref=e41]: 
+                - text: MongoDB
+                - generic [ref=e42]: "1087"
+            - generic [ref=e43] [cursor=pointer]:
+              - radio " Troubleshooting 1060"
+              - generic [ref=e44]:
+                - generic [ref=e45]: 
+                - text: Troubleshooting
+                - generic [ref=e46]: "1060"
+            - generic [ref=e47] [cursor=pointer]:
+              - radio " Kubernetes 631"
+              - generic [ref=e48]:
+                - generic [ref=e49]: 
+                - text: Kubernetes
+                - generic [ref=e50]: "631"
+            - generic [ref=e51] [cursor=pointer]:
+              - radio " System Design 408"
+              - generic [ref=e52]:
+                - generic [ref=e53]: 
+                - text: System Design
+                - generic [ref=e54]: "408"
+            - generic [ref=e55] [cursor=pointer]:
+              - radio " Performance 205"
+              - generic [ref=e56]:
+                - generic [ref=e57]: 
+                - text: Performance
+                - generic [ref=e58]: "205"
+            - generic [ref=e59] [cursor=pointer]:
+              - radio " Backend Development 205"
+              - generic [ref=e60]:
+                - generic [ref=e61]: 
+                - text: Backend Development
+                - generic [ref=e62]: "205"
+            - generic [ref=e63] [cursor=pointer]:
+              - radio " Security 57"
+              - generic [ref=e64]:
+                - generic [ref=e65]: 
+                - text: Security
+                - generic [ref=e66]: "57"
+            - generic [ref=e67] [cursor=pointer]:
+              - radio " Docker 56"
+              - generic [ref=e68]:
+                - generic [ref=e69]: 
+                - text: Docker
+                - generic [ref=e70]: "56"
+            - generic [ref=e71] [cursor=pointer]:
+              - radio " Microservices 50" [checked]
+              - generic [ref=e72]:
+                - generic [ref=e73]: 
+                - text: Microservices
+                - generic [ref=e74]: "50"
+            - generic [ref=e75] [cursor=pointer]:
+              - radio " Generative AI 49"
+              - generic [ref=e76]:
+                - generic [ref=e77]: 
+                - text: Generative AI
+                - generic [ref=e78]: "49"
+            - generic [ref=e79] [cursor=pointer]:
+              - radio " HTML 6"
+              - generic [ref=e80]:
+                - generic [ref=e81]: 
+                - text: HTML
+                - generic [ref=e82]: "6"
+        - generic [ref=e83]:
+          - heading "Difficulty" [level=3] [ref=e84]
+          - generic [ref=e85]:
+            - generic [ref=e86] [cursor=pointer]:
+              - radio " All Levels" [checked]
+              - generic [ref=e87]:
+                - generic [ref=e88]: 
+                - text: All Levels
+            - generic [ref=e89] [cursor=pointer]:
+              - radio " Easy"
+              - generic [ref=e90]:
+                - generic [ref=e91]: 
+                - text: Easy
+            - generic [ref=e92] [cursor=pointer]:
+              - radio " Medium"
+              - generic [ref=e93]:
+                - generic [ref=e94]: 
+                - text: Medium
+            - generic [ref=e95] [cursor=pointer]:
+              - radio " Hard"
+              - generic [ref=e96]:
+                - generic [ref=e97]: 
+                - text: Hard
+        - button " Reset Filters" [ref=e99] [cursor=pointer]:
+          - generic [ref=e100]: 
+          - text: Reset Filters
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - generic [ref=e103]:
+            - generic [ref=e104]: 
+            - textbox "Search questions by scenario, technology, or keyword..." [ref=e105]
+            - text: 
+          - generic [ref=e106]: Showing 15 of 50 questions
+        - generic [ref=e107]:
+          - generic [ref=e318]:
+            - generic [ref=e319]:
+              - generic [ref=e320] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e322]: Microservices
+              - generic [ref=e323]: Medium
+            - generic [ref=e324]:
+              - paragraph [ref=e325]: What is API versioning, and why is it important in microservices?
+              - generic [ref=e326]:
+                - button "Show Solution " [ref=e327] [cursor=pointer]:
+                  - generic [ref=e328]: Show Solution
+                  - generic [ref=e329]: 
+                - paragraph [ref=e330]: API versioning is the practice of managing different versions of an API to ensure seamless communication between services as they evolve over time.
+          - generic [ref=e331]:
+            - generic [ref=e332]:
+              - generic [ref=e333] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e335]: Microservices
+              - generic [ref=e336]: Medium
+            - generic [ref=e337]:
+              - paragraph [ref=e338]: Explain the concept of eventual consistency in microservices.
+              - generic [ref=e339]:
+                - button "Show Solution " [ref=e340] [cursor=pointer]:
+                  - generic [ref=e341]: Show Solution
+                  - generic [ref=e342]: 
+                - paragraph [ref=e343]: Eventual consistency is the idea that, given enough time, all updates made to a distributed system will propagate and converge to a consistent state, even though intermediate states might be inconsistent.
+          - generic [ref=e344]:
+            - generic [ref=e345]:
+              - generic [ref=e346] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e348]: Microservices
+              - generic [ref=e349]: Medium
+            - generic [ref=e350]:
+              - paragraph [ref=e351]: What is the role of API documentation in microservices architecture?
+              - generic [ref=e352]:
+                - button "Show Solution " [ref=e353] [cursor=pointer]:
+                  - generic [ref=e354]: Show Solution
+                  - generic [ref=e355]: 
+                - paragraph [ref=e356]: API documentation is crucial to ensure that different teams can understand and interact with each other's microservices effectively.
+          - generic [ref=e357]:
+            - generic [ref=e358]:
+              - generic [ref=e359] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e361]: Microservices
+              - generic [ref=e362]: Medium
+            - generic [ref=e363]:
+              - paragraph [ref=e364]: How do you design microservices to scale effectively and ensure optimal performance under varying loads?
+              - generic [ref=e365]:
+                - button "Show Solution " [ref=e366] [cursor=pointer]:
+                  - generic [ref=e367]: Show Solution
+                  - generic [ref=e368]: 
+                - paragraph [ref=e369]: Utilize horizontal scaling by deploying multiple instances of each service. Design services to be stateless, leverage containerization, implement load balancing, employ caching, and auto-scale based on demand.
+          - generic [ref=e370]:
+            - generic [ref=e371]:
+              - generic [ref=e372] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e374]: Microservices
+              - generic [ref=e375]: Medium
+            - generic [ref=e376]:
+              - paragraph [ref=e377]: How do you design microservices for resiliency in the face of network failures?
+              - generic [ref=e378]:
+                - button "Show Solution " [ref=e379] [cursor=pointer]:
+                  - generic [ref=e380]: Show Solution
+                  - generic [ref=e381]: 
+                - paragraph [ref=e382]: Microservices should be designed to handle network failures gracefully, utilizing patterns like Circuit Breaker, Retry, and implementing fallback mechanisms.
+          - generic [ref=e383]:
+            - generic [ref=e384]:
+              - generic [ref=e385] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e387]: Microservices
+              - generic [ref=e388]: Medium
+            - generic [ref=e389]:
+              - paragraph [ref=e390]: What is the difference between stateless and stateful microservices?
+              - generic [ref=e391]:
+                - button "Show Solution " [ref=e392] [cursor=pointer]:
+                  - generic [ref=e393]: Show Solution
+                  - generic [ref=e394]: 
+                - paragraph [ref=e395]: Stateless microservices don't retain any client-specific data between requests, while stateful microservices maintain a client-specific state, often requiring more complex management.
+          - generic [ref=e396]:
+            - generic [ref=e397]:
+              - generic [ref=e398] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e400]: Microservices
+              - generic [ref=e401]: Medium
+            - generic [ref=e402]:
+              - paragraph [ref=e403]: Explain blue-green deployment in microservices.
+              - generic [ref=e404]:
+                - button "Show Solution " [ref=e405] [cursor=pointer]:
+                  - generic [ref=e406]: Show Solution
+                  - generic [ref=e407]: 
+                - paragraph [ref=e408]: Blue-green deployment involves running two identical environments - one serves production traffic (blue), while the other hosts a new version (green). Traffic is gradually switched, allowing seamless updates with minimal downtime.
+          - generic [ref=e409]:
+            - generic [ref=e410]:
+              - generic [ref=e411] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e413]: Microservices
+              - generic [ref=e414]: Medium
+            - generic [ref=e415]:
+              - paragraph [ref=e416]: Explain the concept of resilience in microservices.
+              - generic [ref=e417]:
+                - button "Show Solution " [ref=e418] [cursor=pointer]:
+                  - generic [ref=e419]: Show Solution
+                  - generic [ref=e420]: 
+                - paragraph [ref=e421]: Resilience refers to the system's ability to withstand and recover from failures, ensuring continued functionality despite adverse conditions in a distributed environment.
+          - generic [ref=e422]:
+            - generic [ref=e423]:
+              - generic [ref=e424] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e426]: Microservices
+              - generic [ref=e427]: Medium
+            - generic [ref=e428]:
+              - paragraph [ref=e429]: Explain the concept of a bounded context in Domain-Driven Design and its relevance to microservices.
+              - generic [ref=e430]:
+                - button "Show Solution " [ref=e431] [cursor=pointer]:
+                  - generic [ref=e432]: Show Solution
+                  - generic [ref=e433]: 
+                - paragraph [ref=e434]: A bounded context is a specific boundary within which a particular term or concept has a specific meaning, helping to define clear interfaces and responsibilities in microservices.
+          - generic [ref=e435]:
+            - generic [ref=e436]:
+              - generic [ref=e437] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e439]: Microservices
+              - generic [ref=e440]: Medium
+            - generic [ref=e441]:
+              - paragraph [ref=e442]: What is the role of a container in microservices architecture?
+              - generic [ref=e443]:
+                - button "Show Solution " [ref=e444] [cursor=pointer]:
+                  - generic [ref=e445]: Show Solution
+                  - generic [ref=e446]: 
+                - paragraph [ref=e447]: Containers, like Docker, encapsulate the application and its dependencies, ensuring consistent deployment across various environments.
+          - generic [ref=e448]:
+            - generic [ref=e449]:
+              - generic [ref=e450] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e452]: Microservices
+              - generic [ref=e453]: Medium
+            - generic [ref=e454]:
+              - paragraph [ref=e455]: What is the 12-factor app methodology, and why is it relevant to microservices?
+              - generic [ref=e456]:
+                - button "Show Solution " [ref=e457] [cursor=pointer]:
+                  - generic [ref=e458]: Show Solution
+                  - generic [ref=e459]: 
+                - paragraph [ref=e460]: The 12-factor app methodology is a set of best practices for building cloud-native applications that are scalable, maintainable, and resilient, covering codebase, dependencies, configuration, and more.
+          - generic [ref=e461]:
+            - generic [ref=e462]:
+              - generic [ref=e463] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e465]: Microservices
+              - generic [ref=e466]: Medium
+            - generic [ref=e467]:
+              - paragraph [ref=e468]: How do you handle data consistency in microservices?
+              - generic [ref=e469]:
+                - button "Show Solution " [ref=e470] [cursor=pointer]:
+                  - generic [ref=e471]: Show Solution
+                  - generic [ref=e472]: 
+                - paragraph [ref=e473]: Data consistency can be achieved through mechanisms like the Saga pattern, two-phase commits, or eventual consistency.
+          - generic [ref=e474]:
+            - generic [ref=e475]:
+              - generic [ref=e476] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e478]: Microservices
+              - generic [ref=e479]: Medium
+            - generic [ref=e480]:
+              - paragraph [ref=e481]: What is the role of a service mesh in microservices architecture?
+              - generic [ref=e482]:
+                - button "Show Solution " [ref=e483] [cursor=pointer]:
+                  - generic [ref=e484]: Show Solution
+                  - generic [ref=e485]: 
+                - paragraph [ref=e486]: A service mesh provides a dedicated infrastructure layer for handling service-to-service communication, offering features like load balancing, security, and observability.
+          - generic [ref=e487]:
+            - generic [ref=e488]:
+              - generic [ref=e489] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e491]: Microservices
+              - generic [ref=e492]: Medium
+            - generic [ref=e493]:
+              - paragraph [ref=e494]: What is the API Gateway pattern?
+              - generic [ref=e495]:
+                - button "Show Solution " [ref=e496] [cursor=pointer]:
+                  - generic [ref=e497]: Show Solution
+                  - generic [ref=e498]: 
+                - paragraph [ref=e499]: API Gateway acts as a single entry point for clients and routes requests to appropriate microservices, often handling authentication, rate limiting, and caching.
+          - generic [ref=e500]:
+            - generic [ref=e501]:
+              - generic [ref=e502] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e504]: Microservices
+              - generic [ref=e505]: Medium
+            - generic [ref=e506]:
+              - paragraph [ref=e507]: What are the benefits of using microservices architecture?
+              - generic [ref=e508]:
+                - button "Show Solution " [ref=e509] [cursor=pointer]:
+                  - generic [ref=e510]: Show Solution
+                  - generic [ref=e511]: 
+                - paragraph [ref=e512]: Microservices offer benefits like scalability, ease of maintenance, technology flexibility, and improved fault isolation.
+        - button "+ Load More Questions" [ref=e304] [cursor=pointer]:
+          - generic [ref=e305]: +
+          - text: Load More Questions
+        - text: 
+  - text:  
+  - generic [ref=e306]:
+    - generic [ref=e307]:
+      - generic [ref=e308]: 
+      - generic [ref=e309]: "0"
+      - text: questions selected
+    - generic [ref=e310]:
+      - button " Clear" [ref=e311] [cursor=pointer]:
+        - generic [ref=e312]: 
+        - text: Clear
+      - button " Download DOCX" [ref=e313] [cursor=pointer]:
+        - generic [ref=e314]: 
+        - text: Download DOCX
+  - text:     

@@ -1,0 +1,1970 @@
+- generic [ref=e3]:
+  - generic [ref=e5]:
+    - generic [ref=e7]:
+      - link "devinterview logo" [ref=e9] [cursor=pointer]:
+        - /url: /
+        - img "devinterview logo" [ref=e10]
+      - generic [ref=e11]:
+        - combobox "Select theme" [ref=e13] [cursor=pointer]:
+          - option "System" [selected]
+          - option "Light"
+          - option "Dark"
+        - button "Sign in" [ref=e16] [cursor=pointer]
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - img "star icon" [ref=e21]
+          - img "star icon" [ref=e22]
+          - img "star icon" [ref=e23]
+          - img "star icon" [ref=e24]
+          - img "star icon" [ref=e25]
+        - paragraph [ref=e26]: "\"Huge timesaver. Worth the money\""
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - img "star icon" [ref=e29]
+          - img "star icon" [ref=e30]
+          - img "star icon" [ref=e31]
+          - img "star icon" [ref=e32]
+          - img "star icon" [ref=e33]
+        - paragraph [ref=e34]: "\"It's an excellent tool\""
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - img "star icon" [ref=e37]
+          - img "star icon" [ref=e38]
+          - img "star icon" [ref=e39]
+          - img "star icon" [ref=e40]
+          - img "star icon" [ref=e41]
+        - paragraph [ref=e42]: "\"Fantastic catalogue of questions\""
+    - generic [ref=e43]:
+      - heading "Ace your next tech interview with confidence" [level=1] [ref=e44]
+      - heading "Explore our carefully curated catalog of interview essentials covering full-stack, data structures and algorithms, system design, data science, and machine learning interview questions" [level=2] [ref=e45]
+      - button "Start preparing now" [ref=e46] [cursor=pointer]
+  - generic [ref=e49]:
+    - generic [ref=e50]:
+      - generic [ref=e51]:
+        - link "Web & Mobile Dev" [ref=e52] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development
+          - generic [ref=e53]: Web & Mobile Dev
+        - link "Data Structures & Algorithms" [ref=e54] [cursor=pointer]:
+          - /url: /questions/data-structures-and-algorithms
+          - generic [ref=e55]: Data Structures & Algorithms
+        - link "System Design" [ref=e56] [cursor=pointer]:
+          - /url: /questions/software-architecture-and-system-design
+          - generic [ref=e57]: System Design
+        - link "Machine Learning & Data Science" [ref=e58] [cursor=pointer]:
+          - /url: /questions/machine-learning-and-data-science
+          - generic [ref=e59]: Machine Learning & Data Science
+        - link "Behavioral Questions" [ref=e60] [cursor=pointer]:
+          - /url: /questions/behavioral-questions
+          - generic [ref=e61]: Behavioral Questions
+      - generic [ref=e62]:
+        - link "topic icon ADO.NET" [ref=e63] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/ado-net-interview-questions/
+          - img "topic icon" [ref=e64]
+          - generic [ref=e65]: ADO.NET
+        - link "topic icon Agile & Scrum" [ref=e66] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/agile-and-scrum-interview-questions/
+          - img "topic icon" [ref=e67]
+          - generic [ref=e68]: Agile & Scrum
+        - link "topic icon Android" [ref=e69] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/android-interview-questions/
+          - img "topic icon" [ref=e70]
+          - generic [ref=e71]: Android
+        - link "topic icon Angular" [ref=e72] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/angular-interview-questions/
+          - img "topic icon" [ref=e73]
+          - generic [ref=e74]: Angular
+        - link "topic icon AngularJS" [ref=e75] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/angular-js-interview-questions/
+          - img "topic icon" [ref=e76]
+          - generic [ref=e77]: AngularJS
+        - link "topic icon ASP.NET" [ref=e78] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/asp-net-interview-questions/
+          - img "topic icon" [ref=e79]
+          - generic [ref=e80]: ASP.NET
+        - link "topic icon ASP.NET MVC" [ref=e81] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/asp-net-mvc-interview-questions/
+          - img "topic icon" [ref=e82]
+          - generic [ref=e83]: ASP.NET MVC
+        - link "topic icon ASP.NET Web API" [ref=e84] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/asp-net-web-api-interview-questions/
+          - img "topic icon" [ref=e85]
+          - generic [ref=e86]: ASP.NET Web API
+        - link "topic icon AWS" [ref=e87] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/aws-interview-questions/
+          - img "topic icon" [ref=e88]
+          - generic [ref=e89]: AWS
+        - link "topic icon Azure" [ref=e90] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/azure-interview-questions/
+          - img "topic icon" [ref=e91]
+          - generic [ref=e92]: Azure
+        - link "topic icon C++" [ref=e93] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/c++-interview-questions/
+          - img "topic icon" [ref=e94]
+          - generic [ref=e95]: C++
+        - link "topic icon C#" [ref=e96] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/c-sharp-interview-questions/
+          - img "topic icon" [ref=e97]
+          - generic [ref=e98]: C#
+        - link "topic icon Cosmos DB" [ref=e99] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/cosmos-db-interview-questions/
+          - img "topic icon" [ref=e100]
+          - generic [ref=e101]: Cosmos DB
+        - link "topic icon CSS" [ref=e102] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/css-interview-questions/
+          - img "topic icon" [ref=e103]
+          - generic [ref=e104]: CSS
+        - link "topic icon Dependency Injection" [ref=e105] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/dependency-injection-interview-questions/
+          - img "topic icon" [ref=e106]
+          - generic [ref=e107]: Dependency Injection
+        - link "topic icon DevOps" [ref=e108] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/devops-interview-questions/
+          - img "topic icon" [ref=e109]
+          - generic [ref=e110]: DevOps
+        - link "topic icon Django" [ref=e111] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/django-interview-questions/
+          - img "topic icon" [ref=e112]
+          - generic [ref=e113]: Django
+        - link "topic icon Entity Framework" [ref=e114] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/entity-framework-interview-questions/
+          - img "topic icon" [ref=e115]
+          - generic [ref=e116]: Entity Framework
+        - link "topic icon Express.js" [ref=e117] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/express-interview-questions/
+          - img "topic icon" [ref=e118]
+          - generic [ref=e119]: Express.js
+        - link "topic icon Flutter" [ref=e120] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/flutter-interview-questions/
+          - img "topic icon" [ref=e121]
+          - generic [ref=e122]: Flutter
+        - link "topic icon GIT" [ref=e123] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/git-interview-questions/
+          - img "topic icon" [ref=e124]
+          - generic [ref=e125]: GIT
+        - link "topic icon Golang" [ref=e126] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/golang-interview-questions/
+          - img "topic icon" [ref=e127]
+          - generic [ref=e128]: Golang
+        - link "topic icon GraphQL" [ref=e129] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/graphql-interview-questions/
+          - img "topic icon" [ref=e130]
+          - generic [ref=e131]: GraphQL
+        - link "topic icon HTML5" [ref=e132] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/html5-interview-questions/
+          - img "topic icon" [ref=e133]
+          - generic [ref=e134]: HTML5
+        - link "topic icon Ionic" [ref=e135] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/ionic-interview-questions/
+          - img "topic icon" [ref=e136]
+          - generic [ref=e137]: Ionic
+        - link "topic icon Java" [ref=e138] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/java-interview-questions/
+          - img "topic icon" [ref=e139]
+          - generic [ref=e140]: Java
+        - link "topic icon JavaScript" [ref=e141] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/javascript-interview-questions/
+          - img "topic icon" [ref=e142]
+          - generic [ref=e143]: JavaScript
+        - link "topic icon jQuery" [ref=e144] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/jquery-interview-questions/
+          - img "topic icon" [ref=e145]
+          - generic [ref=e146]: jQuery
+        - link "topic icon Kotlin" [ref=e147] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/kotlin-interview-questions/
+          - img "topic icon" [ref=e148]
+          - generic [ref=e149]: Kotlin
+        - link "topic icon Laravel" [ref=e150] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/laravel-interview-questions/
+          - img "topic icon" [ref=e151]
+          - generic [ref=e152]: Laravel
+        - link "topic icon LINQ" [ref=e153] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/linq-interview-questions/
+          - img "topic icon" [ref=e154]
+          - generic [ref=e155]: LINQ
+        - link "topic icon MongoDB" [ref=e156] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/mongodb-interview-questions/
+          - img "topic icon" [ref=e157]
+          - generic [ref=e158]: MongoDB
+        - link "topic icon .NET Core" [ref=e159] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/net-core-interview-questions/
+          - img "topic icon" [ref=e160]
+          - generic [ref=e161]: .NET Core
+        - link "topic icon Next.js" [ref=e162] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/next-interview-questions/
+          - img "topic icon" [ref=e163]
+          - generic [ref=e164]: Next.js
+        - link "topic icon Node.js" [ref=e165] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/node-interview-questions/
+          - img "topic icon" [ref=e166]
+          - generic [ref=e167]: Node.js
+        - link "topic icon Objective-C" [ref=e168] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/objective-c-interview-questions/
+          - img "topic icon" [ref=e169]
+          - generic [ref=e170]: Objective-C
+        - link "topic icon OOP" [ref=e171] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/oop-interview-questions/
+          - img "topic icon" [ref=e172]
+          - generic [ref=e173]: OOP
+        - link "topic icon PHP" [ref=e174] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/php-interview-questions/
+          - img "topic icon" [ref=e175]
+          - generic [ref=e176]: PHP
+        - link "topic icon PWA" [ref=e177] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/pwa-interview-questions/
+          - img "topic icon" [ref=e178]
+          - generic [ref=e179]: PWA
+        - link "topic icon Python" [ref=e180] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/python-interview-questions/
+          - img "topic icon" [ref=e181]
+          - generic [ref=e182]: Python
+        - link "topic icon React" [ref=e183] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/react-interview-questions/
+          - img "topic icon" [ref=e184]
+          - generic [ref=e185]: React
+        - link "topic icon React Native" [ref=e186] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/react-native-interview-questions/
+          - img "topic icon" [ref=e187]
+          - generic [ref=e188]: React Native
+        - link "topic icon Reactive Programming" [ref=e189] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/reactive-programming-interview-questions/
+          - img "topic icon" [ref=e190]
+          - generic [ref=e191]: Reactive Programming
+        - link "topic icon Reactive Systems" [ref=e192] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/reactive-systems-interview-questions/
+          - img "topic icon" [ref=e193]
+          - generic [ref=e194]: Reactive Systems
+        - link "topic icon Redis" [ref=e195] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/redis-interview-questions/
+          - img "topic icon" [ref=e196]
+          - generic [ref=e197]: Redis
+        - link "topic icon Redux" [ref=e198] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/redux-interview-questions/
+          - img "topic icon" [ref=e199]
+          - generic [ref=e200]: Redux
+        - link "topic icon Ruby" [ref=e201] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/ruby-interview-questions/
+          - img "topic icon" [ref=e202]
+          - generic [ref=e203]: Ruby
+        - link "topic icon Ruby on Rails" [ref=e204] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/ruby-on-rails-interview-questions/
+          - img "topic icon" [ref=e205]
+          - generic [ref=e206]: Ruby on Rails
+        - link "topic icon Rust" [ref=e207] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/rust-interview-questions/
+          - img "topic icon" [ref=e208]
+          - generic [ref=e209]: Rust
+        - link "topic icon Spring" [ref=e210] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/spring-interview-questions/
+          - img "topic icon" [ref=e211]
+          - generic [ref=e212]: Spring
+        - link "topic icon SQL" [ref=e213] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/sql-interview-questions/
+          - img "topic icon" [ref=e214]
+          - generic [ref=e215]: SQL
+        - link "topic icon Swift" [ref=e216] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/swift-interview-questions/
+          - img "topic icon" [ref=e217]
+          - generic [ref=e218]: Swift
+        - link "topic icon T-SQL" [ref=e219] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/t-sql-interview-questions/
+          - img "topic icon" [ref=e220]
+          - generic [ref=e221]: T-SQL
+        - link "topic icon Testing" [ref=e222] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/testing-interview-questions/
+          - img "topic icon" [ref=e223]
+          - generic [ref=e224]: Testing
+        - link "topic icon TypeScript" [ref=e225] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/typescript-interview-questions/
+          - img "topic icon" [ref=e226]
+          - generic [ref=e227]: TypeScript
+        - link "topic icon UX Design" [ref=e228] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/ux-design-interview-questions/
+          - img "topic icon" [ref=e229]
+          - generic [ref=e230]: UX Design
+        - link "topic icon Vue.js" [ref=e231] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/vue-interview-questions/
+          - img "topic icon" [ref=e232]
+          - generic [ref=e233]: Vue.js
+        - link "topic icon WCF" [ref=e234] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/wcf-interview-questions/
+          - img "topic icon" [ref=e235]
+          - generic [ref=e236]: WCF
+        - link "topic icon Web Security" [ref=e237] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/web-security-interview-questions/
+          - img "topic icon" [ref=e238]
+          - generic [ref=e239]: Web Security
+        - link "topic icon WebSockets" [ref=e240] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/websocket-interview-questions/
+          - img "topic icon" [ref=e241]
+          - generic [ref=e242]: WebSockets
+        - link "topic icon WPF" [ref=e243] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/wpf-interview-questions/
+          - img "topic icon" [ref=e244]
+          - generic [ref=e245]: WPF
+        - link "topic icon Xamarin" [ref=e246] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/xamarin-interview-questions/
+          - img "topic icon" [ref=e247]
+          - generic [ref=e248]: Xamarin
+    - generic [ref=e249]:
+      - generic [ref=e250]:
+        - generic [ref=e251]:
+          - generic [ref=e252]:
+            - img "React" [ref=e253]
+            - heading "100 React interview questions" [level=1] [ref=e254]
+          - button "close button" [ref=e255] [cursor=pointer]:
+            - img "close button" [ref=e256]
+        - generic [ref=e257]:
+          - generic [ref=e258]:
+            - generic [ref=e261] [cursor=pointer]: Only coding challenges
+            - button "Reset progress" [ref=e264] [cursor=pointer]
+          - generic [ref=e266]:
+            - img "search bar icon" [ref=e268]
+            - textbox "search bar icon" [ref=e269]:
+              - /placeholder: Search...
+        - generic [ref=e272]:
+          - generic [ref=e273]: "Topic progress:"
+          - generic [ref=e274]: 0%
+      - main [ref=e277]:
+        - generic [ref=e278]:
+          - generic [ref=e279]:
+            - generic [ref=e280]:
+              - separator [ref=e281]
+              - heading "React Basics" [level=2] [ref=e282]
+              - separator [ref=e283]
+            - list [ref=e284]:
+              - listitem [ref=e285]:
+                - article [ref=e286]:
+                  - generic [ref=e287] [cursor=pointer]:
+                    - generic [ref=e288]:
+                      - generic [ref=e289]: "1."
+                      - heading "What is React and why is it used?" [level=3] [ref=e290]:
+                        - text: What is
+                        - emphasis [ref=e291]: React
+                        - text: and why is it used?
+                    - button "Question" [ref=e294]
+                  - generic [ref=e298]: "Answer:"
+              - listitem [ref=e300]:
+                - article [ref=e301]:
+                  - generic [ref=e302] [cursor=pointer]:
+                    - generic [ref=e303]:
+                      - generic [ref=e304]: "2."
+                      - heading "How is React different from Angular or Vue?" [level=3] [ref=e305]:
+                        - text: How is
+                        - emphasis [ref=e306]: React
+                        - text: different from
+                        - emphasis [ref=e307]: Angular
+                        - text: or
+                        - emphasis [ref=e308]: Vue
+                        - text: "?"
+                    - button "Question" [ref=e311]
+                  - generic [ref=e315]: "Answer:"
+              - listitem [ref=e317]:
+                - article [ref=e318]:
+                  - generic [ref=e319] [cursor=pointer]:
+                    - generic [ref=e320]:
+                      - generic [ref=e321]: "3."
+                      - heading "What is a React component?" [level=3] [ref=e322]:
+                        - text: What is a
+                        - emphasis [ref=e323]: React component
+                        - text: "?"
+                    - button "Question" [ref=e326]
+                  - generic [ref=e330]: "Answer:"
+              - listitem [ref=e332]:
+                - article [ref=e333]:
+                  - generic [ref=e334] [cursor=pointer]:
+                    - generic [ref=e335]:
+                      - generic [ref=e336]: "4."
+                      - heading "How do you create a component in React?" [level=3] [ref=e337]:
+                        - text: How do you create a
+                        - emphasis [ref=e338]: component
+                        - text: in
+                        - emphasis [ref=e339]: React
+                        - text: "?"
+                    - button "Question" [ref=e342]
+                  - generic [ref=e346]: "Answer:"
+              - listitem [ref=e348]:
+                - article [ref=e349]:
+                  - generic [ref=e350] [cursor=pointer]:
+                    - generic [ref=e351]:
+                      - generic [ref=e352]: "5."
+                      - heading "What is JSX and why do we use it in React?" [level=3] [ref=e353]:
+                        - text: What is
+                        - emphasis [ref=e354]: JSX
+                        - text: and why do we use it in
+                        - emphasis [ref=e355]: React
+                        - text: "?"
+                    - button "Question" [ref=e358]
+                  - generic [ref=e362]: "Answer:"
+              - listitem [ref=e364]:
+                - article [ref=e365]:
+                  - generic [ref=e366] [cursor=pointer]:
+                    - generic [ref=e367]:
+                      - generic [ref=e368]: "6."
+                      - heading "Can you explain the virtual DOM in React?" [level=3] [ref=e369]:
+                        - text: Can you explain the
+                        - emphasis [ref=e370]: virtual DOM
+                        - text: in
+                        - emphasis [ref=e371]: React
+                        - text: "?"
+                    - button "Question" [ref=e374]
+                  - generic [ref=e378]: "Answer:"
+              - listitem [ref=e380]:
+                - article [ref=e381]:
+                  - generic [ref=e382] [cursor=pointer]:
+                    - generic [ref=e383]:
+                      - generic [ref=e384]: "7."
+                      - heading "What are the differences between a class component and a functional component?" [level=3] [ref=e385]:
+                        - text: What are the differences between a
+                        - emphasis [ref=e386]: class component
+                        - text: and a
+                        - emphasis [ref=e387]: functional component
+                        - text: "?"
+                    - button "Question" [ref=e390]
+                  - generic [ref=e394]: "Answer:"
+              - listitem [ref=e396]:
+                - article [ref=e397]:
+                  - generic [ref=e398] [cursor=pointer]:
+                    - generic [ref=e399]:
+                      - generic [ref=e400]: "8."
+                      - heading "How do you handle events in React?" [level=3] [ref=e401]:
+                        - text: How do you handle
+                        - emphasis [ref=e402]: events
+                        - text: in
+                        - emphasis [ref=e403]: React
+                        - text: "?"
+                    - button "Question" [ref=e406]
+                  - generic [ref=e410]: "Answer:"
+              - listitem [ref=e412]:
+                - article [ref=e413]:
+                  - generic [ref=e414] [cursor=pointer]:
+                    - generic [ref=e415]:
+                      - generic [ref=e416]: "9."
+                      - heading "What are state and props in React?" [level=3] [ref=e417]:
+                        - text: What are
+                        - emphasis [ref=e418]: state
+                        - text: and
+                        - emphasis [ref=e419]: props
+                        - text: in
+                        - emphasis [ref=e420]: React
+                        - text: "?"
+                    - button "Question" [ref=e423]
+                  - generic [ref=e427]: "Answer:"
+              - listitem [ref=e429]:
+                - article [ref=e430]:
+                  - generic [ref=e431] [cursor=pointer]:
+                    - generic [ref=e432]:
+                      - generic [ref=e433]: "10."
+                      - heading "How do you pass data between components in React?" [level=3] [ref=e434]:
+                        - text: How do you pass
+                        - emphasis [ref=e435]: data
+                        - text: between
+                        - emphasis [ref=e436]: components
+                        - text: in
+                        - emphasis [ref=e437]: React
+                        - text: "?"
+                    - button "Question" [ref=e440]
+                  - generic [ref=e444]: "Answer:"
+          - generic [ref=e446]:
+            - generic [ref=e447]:
+              - separator [ref=e448]
+              - heading "React State Management" [level=2] [ref=e449]
+              - separator [ref=e450]
+            - list [ref=e451]:
+              - listitem [ref=e452]:
+                - article [ref=e453]:
+                  - generic [ref=e454] [cursor=pointer]:
+                    - generic [ref=e455]:
+                      - generic [ref=e456]: "11."
+                      - heading "What is a stateful component?" [level=3] [ref=e457]:
+                        - text: What is a
+                        - emphasis [ref=e458]: stateful component
+                        - text: "?"
+                    - button "Question" [ref=e461]
+                  - generic [ref=e465]: "Answer:"
+              - listitem [ref=e467]:
+                - article [ref=e468]:
+                  - generic [ref=e469] [cursor=pointer]:
+                    - generic [ref=e470]:
+                      - generic [ref=e471]: "12."
+                      - heading "Can you explain how useState works?" [level=3] [ref=e472]:
+                        - text: Can you explain how
+                        - emphasis [ref=e473]: useState
+                        - text: works?
+                    - button "Question" [ref=e476]
+                  - generic [ref=e480]: "Answer:"
+              - listitem [ref=e482]:
+                - article [ref=e483]:
+                  - generic [ref=e484] [cursor=pointer]:
+                    - generic [ref=e485]:
+                      - generic [ref=e486]: "13."
+                      - heading "How do you update the state of a parent component from a child component?" [level=3] [ref=e487]:
+                        - text: How do you update the
+                        - emphasis [ref=e488]: state
+                        - text: of a
+                        - emphasis [ref=e489]: parent component
+                        - text: from a
+                        - emphasis [ref=e490]: child component
+                        - text: "?"
+                    - button "Question" [ref=e493]
+                  - generic [ref=e497]: "Answer:"
+              - listitem [ref=e499]:
+                - article [ref=e500]:
+                  - generic [ref=e501] [cursor=pointer]:
+                    - generic [ref=e502]:
+                      - generic [ref=e503]: "14."
+                      - heading "What is lifting state up in React?" [level=3] [ref=e504]:
+                        - text: What is
+                        - emphasis [ref=e505]: lifting state up
+                        - text: in
+                        - emphasis [ref=e506]: React
+                        - text: "?"
+                    - button "Question" [ref=e509]
+                  - generic [ref=e513]: "Answer:"
+              - listitem [ref=e515]:
+                - article [ref=e516]:
+                  - generic [ref=e517] [cursor=pointer]:
+                    - generic [ref=e518]:
+                      - generic [ref=e519]: "15."
+                      - heading "When do you use Redux or Context API for state management?" [level=3] [ref=e520]:
+                        - text: When do you use
+                        - emphasis [ref=e521]: Redux
+                        - text: or
+                        - emphasis [ref=e522]: Context API
+                        - text: for state management?
+                    - button "Question" [ref=e525]
+                  - generic [ref=e529]: "Answer:"
+          - generic [ref=e531]:
+            - generic [ref=e532]:
+              - separator [ref=e533]
+              - heading "React Lifecycle & Hooks" [level=2] [ref=e534]
+              - separator [ref=e535]
+            - list [ref=e536]:
+              - listitem [ref=e537]:
+                - article [ref=e538]:
+                  - generic [ref=e539] [cursor=pointer]:
+                    - generic [ref=e540]:
+                      - generic [ref=e541]: "16."
+                      - heading "Explain the lifecycle methods of a React class component." [level=3] [ref=e542]:
+                        - text: Explain the
+                        - emphasis [ref=e543]: lifecycle methods
+                        - text: of a
+                        - emphasis [ref=e544]: React class component
+                        - text: .
+                    - generic [ref=e545]:
+                      - img "Lock icon indicating premium question" [ref=e547]
+                      - button "Question" [ref=e549]
+                  - generic [ref=e553]: "Answer:"
+              - listitem [ref=e555]:
+                - article [ref=e556]:
+                  - generic [ref=e557] [cursor=pointer]:
+                    - generic [ref=e558]:
+                      - generic [ref=e559]: "17."
+                      - heading "How do hooks work in React?" [level=3] [ref=e560]:
+                        - text: How do
+                        - emphasis [ref=e561]: hooks
+                        - text: work in
+                        - emphasis [ref=e562]: React
+                        - text: "?"
+                    - generic [ref=e563]:
+                      - img "Lock icon indicating premium question" [ref=e565]
+                      - button "Question" [ref=e567]
+                  - generic [ref=e571]: "Answer:"
+              - listitem [ref=e573]:
+                - article [ref=e574]:
+                  - generic [ref=e575] [cursor=pointer]:
+                    - generic [ref=e576]:
+                      - generic [ref=e577]: "18."
+                      - heading "Can you describe the useEffect hook and its purpose?" [level=3] [ref=e578]:
+                        - text: Can you describe the
+                        - emphasis [ref=e579]: useEffect hook
+                        - text: and its purpose?
+                    - generic [ref=e580]:
+                      - img "Lock icon indicating premium question" [ref=e582]
+                      - button "Question" [ref=e584]
+                  - generic [ref=e588]: "Answer:"
+              - listitem [ref=e590]:
+                - article [ref=e591]:
+                  - generic [ref=e592] [cursor=pointer]:
+                    - generic [ref=e593]:
+                      - generic [ref=e594]: "19."
+                      - heading "How do you fetch data with hooks in React?" [level=3] [ref=e595]:
+                        - text: How do you
+                        - emphasis [ref=e596]: fetch data
+                        - text: with
+                        - emphasis [ref=e597]: hooks
+                        - text: in
+                        - emphasis [ref=e598]: React
+                        - text: "?"
+                    - generic [ref=e599]:
+                      - img "Lock icon indicating premium question" [ref=e601]
+                      - button "Question" [ref=e603]
+                  - generic [ref=e607]: "Answer:"
+              - listitem [ref=e609]:
+                - article [ref=e610]:
+                  - generic [ref=e611] [cursor=pointer]:
+                    - generic [ref=e612]:
+                      - generic [ref=e613]: "20."
+                      - heading "What rules do you have to follow when using hooks?" [level=3] [ref=e614]:
+                        - text: What rules do you have to follow when using
+                        - emphasis [ref=e615]: hooks
+                        - text: "?"
+                    - generic [ref=e616]:
+                      - img "Lock icon indicating premium question" [ref=e618]
+                      - button "Question" [ref=e620]
+                  - generic [ref=e624]: "Answer:"
+          - generic [ref=e626]:
+            - generic [ref=e627]:
+              - separator [ref=e628]
+              - heading "Component Communication" [level=2] [ref=e629]
+              - separator [ref=e630]
+            - list [ref=e631]:
+              - listitem [ref=e632]:
+                - article [ref=e633]:
+                  - generic [ref=e634] [cursor=pointer]:
+                    - generic [ref=e635]:
+                      - generic [ref=e636]: "21."
+                      - heading "How do props work in React?" [level=3] [ref=e637]:
+                        - text: How do
+                        - emphasis [ref=e638]: props
+                        - text: work in
+                        - emphasis [ref=e639]: React
+                        - text: "?"
+                    - generic [ref=e640]:
+                      - img "Lock icon indicating premium question" [ref=e642]
+                      - button "Question" [ref=e644]
+                  - generic [ref=e648]: "Answer:"
+              - listitem [ref=e650]:
+                - article [ref=e651]:
+                  - generic [ref=e652] [cursor=pointer]:
+                    - generic [ref=e653]:
+                      - generic [ref=e654]: "22."
+                      - heading "What is prop drilling and how can you avoid it?" [level=3] [ref=e655]:
+                        - text: What is
+                        - emphasis [ref=e656]: prop drilling
+                        - text: and how can you avoid it?
+                    - generic [ref=e657]:
+                      - img "Lock icon indicating premium question" [ref=e659]
+                      - button "Question" [ref=e661]
+                  - generic [ref=e665]: "Answer:"
+              - listitem [ref=e667]:
+                - article [ref=e668]:
+                  - generic [ref=e669] [cursor=pointer]:
+                    - generic [ref=e670]:
+                      - generic [ref=e671]: "23."
+                      - heading "Explain the Context API and its use cases." [level=3] [ref=e672]:
+                        - text: Explain the
+                        - emphasis [ref=e673]: Context API
+                        - text: and its use cases.
+                    - generic [ref=e674]:
+                      - img "Lock icon indicating premium question" [ref=e676]
+                      - button "Question" [ref=e678]
+                  - generic [ref=e682]: "Answer:"
+              - listitem [ref=e684]:
+                - article [ref=e685]:
+                  - generic [ref=e686] [cursor=pointer]:
+                    - generic [ref=e687]:
+                      - generic [ref=e688]: "24."
+                      - heading "How do you use render props?" [level=3] [ref=e689]:
+                        - text: How do you use
+                        - emphasis [ref=e690]: render props
+                        - text: "?"
+                    - generic [ref=e691]:
+                      - img "Lock icon indicating premium question" [ref=e693]
+                      - button "Question" [ref=e695]
+                  - generic [ref=e699]: "Answer:"
+              - listitem [ref=e701]:
+                - article [ref=e702]:
+                  - generic [ref=e703] [cursor=pointer]:
+                    - generic [ref=e704]:
+                      - generic [ref=e705]: "25."
+                      - heading "What is the children prop?" [level=3] [ref=e706]:
+                        - text: What is the
+                        - emphasis [ref=e707]: children prop
+                        - text: "?"
+                    - generic [ref=e708]:
+                      - img "Lock icon indicating premium question" [ref=e710]
+                      - button "Question" [ref=e712]
+                  - generic [ref=e716]: "Answer:"
+          - generic [ref=e718]:
+            - generic [ref=e719]:
+              - separator [ref=e720]
+              - heading "Performance Optimization" [level=2] [ref=e721]
+              - separator [ref=e722]
+            - list [ref=e723]:
+              - listitem [ref=e724]:
+                - article [ref=e725]:
+                  - generic [ref=e726] [cursor=pointer]:
+                    - generic [ref=e727]:
+                      - generic [ref=e728]: "26."
+                      - heading "Why is performance optimization important in React?" [level=3] [ref=e729]:
+                        - text: Why is
+                        - emphasis [ref=e730]: performance optimization
+                        - text: important in
+                        - emphasis [ref=e731]: React
+                        - text: "?"
+                    - generic [ref=e732]:
+                      - img "Lock icon indicating premium question" [ref=e734]
+                      - button "Question" [ref=e736]
+                  - generic [ref=e740]: "Answer:"
+              - listitem [ref=e742]:
+                - article [ref=e743]:
+                  - generic [ref=e744] [cursor=pointer]:
+                    - generic [ref=e745]:
+                      - generic [ref=e746]: "27."
+                      - heading "What is React.memo and when would you use it?" [level=3] [ref=e747]:
+                        - text: What is
+                        - emphasis [ref=e748]: React.memo
+                        - text: and when would you use it?
+                    - generic [ref=e749]:
+                      - img "Lock icon indicating premium question" [ref=e751]
+                      - button "Question" [ref=e753]
+                  - generic [ref=e757]: "Answer:"
+              - listitem [ref=e759]:
+                - article [ref=e760]:
+                  - generic [ref=e761] [cursor=pointer]:
+                    - generic [ref=e762]:
+                      - generic [ref=e763]: "28."
+                      - heading "How does PureComponent differ from Component in React?" [level=3] [ref=e764]:
+                        - text: How does
+                        - emphasis [ref=e765]: PureComponent
+                        - text: differ from
+                        - emphasis [ref=e766]: Component
+                        - text: in
+                        - emphasis [ref=e767]: React
+                        - text: "?"
+                    - generic [ref=e768]:
+                      - img "Lock icon indicating premium question" [ref=e770]
+                      - button "Question" [ref=e772]
+                  - generic [ref=e776]: "Answer:"
+              - listitem [ref=e778]:
+                - article [ref=e779]:
+                  - generic [ref=e780] [cursor=pointer]:
+                    - generic [ref=e781]:
+                      - generic [ref=e782]: "29."
+                      - heading "Can you explain the concept of reconciliation in React?" [level=3] [ref=e783]:
+                        - text: Can you explain the concept of
+                        - emphasis [ref=e784]: reconciliation
+                        - text: in
+                        - emphasis [ref=e785]: React
+                        - text: "?"
+                    - generic [ref=e786]:
+                      - img "Lock icon indicating premium question" [ref=e788]
+                      - button "Question" [ref=e790]
+                  - generic [ref=e794]: "Answer:"
+              - listitem [ref=e796]:
+                - article [ref=e797]:
+                  - generic [ref=e798] [cursor=pointer]:
+                    - generic [ref=e799]:
+                      - generic [ref=e800]: "30."
+                      - heading "How can you prevent unnecessary re-renders in React?" [level=3] [ref=e801]:
+                        - text: How can you prevent unnecessary
+                        - emphasis [ref=e802]: re-renders
+                        - text: in
+                        - emphasis [ref=e803]: React
+                        - text: "?"
+                    - generic [ref=e804]:
+                      - img "Lock icon indicating premium question" [ref=e806]
+                      - button "Question" [ref=e808]
+                  - generic [ref=e812]: "Answer:"
+          - generic [ref=e814]:
+            - generic [ref=e815]:
+              - separator [ref=e816]
+              - heading "Styling in React" [level=2] [ref=e817]
+              - separator [ref=e818]
+            - list [ref=e819]:
+              - listitem [ref=e820]:
+                - article [ref=e821]:
+                  - generic [ref=e822] [cursor=pointer]:
+                    - generic [ref=e823]:
+                      - generic [ref=e824]: "31."
+                      - heading "How do you apply styles in a React application?" [level=3] [ref=e825]:
+                        - text: How do you apply
+                        - emphasis [ref=e826]: styles
+                        - text: in a
+                        - emphasis [ref=e827]: React application
+                        - text: "?"
+                    - generic [ref=e828]:
+                      - img "Lock icon indicating premium question" [ref=e830]
+                      - button "Question" [ref=e832]
+                  - generic [ref=e836]: "Answer:"
+              - listitem [ref=e838]:
+                - article [ref=e839]:
+                  - generic [ref=e840] [cursor=pointer]:
+                    - generic [ref=e841]:
+                      - generic [ref=e842]: "32."
+                      - heading "What is CSS-in-JS and how do you implement it in React?" [level=3] [ref=e843]:
+                        - text: What is
+                        - emphasis [ref=e844]: CSS-in-JS
+                        - text: and how do you implement it in
+                        - emphasis [ref=e845]: React
+                        - text: "?"
+                    - generic [ref=e846]:
+                      - img "Lock icon indicating premium question" [ref=e848]
+                      - button "Question" [ref=e850]
+                  - generic [ref=e854]: "Answer:"
+              - listitem [ref=e856]:
+                - article [ref=e857]:
+                  - generic [ref=e858] [cursor=pointer]:
+                    - generic [ref=e859]:
+                      - generic [ref=e860]: "33."
+                      - heading "Can you describe how Styled-Components work?" [level=3] [ref=e861]:
+                        - text: Can you describe how
+                        - emphasis [ref=e862]: Styled-Components
+                        - text: work?
+                    - generic [ref=e863]:
+                      - img "Lock icon indicating premium question" [ref=e865]
+                      - button "Question" [ref=e867]
+                  - generic [ref=e871]: "Answer:"
+              - listitem [ref=e873]:
+                - article [ref=e874]:
+                  - generic [ref=e875] [cursor=pointer]:
+                    - generic [ref=e876]:
+                      - generic [ref=e877]: "34."
+                      - heading "What are the advantages of using Sass or LESS in a React project?" [level=3] [ref=e878]:
+                        - text: What are the advantages of using
+                        - emphasis [ref=e879]: Sass
+                        - text: or
+                        - emphasis [ref=e880]: LESS
+                        - text: in a
+                        - emphasis [ref=e881]: React project
+                        - text: "?"
+                    - generic [ref=e882]:
+                      - img "Lock icon indicating premium question" [ref=e884]
+                      - button "Question" [ref=e886]
+                  - generic [ref=e890]: "Answer:"
+              - listitem [ref=e892]:
+                - article [ref=e893]:
+                  - generic [ref=e894] [cursor=pointer]:
+                    - generic [ref=e895]:
+                      - generic [ref=e896]: "35."
+                      - heading "How do you use inline styles in React?" [level=3] [ref=e897]:
+                        - text: How do you use
+                        - emphasis [ref=e898]: inline styles
+                        - text: in
+                        - emphasis [ref=e899]: React
+                        - text: "?"
+                    - generic [ref=e900]:
+                      - img "Lock icon indicating premium question" [ref=e902]
+                      - button "Question" [ref=e904]
+                  - generic [ref=e908]: "Answer:"
+          - generic [ref=e910]:
+            - generic [ref=e911]:
+              - separator [ref=e912]
+              - heading "React Routing" [level=2] [ref=e913]
+              - separator [ref=e914]
+            - list [ref=e915]:
+              - listitem [ref=e916]:
+                - article [ref=e917]:
+                  - generic [ref=e918] [cursor=pointer]:
+                    - generic [ref=e919]:
+                      - generic [ref=e920]: "36."
+                      - heading "What is React Router?" [level=3] [ref=e921]:
+                        - text: What is
+                        - emphasis [ref=e922]: React Router
+                        - text: "?"
+                    - generic [ref=e923]:
+                      - img "Lock icon indicating premium question" [ref=e925]
+                      - button "Question" [ref=e927]
+                  - generic [ref=e931]: "Answer:"
+              - listitem [ref=e933]:
+                - article [ref=e934]:
+                  - generic [ref=e935] [cursor=pointer]:
+                    - generic [ref=e936]:
+                      - generic [ref=e937]: "37."
+                      - heading "How do you create dynamic routes in React?" [level=3] [ref=e938]:
+                        - text: How do you create
+                        - emphasis [ref=e939]: dynamic routes
+                        - text: in
+                        - emphasis [ref=e940]: React
+                        - text: "?"
+                    - generic [ref=e941]:
+                      - img "Lock icon indicating premium question" [ref=e943]
+                      - button "Question" [ref=e945]
+                  - generic [ref=e949]: "Answer:"
+              - listitem [ref=e951]:
+                - article [ref=e952]:
+                  - generic [ref=e953] [cursor=pointer]:
+                    - generic [ref=e954]:
+                      - generic [ref=e955]: "38."
+                      - heading "How would you pass data to routes in React Router v5+?" [level=3] [ref=e956]:
+                        - text: How would you pass
+                        - emphasis [ref=e957]: data
+                        - text: to
+                        - emphasis [ref=e958]: routes
+                        - text: in
+                        - emphasis [ref=e959]: React Router v5+
+                        - text: "?"
+                    - generic [ref=e960]:
+                      - img "Lock icon indicating premium question" [ref=e962]
+                      - button "Question" [ref=e964]
+                  - generic [ref=e968]: "Answer:"
+              - listitem [ref=e970]:
+                - article [ref=e971]:
+                  - generic [ref=e972] [cursor=pointer]:
+                    - generic [ref=e973]:
+                      - generic [ref=e974]: "39."
+                      - heading "How do you programmatically navigate using React Router?" [level=3] [ref=e975]:
+                        - text: How do you programmatically navigate using
+                        - emphasis [ref=e976]: React Router
+                        - text: "?"
+                    - generic [ref=e977]:
+                      - img "Lock icon indicating premium question" [ref=e979]
+                      - button "Question" [ref=e981]
+                  - generic [ref=e985]: "Answer:"
+              - listitem [ref=e987]:
+                - article [ref=e988]:
+                  - generic [ref=e989] [cursor=pointer]:
+                    - generic [ref=e990]:
+                      - generic [ref=e991]: "40."
+                      - heading "What are route guards and how can you implement them in React?" [level=3] [ref=e992]:
+                        - text: What are
+                        - emphasis [ref=e993]: route guards
+                        - text: and how can you implement them in
+                        - emphasis [ref=e994]: React
+                        - text: "?"
+                    - generic [ref=e995]:
+                      - img "Lock icon indicating premium question" [ref=e997]
+                      - button "Question" [ref=e999]
+                  - generic [ref=e1003]: "Answer:"
+          - generic [ref=e1005]:
+            - generic [ref=e1006]:
+              - separator [ref=e1007]
+              - heading "React Patterns" [level=2] [ref=e1008]
+              - separator [ref=e1009]
+            - list [ref=e1010]:
+              - listitem [ref=e1011]:
+                - article [ref=e1012]:
+                  - generic [ref=e1013] [cursor=pointer]:
+                    - generic [ref=e1014]:
+                      - generic [ref=e1015]: "41."
+                      - heading "What are higher-order components (HOCs)?" [level=3] [ref=e1016]:
+                        - text: What are
+                        - emphasis [ref=e1017]: higher-order components (HOCs)
+                        - text: "?"
+                    - generic [ref=e1018]:
+                      - img "Lock icon indicating premium question" [ref=e1020]
+                      - button "Question" [ref=e1022]
+                  - generic [ref=e1026]: "Answer:"
+              - listitem [ref=e1028]:
+                - article [ref=e1029]:
+                  - generic [ref=e1030] [cursor=pointer]:
+                    - generic [ref=e1031]:
+                      - generic [ref=e1032]: "42."
+                      - heading "Explain the container/presenter (smart/dumb) component pattern." [level=3] [ref=e1033]:
+                        - text: Explain the
+                        - emphasis [ref=e1034]: container/presenter
+                        - text: (smart/dumb) component pattern.
+                    - generic [ref=e1035]:
+                      - img "Lock icon indicating premium question" [ref=e1037]
+                      - button "Question" [ref=e1039]
+                  - generic [ref=e1043]: "Answer:"
+              - listitem [ref=e1045]:
+                - article [ref=e1046]:
+                  - generic [ref=e1047] [cursor=pointer]:
+                    - generic [ref=e1048]:
+                      - generic [ref=e1049]: "43."
+                      - heading "How would you implement a compound component pattern in React?" [level=3] [ref=e1050]:
+                        - text: How would you implement a
+                        - emphasis [ref=e1051]: compound component pattern
+                        - text: in
+                        - emphasis [ref=e1052]: React
+                        - text: "?"
+                    - generic [ref=e1053]:
+                      - img "Lock icon indicating premium question" [ref=e1055]
+                      - button "Question" [ref=e1057]
+                  - generic [ref=e1061]: "Answer:"
+              - listitem [ref=e1063]:
+                - article [ref=e1064]:
+                  - generic [ref=e1065] [cursor=pointer]:
+                    - generic [ref=e1066]:
+                      - generic [ref=e1067]: "44."
+                      - heading "Explain the use of custom hooks in React." [level=3] [ref=e1068]:
+                        - text: Explain the use of
+                        - emphasis [ref=e1069]: custom hooks
+                        - text: in
+                        - emphasis [ref=e1070]: React
+                        - text: .
+                    - generic [ref=e1071]:
+                      - img "Lock icon indicating premium question" [ref=e1073]
+                      - button "Question" [ref=e1075]
+                  - generic [ref=e1079]: "Answer:"
+              - listitem [ref=e1081]:
+                - article [ref=e1082]:
+                  - generic [ref=e1083] [cursor=pointer]:
+                    - generic [ref=e1084]:
+                      - generic [ref=e1085]: "45."
+                      - heading "What is a render prop pattern?" [level=3] [ref=e1086]:
+                        - text: What is a
+                        - emphasis [ref=e1087]: render prop pattern
+                        - text: "?"
+                    - generic [ref=e1088]:
+                      - img "Lock icon indicating premium question" [ref=e1090]
+                      - button "Question" [ref=e1092]
+                  - generic [ref=e1096]: "Answer:"
+          - generic [ref=e1098]:
+            - generic [ref=e1099]:
+              - separator [ref=e1100]
+              - heading "Form Handling" [level=2] [ref=e1101]
+              - separator [ref=e1102]
+            - list [ref=e1103]:
+              - listitem [ref=e1104]:
+                - article [ref=e1105]:
+                  - generic [ref=e1106] [cursor=pointer]:
+                    - generic [ref=e1107]:
+                      - generic [ref=e1108]: "46."
+                      - heading "How do you handle forms in React?" [level=3] [ref=e1109]:
+                        - text: How do you handle
+                        - emphasis [ref=e1110]: forms
+                        - text: in
+                        - emphasis [ref=e1111]: React
+                        - text: "?"
+                    - generic [ref=e1112]:
+                      - img "Lock icon indicating premium question" [ref=e1114]
+                      - button "Question" [ref=e1116]
+                  - generic [ref=e1120]: "Answer:"
+              - listitem [ref=e1122]:
+                - article [ref=e1123]:
+                  - generic [ref=e1124] [cursor=pointer]:
+                    - generic [ref=e1125]:
+                      - generic [ref=e1126]: "47."
+                      - heading "What is controlled and uncontrolled components?" [level=3] [ref=e1127]:
+                        - text: What is
+                        - emphasis [ref=e1128]: controlled
+                        - text: and
+                        - emphasis [ref=e1129]: uncontrolled components
+                        - text: "?"
+                    - generic [ref=e1130]:
+                      - img "Lock icon indicating premium question" [ref=e1132]
+                      - button "Question" [ref=e1134]
+                  - generic [ref=e1138]: "Answer:"
+              - listitem [ref=e1140]:
+                - article [ref=e1141]:
+                  - generic [ref=e1142] [cursor=pointer]:
+                    - generic [ref=e1143]:
+                      - generic [ref=e1144]: "48."
+                      - heading "How do you validate forms in React?" [level=3] [ref=e1145]:
+                        - text: How do you
+                        - emphasis [ref=e1146]: validate forms
+                        - text: in
+                        - emphasis [ref=e1147]: React
+                        - text: "?"
+                    - generic [ref=e1148]:
+                      - img "Lock icon indicating premium question" [ref=e1150]
+                      - button "Question" [ref=e1152]
+                  - generic [ref=e1156]: "Answer:"
+              - listitem [ref=e1158]:
+                - article [ref=e1159]:
+                  - generic [ref=e1160] [cursor=pointer]:
+                    - generic [ref=e1161]:
+                      - generic [ref=e1162]: "49."
+                      - heading "What is Formik and how is it used in React forms?" [level=3] [ref=e1163]:
+                        - text: What is
+                        - emphasis [ref=e1164]: Formik
+                        - text: and how is it used in
+                        - emphasis [ref=e1165]: React forms
+                        - text: "?"
+                    - generic [ref=e1166]:
+                      - img "Lock icon indicating premium question" [ref=e1168]
+                      - button "Question" [ref=e1170]
+                  - generic [ref=e1174]: "Answer:"
+              - listitem [ref=e1176]:
+                - article [ref=e1177]:
+                  - generic [ref=e1178] [cursor=pointer]:
+                    - generic [ref=e1179]:
+                      - generic [ref=e1180]: "50."
+                      - heading "How do you handle file uploads in React?" [level=3] [ref=e1181]:
+                        - text: How do you handle
+                        - emphasis [ref=e1182]: file uploads
+                        - text: in
+                        - emphasis [ref=e1183]: React
+                        - text: "?"
+                    - generic [ref=e1184]:
+                      - img "Lock icon indicating premium question" [ref=e1186]
+                      - button "Question" [ref=e1188]
+                  - generic [ref=e1192]: "Answer:"
+          - generic [ref=e1194]:
+            - generic [ref=e1195]:
+              - separator [ref=e1196]
+              - heading "React with TypeScript" [level=2] [ref=e1197]
+              - separator [ref=e1198]
+            - list [ref=e1199]:
+              - listitem [ref=e1200]:
+                - article [ref=e1201]:
+                  - generic [ref=e1202] [cursor=pointer]:
+                    - generic [ref=e1203]:
+                      - generic [ref=e1204]: "51."
+                      - heading "What are the benefits of using TypeScript with React?" [level=3] [ref=e1205]:
+                        - text: What are the benefits of using
+                        - emphasis [ref=e1206]: TypeScript
+                        - text: with
+                        - emphasis [ref=e1207]: React
+                        - text: "?"
+                    - generic [ref=e1208]:
+                      - img "Lock icon indicating premium question" [ref=e1210]
+                      - button "Question" [ref=e1212]
+                  - generic [ref=e1216]: "Answer:"
+              - listitem [ref=e1218]:
+                - article [ref=e1219]:
+                  - generic [ref=e1220] [cursor=pointer]:
+                    - generic [ref=e1221]:
+                      - generic [ref=e1222]: "52."
+                      - heading "How do you define types for props and state in TypeScript with React?" [level=3] [ref=e1223]:
+                        - text: How do you define
+                        - emphasis [ref=e1224]: types
+                        - text: for
+                        - emphasis [ref=e1225]: props
+                        - text: and
+                        - emphasis [ref=e1226]: state
+                        - text: in
+                        - emphasis [ref=e1227]: TypeScript
+                        - text: with
+                        - emphasis [ref=e1228]: React
+                        - text: "?"
+                    - generic [ref=e1229]:
+                      - img "Lock icon indicating premium question" [ref=e1231]
+                      - button "Question" [ref=e1233]
+                  - generic [ref=e1237]: "Answer:"
+              - listitem [ref=e1239]:
+                - article [ref=e1240]:
+                  - generic [ref=e1241] [cursor=pointer]:
+                    - generic [ref=e1242]:
+                      - generic [ref=e1243]: "53."
+                      - heading "Explain how to use interfaces with React components and TypeScript." [level=3] [ref=e1244]:
+                        - text: Explain how to use
+                        - emphasis [ref=e1245]: interfaces
+                        - text: with
+                        - emphasis [ref=e1246]: React components
+                        - text: and
+                        - emphasis [ref=e1247]: TypeScript
+                        - text: .
+                    - generic [ref=e1248]:
+                      - img "Lock icon indicating premium question" [ref=e1250]
+                      - button "Question" [ref=e1252]
+                  - generic [ref=e1256]: "Answer:"
+              - listitem [ref=e1258]:
+                - article [ref=e1259]:
+                  - generic [ref=e1260] [cursor=pointer]:
+                    - generic [ref=e1261]:
+                      - generic [ref=e1262]: "54."
+                      - heading "How do TypeScript generics enhance react components?" [level=3] [ref=e1263]:
+                        - text: How do
+                        - emphasis [ref=e1264]: TypeScript generics
+                        - text: enhance
+                        - emphasis [ref=e1265]: react components
+                        - text: "?"
+                    - generic [ref=e1266]:
+                      - img "Lock icon indicating premium question" [ref=e1268]
+                      - button "Question" [ref=e1270]
+                  - generic [ref=e1274]: "Answer:"
+          - generic [ref=e1276]:
+            - generic [ref=e1277]:
+              - separator [ref=e1278]
+              - heading "Testing in React" [level=2] [ref=e1279]
+              - separator [ref=e1280]
+            - list [ref=e1281]:
+              - listitem [ref=e1282]:
+                - article [ref=e1283]:
+                  - generic [ref=e1284] [cursor=pointer]:
+                    - generic [ref=e1285]:
+                      - generic [ref=e1286]: "55."
+                      - heading "Why is testing important in React?" [level=3] [ref=e1287]:
+                        - text: Why is
+                        - emphasis [ref=e1288]: testing
+                        - text: important in
+                        - emphasis [ref=e1289]: React
+                        - text: "?"
+                    - generic [ref=e1290]:
+                      - img "Lock icon indicating premium question" [ref=e1292]
+                      - button "Question" [ref=e1294]
+                  - generic [ref=e1298]: "Answer:"
+              - listitem [ref=e1300]:
+                - article [ref=e1301]:
+                  - generic [ref=e1302] [cursor=pointer]:
+                    - generic [ref=e1303]:
+                      - generic [ref=e1304]: "56."
+                      - heading "What are some common testing libraries for React?" [level=3] [ref=e1305]:
+                        - text: What are some common
+                        - emphasis [ref=e1306]: testing libraries
+                        - text: for
+                        - emphasis [ref=e1307]: React
+                        - text: "?"
+                    - generic [ref=e1308]:
+                      - img "Lock icon indicating premium question" [ref=e1310]
+                      - button "Question" [ref=e1312]
+                  - generic [ref=e1316]: "Answer:"
+              - listitem [ref=e1318]:
+                - article [ref=e1319]:
+                  - generic [ref=e1320] [cursor=pointer]:
+                    - generic [ref=e1321]:
+                      - generic [ref=e1322]: "57."
+                      - heading "How do you test a React component with Jest?" [level=3] [ref=e1323]:
+                        - text: How do you test a
+                        - emphasis [ref=e1324]: React component
+                        - text: with
+                        - emphasis [ref=e1325]: Jest
+                        - text: "?"
+                    - generic [ref=e1326]:
+                      - img "Lock icon indicating premium question" [ref=e1328]
+                      - button "Question" [ref=e1330]
+                  - generic [ref=e1334]: "Answer:"
+              - listitem [ref=e1336]:
+                - article [ref=e1337]:
+                  - generic [ref=e1338] [cursor=pointer]:
+                    - generic [ref=e1339]:
+                      - generic [ref=e1340]: "58."
+                      - heading "Can you explain the difference between shallow rendering and mount rendering in Enzyme?" [level=3] [ref=e1341]:
+                        - text: Can you explain the difference between
+                        - emphasis [ref=e1342]: shallow rendering
+                        - text: and
+                        - emphasis [ref=e1343]: mount rendering
+                        - text: in
+                        - emphasis [ref=e1344]: Enzyme
+                        - text: "?"
+                    - generic [ref=e1345]:
+                      - img "Lock icon indicating premium question" [ref=e1347]
+                      - button "Question" [ref=e1349]
+                  - generic [ref=e1353]: "Answer:"
+              - listitem [ref=e1355]:
+                - article [ref=e1356]:
+                  - generic [ref=e1357] [cursor=pointer]:
+                    - generic [ref=e1358]:
+                      - generic [ref=e1359]: "59."
+                      - heading "What is react-testing-library and how is it different from Enzyme?" [level=3] [ref=e1360]:
+                        - text: What is
+                        - emphasis [ref=e1361]: react-testing-library
+                        - text: and how is it different from
+                        - emphasis [ref=e1362]: Enzyme
+                        - text: "?"
+                    - generic [ref=e1363]:
+                      - img "Lock icon indicating premium question" [ref=e1365]
+                      - button "Question" [ref=e1367]
+                  - generic [ref=e1371]: "Answer:"
+          - generic [ref=e1373]:
+            - generic [ref=e1374]:
+              - separator [ref=e1375]
+              - heading "Advanced React Topics" [level=2] [ref=e1376]
+              - separator [ref=e1377]
+            - list [ref=e1378]:
+              - listitem [ref=e1379]:
+                - article [ref=e1380]:
+                  - generic [ref=e1381] [cursor=pointer]:
+                    - generic [ref=e1382]:
+                      - generic [ref=e1383]: "60."
+                      - heading "What are React fragments and why are they useful?" [level=3] [ref=e1384]:
+                        - text: What are
+                        - emphasis [ref=e1385]: React fragments
+                        - text: and why are they useful?
+                    - generic [ref=e1386]:
+                      - img "Lock icon indicating premium question" [ref=e1388]
+                      - button "Question" [ref=e1390]
+                  - generic [ref=e1394]: "Answer:"
+              - listitem [ref=e1396]:
+                - article [ref=e1397]:
+                  - generic [ref=e1398] [cursor=pointer]:
+                    - generic [ref=e1399]:
+                      - generic [ref=e1400]: "61."
+                      - heading "What is React portal and when would you use it?" [level=3] [ref=e1401]:
+                        - text: What is
+                        - emphasis [ref=e1402]: React portal
+                        - text: and when would you use it?
+                    - generic [ref=e1403]:
+                      - img "Lock icon indicating premium question" [ref=e1405]
+                      - button "Question" [ref=e1407]
+                  - generic [ref=e1411]: "Answer:"
+              - listitem [ref=e1413]:
+                - article [ref=e1414]:
+                  - generic [ref=e1415] [cursor=pointer]:
+                    - generic [ref=e1416]:
+                      - generic [ref=e1417]: "62."
+                      - heading "How does error boundary work in React?" [level=3] [ref=e1418]:
+                        - text: How does
+                        - emphasis [ref=e1419]: error boundary
+                        - text: work in
+                        - emphasis [ref=e1420]: React
+                        - text: "?"
+                    - generic [ref=e1421]:
+                      - img "Lock icon indicating premium question" [ref=e1423]
+                      - button "Question" [ref=e1425]
+                  - generic [ref=e1429]: "Answer:"
+              - listitem [ref=e1431]:
+                - article [ref=e1432]:
+                  - generic [ref=e1433] [cursor=pointer]:
+                    - generic [ref=e1434]:
+                      - generic [ref=e1435]: "63."
+                      - heading "What is server-side rendering and how is it done with React?" [level=3] [ref=e1436]:
+                        - text: What is
+                        - emphasis [ref=e1437]: server-side rendering
+                        - text: and how is it done with
+                        - emphasis [ref=e1438]: React
+                        - text: "?"
+                    - generic [ref=e1439]:
+                      - img "Lock icon indicating premium question" [ref=e1441]
+                      - button "Question" [ref=e1443]
+                  - generic [ref=e1447]: "Answer:"
+              - listitem [ref=e1449]:
+                - article [ref=e1450]:
+                  - generic [ref=e1451] [cursor=pointer]:
+                    - generic [ref=e1452]:
+                      - generic [ref=e1453]: "64."
+                      - heading "Can you explain the concept of suspense and lazy loading in React?" [level=3] [ref=e1454]:
+                        - text: Can you explain the concept of
+                        - emphasis [ref=e1455]: suspense
+                        - text: and
+                        - emphasis [ref=e1456]: lazy loading
+                        - text: in
+                        - emphasis [ref=e1457]: React
+                        - text: "?"
+                    - generic [ref=e1458]:
+                      - img "Lock icon indicating premium question" [ref=e1460]
+                      - button "Question" [ref=e1462]
+                  - generic [ref=e1466]: "Answer:"
+          - generic [ref=e1468]:
+            - generic [ref=e1469]:
+              - separator [ref=e1470]
+              - heading "React and SEO" [level=2] [ref=e1471]
+              - separator [ref=e1472]
+            - list [ref=e1473]:
+              - listitem [ref=e1474]:
+                - article [ref=e1475]:
+                  - generic [ref=e1476] [cursor=pointer]:
+                    - generic [ref=e1477]:
+                      - generic [ref=e1478]: "65."
+                      - heading "How does React affect SEO?" [level=3] [ref=e1479]:
+                        - text: How does
+                        - emphasis [ref=e1480]: React
+                        - text: affect
+                        - emphasis [ref=e1481]: SEO
+                        - text: "?"
+                    - generic [ref=e1482]:
+                      - img "Lock icon indicating premium question" [ref=e1484]
+                      - button "Question" [ref=e1486]
+                  - generic [ref=e1490]: "Answer:"
+              - listitem [ref=e1492]:
+                - article [ref=e1493]:
+                  - generic [ref=e1494] [cursor=pointer]:
+                    - generic [ref=e1495]:
+                      - generic [ref=e1496]: "66."
+                      - heading "What strategies would you use to make a React application SEO-friendly?" [level=3] [ref=e1497]:
+                        - text: What strategies would you use to make a
+                        - emphasis [ref=e1498]: React application
+                        - emphasis [ref=e1499]: SEO-friendly
+                        - text: "?"
+                    - generic [ref=e1500]:
+                      - img "Lock icon indicating premium question" [ref=e1502]
+                      - button "Question" [ref=e1504]
+                  - generic [ref=e1508]: "Answer:"
+              - listitem [ref=e1510]:
+                - article [ref=e1511]:
+                  - generic [ref=e1512] [cursor=pointer]:
+                    - generic [ref=e1513]:
+                      - generic [ref=e1514]: "67."
+                      - heading "How can server-side rendering improve SEO with React applications?" [level=3] [ref=e1515]:
+                        - text: How can
+                        - emphasis [ref=e1516]: server-side rendering
+                        - text: improve
+                        - emphasis [ref=e1517]: SEO
+                        - text: with
+                        - emphasis [ref=e1518]: React applications
+                        - text: "?"
+                    - generic [ref=e1519]:
+                      - img "Lock icon indicating premium question" [ref=e1521]
+                      - button "Question" [ref=e1523]
+                  - generic [ref=e1527]: "Answer:"
+          - generic [ref=e1529]:
+            - generic [ref=e1530]:
+              - separator [ref=e1531]
+              - heading "React Native" [level=2] [ref=e1532]
+              - separator [ref=e1533]
+            - list [ref=e1534]:
+              - listitem [ref=e1535]:
+                - article [ref=e1536]:
+                  - generic [ref=e1537] [cursor=pointer]:
+                    - generic [ref=e1538]:
+                      - generic [ref=e1539]: "68."
+                      - heading "What is React Native and how is it different from React?" [level=3] [ref=e1540]:
+                        - text: What is
+                        - emphasis [ref=e1541]: React Native
+                        - text: and how is it different from
+                        - emphasis [ref=e1542]: React
+                        - text: "?"
+                    - generic [ref=e1543]:
+                      - img "Lock icon indicating premium question" [ref=e1545]
+                      - button "Question" [ref=e1547]
+                  - generic [ref=e1551]: "Answer:"
+              - listitem [ref=e1553]:
+                - article [ref=e1554]:
+                  - generic [ref=e1555] [cursor=pointer]:
+                    - generic [ref=e1556]:
+                      - generic [ref=e1557]: "69."
+                      - heading "How do you bridge native modules in React Native?" [level=3] [ref=e1558]:
+                        - text: How do you bridge
+                        - emphasis [ref=e1559]: native modules
+                        - text: in
+                        - emphasis [ref=e1560]: React Native
+                        - text: "?"
+                    - generic [ref=e1561]:
+                      - img "Lock icon indicating premium question" [ref=e1563]
+                      - button "Question" [ref=e1565]
+                  - generic [ref=e1569]: "Answer:"
+              - listitem [ref=e1571]:
+                - article [ref=e1572]:
+                  - generic [ref=e1573] [cursor=pointer]:
+                    - generic [ref=e1574]:
+                      - generic [ref=e1575]: "70."
+                      - heading "Can you describe the layout system in React Native?" [level=3] [ref=e1576]:
+                        - text: Can you describe the
+                        - emphasis [ref=e1577]: layout system
+                        - text: in
+                        - emphasis [ref=e1578]: React Native
+                        - text: "?"
+                    - generic [ref=e1579]:
+                      - img "Lock icon indicating premium question" [ref=e1581]
+                      - button "Question" [ref=e1583]
+                  - generic [ref=e1587]: "Answer:"
+          - generic [ref=e1589]:
+            - generic [ref=e1590]:
+              - separator [ref=e1591]
+              - heading "State Management Libraries & GraphQL" [level=2] [ref=e1592]
+              - separator [ref=e1593]
+            - list [ref=e1594]:
+              - listitem [ref=e1595]:
+                - article [ref=e1596]:
+                  - generic [ref=e1597] [cursor=pointer]:
+                    - generic [ref=e1598]:
+                      - generic [ref=e1599]: "71."
+                      - heading "What is Apollo Client and how does it integrate with React?" [level=3] [ref=e1600]:
+                        - text: What is
+                        - emphasis [ref=e1601]: Apollo Client
+                        - text: and how does it integrate with
+                        - emphasis [ref=e1602]: React
+                        - text: "?"
+                    - generic [ref=e1603]:
+                      - img "Lock icon indicating premium question" [ref=e1605]
+                      - button "Question" [ref=e1607]
+                  - generic [ref=e1611]: "Answer:"
+              - listitem [ref=e1613]:
+                - article [ref=e1614]:
+                  - generic [ref=e1615] [cursor=pointer]:
+                    - generic [ref=e1616]:
+                      - generic [ref=e1617]: "72."
+                      - heading "How do you manage local state in Apollo Client?" [level=3] [ref=e1618]:
+                        - text: How do you manage
+                        - emphasis [ref=e1619]: local state
+                        - text: in
+                        - emphasis [ref=e1620]: Apollo Client
+                        - text: "?"
+                    - generic [ref=e1621]:
+                      - img "Lock icon indicating premium question" [ref=e1623]
+                      - button "Question" [ref=e1625]
+                  - generic [ref=e1629]: "Answer:"
+              - listitem [ref=e1631]:
+                - article [ref=e1632]:
+                  - generic [ref=e1633] [cursor=pointer]:
+                    - generic [ref=e1634]:
+                      - generic [ref=e1635]: "73."
+                      - heading "What is Redux and how does it contrast with the Context API?" [level=3] [ref=e1636]:
+                        - text: What is
+                        - emphasis [ref=e1637]: Redux
+                        - text: and how does it contrast with the
+                        - emphasis [ref=e1638]: Context API
+                        - text: "?"
+                    - generic [ref=e1639]:
+                      - img "Lock icon indicating premium question" [ref=e1641]
+                      - button "Question" [ref=e1643]
+                  - generic [ref=e1647]: "Answer:"
+              - listitem [ref=e1649]:
+                - article [ref=e1650]:
+                  - generic [ref=e1651] [cursor=pointer]:
+                    - generic [ref=e1652]:
+                      - generic [ref=e1653]: "74."
+                      - heading "Can you detail the Redux workflow?" [level=3] [ref=e1654]:
+                        - text: Can you detail the
+                        - emphasis [ref=e1655]: Redux workflow
+                        - text: "?"
+                    - generic [ref=e1656]:
+                      - img "Lock icon indicating premium question" [ref=e1658]
+                      - button "Question" [ref=e1660]
+                  - generic [ref=e1664]: "Answer:"
+              - listitem [ref=e1666]:
+                - article [ref=e1667]:
+                  - generic [ref=e1668] [cursor=pointer]:
+                    - generic [ref=e1669]:
+                      - generic [ref=e1670]: "75."
+                      - heading "How do you handle side effects in Redux applications?" [level=3] [ref=e1671]:
+                        - text: How do you handle
+                        - emphasis [ref=e1672]: side effects
+                        - text: in
+                        - emphasis [ref=e1673]: Redux applications
+                        - text: "?"
+                    - generic [ref=e1674]:
+                      - img "Lock icon indicating premium question" [ref=e1676]
+                      - button "Question" [ref=e1678]
+                  - generic [ref=e1682]: "Answer:"
+          - generic [ref=e1684]:
+            - generic [ref=e1685]:
+              - separator [ref=e1686]
+              - heading "React Development Environment & Tooling" [level=2] [ref=e1687]
+              - separator [ref=e1688]
+            - list [ref=e1689]:
+              - listitem [ref=e1690]:
+                - article [ref=e1691]:
+                  - generic [ref=e1692] [cursor=pointer]:
+                    - generic [ref=e1693]:
+                      - generic [ref=e1694]: "76."
+                      - heading "How do you set up a React project from scratch?" [level=3] [ref=e1695]:
+                        - text: How do you set up a
+                        - emphasis [ref=e1696]: React project
+                        - text: from scratch?
+                    - generic [ref=e1697]:
+                      - img "Lock icon indicating premium question" [ref=e1699]
+                      - button "Question" [ref=e1701]
+                  - generic [ref=e1705]: "Answer:"
+              - listitem [ref=e1707]:
+                - article [ref=e1708]:
+                  - generic [ref=e1709] [cursor=pointer]:
+                    - generic [ref=e1710]:
+                      - generic [ref=e1711]: "77."
+                      - heading "What is Babel and why do we use it with React?" [level=3] [ref=e1712]:
+                        - text: What is
+                        - emphasis [ref=e1713]: Babel
+                        - text: and why do we use it with
+                        - emphasis [ref=e1714]: React
+                        - text: "?"
+                    - generic [ref=e1715]:
+                      - img "Lock icon indicating premium question" [ref=e1717]
+                      - button "Question" [ref=e1719]
+                  - generic [ref=e1723]: "Answer:"
+              - listitem [ref=e1725]:
+                - article [ref=e1726]:
+                  - generic [ref=e1727] [cursor=pointer]:
+                    - generic [ref=e1728]:
+                      - generic [ref=e1729]: "78."
+                      - heading "What is Webpack and what role does it play in React development?" [level=3] [ref=e1730]:
+                        - text: What is
+                        - emphasis [ref=e1731]: Webpack
+                        - text: and what role does it play in
+                        - emphasis [ref=e1732]: React development
+                        - text: "?"
+                    - generic [ref=e1733]:
+                      - img "Lock icon indicating premium question" [ref=e1735]
+                      - button "Question" [ref=e1737]
+                  - generic [ref=e1741]: "Answer:"
+              - listitem [ref=e1743]:
+                - article [ref=e1744]:
+                  - generic [ref=e1745] [cursor=pointer]:
+                    - generic [ref=e1746]:
+                      - generic [ref=e1747]: "79."
+                      - heading "How does hot module replacement work in React?" [level=3] [ref=e1748]:
+                        - text: How does
+                        - emphasis [ref=e1749]: hot module replacement
+                        - text: work in
+                        - emphasis [ref=e1750]: React
+                        - text: "?"
+                    - generic [ref=e1751]:
+                      - img "Lock icon indicating premium question" [ref=e1753]
+                      - button "Question" [ref=e1755]
+                  - generic [ref=e1759]: "Answer:"
+              - listitem [ref=e1761]:
+                - article [ref=e1762]:
+                  - generic [ref=e1763] [cursor=pointer]:
+                    - generic [ref=e1764]:
+                      - generic [ref=e1765]: "80."
+                      - heading "What are the features of create-react-app and how do you eject from it?" [level=3] [ref=e1766]:
+                        - text: What are the features of
+                        - emphasis [ref=e1767]: create-react-app
+                        - text: and how do you
+                        - emphasis [ref=e1768]: eject
+                        - text: from it?
+                    - generic [ref=e1769]:
+                      - img "Lock icon indicating premium question" [ref=e1771]
+                      - button "Question" [ref=e1773]
+                  - generic [ref=e1777]: "Answer:"
+          - generic [ref=e1779]:
+            - generic [ref=e1780]:
+              - separator [ref=e1781]
+              - heading "Integrations and API Handling" [level=2] [ref=e1782]
+              - separator [ref=e1783]
+            - list [ref=e1784]:
+              - listitem [ref=e1785]:
+                - article [ref=e1786]:
+                  - generic [ref=e1787] [cursor=pointer]:
+                    - generic [ref=e1788]:
+                      - generic [ref=e1789]: "81."
+                      - heading "How do you handle API calls in React?" [level=3] [ref=e1790]:
+                        - text: How do you handle
+                        - emphasis [ref=e1791]: API calls
+                        - text: in
+                        - emphasis [ref=e1792]: React
+                        - text: "?"
+                    - generic [ref=e1793]:
+                      - img "Lock icon indicating premium question" [ref=e1795]
+                      - button "Question" [ref=e1797]
+                  - generic [ref=e1801]: "Answer:"
+              - listitem [ref=e1803]:
+                - article [ref=e1804]:
+                  - generic [ref=e1805] [cursor=pointer]:
+                    - generic [ref=e1806]:
+                      - generic [ref=e1807]: "82."
+                      - heading "What is Axios and how is it used over fetch in React applications?" [level=3] [ref=e1808]:
+                        - text: What is
+                        - emphasis [ref=e1809]: Axios
+                        - text: and how is it used over
+                        - emphasis [ref=e1810]: fetch
+                        - text: in
+                        - emphasis [ref=e1811]: React applications
+                        - text: "?"
+                    - generic [ref=e1812]:
+                      - img "Lock icon indicating premium question" [ref=e1814]
+                      - button "Question" [ref=e1816]
+                  - generic [ref=e1820]: "Answer:"
+              - listitem [ref=e1822]:
+                - article [ref=e1823]:
+                  - generic [ref=e1824] [cursor=pointer]:
+                    - generic [ref=e1825]:
+                      - generic [ref=e1826]: "83."
+                      - heading "How would you handle WebSocket connections in a React application?" [level=3] [ref=e1827]:
+                        - text: How would you handle
+                        - emphasis [ref=e1828]: WebSocket connections
+                        - text: in a
+                        - emphasis [ref=e1829]: React application
+                        - text: "?"
+                    - generic [ref=e1830]:
+                      - img "Lock icon indicating premium question" [ref=e1832]
+                      - button "Question" [ref=e1834]
+                  - generic [ref=e1838]: "Answer:"
+              - listitem [ref=e1840]:
+                - article [ref=e1841]:
+                  - generic [ref=e1842] [cursor=pointer]:
+                    - generic [ref=e1843]:
+                      - generic [ref=e1844]: "84."
+                      - heading "What are some strategies used to connect a React front end to a backend server?" [level=3] [ref=e1845]:
+                        - text: What are some strategies used to connect a
+                        - emphasis [ref=e1846]: React front end
+                        - text: to a
+                        - emphasis [ref=e1847]: backend server
+                        - text: "?"
+                    - generic [ref=e1848]:
+                      - img "Lock icon indicating premium question" [ref=e1850]
+                      - button "Question" [ref=e1852]
+                  - generic [ref=e1856]: "Answer:"
+          - generic [ref=e1858]:
+            - generic [ref=e1859]:
+              - separator [ref=e1860]
+              - heading "Deployment and Optimization" [level=2] [ref=e1861]
+              - separator [ref=e1862]
+            - list [ref=e1863]:
+              - listitem [ref=e1864]:
+                - article [ref=e1865]:
+                  - generic [ref=e1866] [cursor=pointer]:
+                    - generic [ref=e1867]:
+                      - generic [ref=e1868]: "85."
+                      - heading "How would you deploy a React application?" [level=3] [ref=e1869]:
+                        - text: How would you deploy a
+                        - emphasis [ref=e1870]: React application
+                        - text: "?"
+                    - generic [ref=e1871]:
+                      - img "Lock icon indicating premium question" [ref=e1873]
+                      - button "Question" [ref=e1875]
+                  - generic [ref=e1879]: "Answer:"
+              - listitem [ref=e1881]:
+                - article [ref=e1882]:
+                  - generic [ref=e1883] [cursor=pointer]:
+                    - generic [ref=e1884]:
+                      - generic [ref=e1885]: "86."
+                      - heading "How do you optimize the performance of a React application for production?" [level=3] [ref=e1886]:
+                        - text: How do you optimize the performance of a
+                        - emphasis [ref=e1887]: React application
+                        - text: for
+                        - emphasis [ref=e1888]: production
+                        - text: "?"
+                    - generic [ref=e1889]:
+                      - img "Lock icon indicating premium question" [ref=e1891]
+                      - button "Question" [ref=e1893]
+                  - generic [ref=e1897]: "Answer:"
+              - listitem [ref=e1899]:
+                - article [ref=e1900]:
+                  - generic [ref=e1901] [cursor=pointer]:
+                    - generic [ref=e1902]:
+                      - generic [ref=e1903]: "87."
+                      - heading "What are service workers and how can they benefit a React application?" [level=3] [ref=e1904]:
+                        - text: What are
+                        - emphasis [ref=e1905]: service workers
+                        - text: and how can they benefit a
+                        - emphasis [ref=e1906]: React application
+                        - text: "?"
+                    - generic [ref=e1907]:
+                      - img "Lock icon indicating premium question" [ref=e1909]
+                      - button "Question" [ref=e1911]
+                  - generic [ref=e1915]: "Answer:"
+              - listitem [ref=e1917]:
+                - article [ref=e1918]:
+                  - generic [ref=e1919] [cursor=pointer]:
+                    - generic [ref=e1920]:
+                      - generic [ref=e1921]: "88."
+                      - heading "How do you configure HTTPS in a React app?" [level=3] [ref=e1922]:
+                        - text: How do you configure
+                        - emphasis [ref=e1923]: HTTPS
+                        - text: in a
+                        - emphasis [ref=e1924]: React app
+                        - text: "?"
+                    - generic [ref=e1925]:
+                      - img "Lock icon indicating premium question" [ref=e1927]
+                      - button "Question" [ref=e1929]
+                  - generic [ref=e1933]: "Answer:"
+          - generic [ref=e1935]:
+            - generic [ref=e1936]:
+              - separator [ref=e1937]
+              - heading "Accessibility in React" [level=2] [ref=e1938]
+              - separator [ref=e1939]
+            - list [ref=e1940]:
+              - listitem [ref=e1941]:
+                - article [ref=e1942]:
+                  - generic [ref=e1943] [cursor=pointer]:
+                    - generic [ref=e1944]:
+                      - generic [ref=e1945]: "89."
+                      - heading "Why is accessibility important in web development?" [level=3] [ref=e1946]:
+                        - text: Why is
+                        - emphasis [ref=e1947]: accessibility
+                        - text: important in
+                        - emphasis [ref=e1948]: web development
+                        - text: "?"
+                    - generic [ref=e1949]:
+                      - img "Lock icon indicating premium question" [ref=e1951]
+                      - button "Question" [ref=e1953]
+                  - generic [ref=e1957]: "Answer:"
+              - listitem [ref=e1959]:
+                - article [ref=e1960]:
+                  - generic [ref=e1961] [cursor=pointer]:
+                    - generic [ref=e1962]:
+                      - generic [ref=e1963]: "90."
+                      - heading "How can you make a React application accessible?" [level=3] [ref=e1964]:
+                        - text: How can you make a
+                        - emphasis [ref=e1965]: React application
+                        - text: accessible?
+                    - generic [ref=e1966]:
+                      - img "Lock icon indicating premium question" [ref=e1968]
+                      - button "Question" [ref=e1970]
+                  - generic [ref=e1974]: "Answer:"
+              - listitem [ref=e1976]:
+                - article [ref=e1977]:
+                  - generic [ref=e1978] [cursor=pointer]:
+                    - generic [ref=e1979]:
+                      - generic [ref=e1980]: "91."
+                      - heading "What is ARIA and how it is used in React?" [level=3] [ref=e1981]:
+                        - text: What is
+                        - emphasis [ref=e1982]: ARIA
+                        - text: and how it is used in
+                        - emphasis [ref=e1983]: React
+                        - text: "?"
+                    - generic [ref=e1984]:
+                      - img "Lock icon indicating premium question" [ref=e1986]
+                      - button "Question" [ref=e1988]
+                  - generic [ref=e1992]: "Answer:"
+          - generic [ref=e1994]:
+            - generic [ref=e1995]:
+              - separator [ref=e1996]
+              - heading "Internationalization and Localization" [level=2] [ref=e1997]
+              - separator [ref=e1998]
+            - list [ref=e1999]:
+              - listitem [ref=e2000]:
+                - article [ref=e2001]:
+                  - generic [ref=e2002] [cursor=pointer]:
+                    - generic [ref=e2003]:
+                      - generic [ref=e2004]: "92."
+                      - heading "What is internationalization (i18n) in React?" [level=3] [ref=e2005]:
+                        - text: What is
+                        - emphasis [ref=e2006]: internationalization (i18n)
+                        - text: in
+                        - emphasis [ref=e2007]: React
+                        - text: "?"
+                    - generic [ref=e2008]:
+                      - img "Lock icon indicating premium question" [ref=e2010]
+                      - button "Question" [ref=e2012]
+                  - generic [ref=e2016]: "Answer:"
+              - listitem [ref=e2018]:
+                - article [ref=e2019]:
+                  - generic [ref=e2020] [cursor=pointer]:
+                    - generic [ref=e2021]:
+                      - generic [ref=e2022]: "93."
+                      - heading "How do you implement localization (l10n) in a React app?" [level=3] [ref=e2023]:
+                        - text: How do you implement
+                        - emphasis [ref=e2024]: localization (l10n)
+                        - text: in a
+                        - emphasis [ref=e2025]: React app
+                        - text: "?"
+                    - generic [ref=e2026]:
+                      - img "Lock icon indicating premium question" [ref=e2028]
+                      - button "Question" [ref=e2030]
+                  - generic [ref=e2034]: "Answer:"
+          - generic [ref=e2036]:
+            - generic [ref=e2037]:
+              - separator [ref=e2038]
+              - heading "React Code Structure & Best Practices" [level=2] [ref=e2039]
+              - separator [ref=e2040]
+            - list [ref=e2041]:
+              - listitem [ref=e2042]:
+                - article [ref=e2043]:
+                  - generic [ref=e2044] [cursor=pointer]:
+                    - generic [ref=e2045]:
+                      - generic [ref=e2046]: "94."
+                      - heading "How do you structure large React applications?" [level=3] [ref=e2047]:
+                        - text: How do you structure large
+                        - emphasis [ref=e2048]: React applications
+                        - text: "?"
+                    - generic [ref=e2049]:
+                      - img "Lock icon indicating premium question" [ref=e2051]
+                      - button "Question" [ref=e2053]
+                  - generic [ref=e2057]: "Answer:"
+              - listitem [ref=e2059]:
+                - article [ref=e2060]:
+                  - generic [ref=e2061] [cursor=pointer]:
+                    - generic [ref=e2062]:
+                      - generic [ref=e2063]: "95."
+                      - heading "What are some best practices when writing React code?" [level=3] [ref=e2064]:
+                        - text: What are some
+                        - emphasis [ref=e2065]: best practices
+                        - text: when writing
+                        - emphasis [ref=e2066]: React code
+                        - text: "?"
+                    - generic [ref=e2067]:
+                      - img "Lock icon indicating premium question" [ref=e2069]
+                      - button "Question" [ref=e2071]
+                  - generic [ref=e2075]: "Answer:"
+              - listitem [ref=e2077]:
+                - article [ref=e2078]:
+                  - generic [ref=e2079] [cursor=pointer]:
+                    - generic [ref=e2080]:
+                      - generic [ref=e2081]: "96."
+                      - heading "How do you ensure code quality and maintainability in a React project?" [level=3] [ref=e2082]:
+                        - text: How do you ensure
+                        - emphasis [ref=e2083]: code quality
+                        - text: and
+                        - emphasis [ref=e2084]: maintainability
+                        - text: in a
+                        - emphasis [ref=e2085]: React project
+                        - text: "?"
+                    - generic [ref=e2086]:
+                      - img "Lock icon indicating premium question" [ref=e2088]
+                      - button "Question" [ref=e2090]
+                  - generic [ref=e2094]: "Answer:"
+          - generic [ref=e2096]:
+            - generic [ref=e2097]:
+              - separator [ref=e2098]
+              - heading "React and Git Workflows" [level=2] [ref=e2099]
+              - separator [ref=e2100]
+            - list [ref=e2101]:
+              - listitem [ref=e2102]:
+                - article [ref=e2103]:
+                  - generic [ref=e2104] [cursor=pointer]:
+                    - generic [ref=e2105]:
+                      - generic [ref=e2106]: "97."
+                      - heading "How do you manage feature branches in React development with Git?" [level=3] [ref=e2107]:
+                        - text: How do you manage
+                        - emphasis [ref=e2108]: feature branches
+                        - text: in
+                        - emphasis [ref=e2109]: React development
+                        - text: with
+                        - emphasis [ref=e2110]: Git
+                        - text: "?"
+                    - generic [ref=e2111]:
+                      - img "Lock icon indicating premium question" [ref=e2113]
+                      - button "Question" [ref=e2115]
+                  - generic [ref=e2119]: "Answer:"
+              - listitem [ref=e2121]:
+                - article [ref=e2122]:
+                  - generic [ref=e2123] [cursor=pointer]:
+                    - generic [ref=e2124]:
+                      - generic [ref=e2125]: "98."
+                      - heading "What are your strategies for resolving merge conflicts in React projects?" [level=3] [ref=e2126]:
+                        - text: What are your strategies for resolving
+                        - emphasis [ref=e2127]: merge conflicts
+                        - text: in
+                        - emphasis [ref=e2128]: React projects
+                        - text: "?"
+                    - generic [ref=e2129]:
+                      - img "Lock icon indicating premium question" [ref=e2131]
+                      - button "Question" [ref=e2133]
+                  - generic [ref=e2137]: "Answer:"
+          - generic [ref=e2139]:
+            - generic [ref=e2140]:
+              - separator [ref=e2141]
+              - heading "React Interviews Problem Solving and Scenarios" [level=2] [ref=e2142]
+              - separator [ref=e2143]
+            - list [ref=e2144]:
+              - listitem [ref=e2145]:
+                - article [ref=e2146]:
+                  - generic [ref=e2147] [cursor=pointer]:
+                    - generic [ref=e2148]:
+                      - generic [ref=e2149]: "99."
+                      - heading "How would you handle a feature request or bug report in an ongoing React project?" [level=3] [ref=e2150]:
+                        - text: How would you handle a
+                        - emphasis [ref=e2151]: feature request
+                        - text: or
+                        - emphasis [ref=e2152]: bug report
+                        - text: in an ongoing
+                        - emphasis [ref=e2153]: React project
+                        - text: "?"
+                    - generic [ref=e2154]:
+                      - img "Lock icon indicating premium question" [ref=e2156]
+                      - button "Question" [ref=e2158]
+                  - generic [ref=e2162]: "Answer:"
+              - listitem [ref=e2164]:
+                - article [ref=e2165]:
+                  - generic [ref=e2166] [cursor=pointer]:
+                    - generic [ref=e2167]:
+                      - generic [ref=e2168]: "100."
+                      - heading "Describe your process for optimizing a component that has complex state logic and several child components." [level=3] [ref=e2169]:
+                        - text: Describe your process for optimizing a
+                        - emphasis [ref=e2170]: component
+                        - text: that has complex
+                        - emphasis [ref=e2171]: state logic
+                        - text: and several
+                        - emphasis [ref=e2172]: child components
+                        - text: .
+                    - generic [ref=e2173]:
+                      - img "Lock icon indicating premium question" [ref=e2175]
+                      - button "Question" [ref=e2177]
+                  - generic [ref=e2181]: "Answer:"
+  - generic [ref=e2185]:
+    - generic [ref=e2186]:
+      - img "graph icon" [ref=e2187]
+      - heading "Track progress" [level=1] [ref=e2188]
+      - paragraph [ref=e2190]: Simple interface helps to track your learning progress. Easily navigate through the wide range of questions and focus on key topics you need for your interview success.
+    - generic [ref=e2191]:
+      - img "clock icon" [ref=e2192]
+      - heading "Save time" [level=1] [ref=e2193]
+      - paragraph [ref=e2195]: Save countless hours searching for information on hundreds of low-quality sites designed to drive traffic and make money from advertising.
+  - generic [ref=e2198]:
+    - paragraph [ref=e2199]: Land a six-figure job at one of the top tech companies
+    - generic [ref=e2200]:
+      - img "amazon logo" [ref=e2201]
+      - img "meta logo" [ref=e2202]
+      - img "google logo" [ref=e2203]
+      - img "microsoft logo" [ref=e2204]
+      - img "openai logo" [ref=e2205]
+  - generic [ref=e2207]:
+    - generic [ref=e2208]: Ready to nail your next interview?
+    - heading "Stand out and get your dream job" [level=1] [ref=e2209]
+    - button "Kickstart your prep" [ref=e2210] [cursor=pointer]
+  - generic [ref=e2213]:
+    - link "logo" [ref=e2215] [cursor=pointer]:
+      - /url: /
+      - img "logo" [ref=e2216]
+    - generic [ref=e2217]:
+      - link "Blog" [ref=e2218] [cursor=pointer]:
+        - /url: /blog-posts
+      - link "Terms of use" [ref=e2219] [cursor=pointer]:
+        - /url: /terms/terms
+      - link "Privacy policy" [ref=e2220] [cursor=pointer]:
+        - /url: /terms/privacy
+      - link "Pricing" [ref=e2221] [cursor=pointer]:
+        - /url: /terms/pricing
+      - link "FAQs" [ref=e2222] [cursor=pointer]:
+        - /url: /terms/faq
+      - link "Contact Us" [ref=e2223] [cursor=pointer]:
+        - /url: /terms/contacts
+      - paragraph [ref=e2224]: © 2026 Devinterview.io
+  - generic [ref=e2225] [cursor=pointer]:
+    - img "scroll up button" [ref=e2226]
+    - paragraph [ref=e2227]: Go up

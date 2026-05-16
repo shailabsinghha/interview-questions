@@ -1,0 +1,360 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - generic [ref=e6]: 
+          - generic [ref=e7]: InterviewQ
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - generic [ref=e10]: "10308"
+            - generic [ref=e11]: Questions
+          - generic [ref=e12]:
+            - generic [ref=e13]: "14"
+            - generic [ref=e14]: Topics
+        - text: 
+    - main [ref=e15]:
+      - complementary [ref=e16]:
+        - heading " Filters" [level=2] [ref=e18]:
+          - generic [ref=e19]: 
+          - text: Filters
+        - generic [ref=e20]:
+          - heading "Topic" [level=3] [ref=e21]
+          - generic [ref=e22]:
+            - generic [ref=e23] [cursor=pointer]:
+              - radio " All Topics 10308" [checked]
+              - generic [ref=e24]:
+                - generic [ref=e25]: 
+                - text: All Topics
+                - generic [ref=e26]: "10308"
+            - generic [ref=e27] [cursor=pointer]:
+              - radio " DSA 3398"
+              - generic [ref=e28]:
+                - generic [ref=e29]: 
+                - text: DSA
+                - generic [ref=e30]: "3398"
+            - generic [ref=e31] [cursor=pointer]:
+              - radio " Spring Boot 1666"
+              - generic [ref=e32]:
+                - generic [ref=e33]: 
+                - text: Spring Boot
+                - generic [ref=e34]: "1666"
+            - generic [ref=e35] [cursor=pointer]:
+              - radio " AWS 1430"
+              - generic [ref=e36]:
+                - generic [ref=e37]: 
+                - text: AWS
+                - generic [ref=e38]: "1430"
+            - generic [ref=e39] [cursor=pointer]:
+              - radio " MongoDB 1087"
+              - generic [ref=e40]:
+                - generic [ref=e41]: 
+                - text: MongoDB
+                - generic [ref=e42]: "1087"
+            - generic [ref=e43] [cursor=pointer]:
+              - radio " Troubleshooting 1060"
+              - generic [ref=e44]:
+                - generic [ref=e45]: 
+                - text: Troubleshooting
+                - generic [ref=e46]: "1060"
+            - generic [ref=e47] [cursor=pointer]:
+              - radio " Kubernetes 631"
+              - generic [ref=e48]:
+                - generic [ref=e49]: 
+                - text: Kubernetes
+                - generic [ref=e50]: "631"
+            - generic [ref=e51] [cursor=pointer]:
+              - radio " System Design 408"
+              - generic [ref=e52]:
+                - generic [ref=e53]: 
+                - text: System Design
+                - generic [ref=e54]: "408"
+            - generic [ref=e55] [cursor=pointer]:
+              - radio " Performance 205"
+              - generic [ref=e56]:
+                - generic [ref=e57]: 
+                - text: Performance
+                - generic [ref=e58]: "205"
+            - generic [ref=e59] [cursor=pointer]:
+              - radio " Backend Development 205"
+              - generic [ref=e60]:
+                - generic [ref=e61]: 
+                - text: Backend Development
+                - generic [ref=e62]: "205"
+            - generic [ref=e63] [cursor=pointer]:
+              - radio " Security 57"
+              - generic [ref=e64]:
+                - generic [ref=e65]: 
+                - text: Security
+                - generic [ref=e66]: "57"
+            - generic [ref=e67] [cursor=pointer]:
+              - radio " Docker 56"
+              - generic [ref=e68]:
+                - generic [ref=e69]: 
+                - text: Docker
+                - generic [ref=e70]: "56"
+            - generic [ref=e71] [cursor=pointer]:
+              - radio " Microservices 50"
+              - generic [ref=e72]:
+                - generic [ref=e73]: 
+                - text: Microservices
+                - generic [ref=e74]: "50"
+            - generic [ref=e75] [cursor=pointer]:
+              - radio " Generative AI 49"
+              - generic [ref=e76]:
+                - generic [ref=e77]: 
+                - text: Generative AI
+                - generic [ref=e78]: "49"
+            - generic [ref=e79] [cursor=pointer]:
+              - radio " HTML 6"
+              - generic [ref=e80]:
+                - generic [ref=e81]: 
+                - text: HTML
+                - generic [ref=e82]: "6"
+        - generic [ref=e83]:
+          - heading "Difficulty" [level=3] [ref=e84]
+          - generic [ref=e85]:
+            - generic [ref=e86] [cursor=pointer]:
+              - radio " All Levels" [checked]
+              - generic [ref=e87]:
+                - generic [ref=e88]: 
+                - text: All Levels
+            - generic [ref=e89] [cursor=pointer]:
+              - radio " Easy"
+              - generic [ref=e90]:
+                - generic [ref=e91]: 
+                - text: Easy
+            - generic [ref=e92] [cursor=pointer]:
+              - radio " Medium"
+              - generic [ref=e93]:
+                - generic [ref=e94]: 
+                - text: Medium
+            - generic [ref=e95] [cursor=pointer]:
+              - radio " Hard"
+              - generic [ref=e96]:
+                - generic [ref=e97]: 
+                - text: Hard
+        - button " Reset Filters" [ref=e99] [cursor=pointer]:
+          - generic [ref=e100]: 
+          - text: Reset Filters
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - generic [ref=e103]:
+            - generic [ref=e104]: 
+            - textbox "Search questions by scenario, technology, or keyword..." [ref=e105]
+            - text: 
+          - generic [ref=e106]: Showing 15 of 10308 questions
+        - generic [ref=e107]:
+          - generic [ref=e108]:
+            - generic [ref=e109]:
+              - generic [ref=e110] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e112]: DSA
+              - generic [ref=e113]: Hard
+            - generic [ref=e114]:
+              - paragraph [ref=e115]: Design distributed skip list for processing 1M items with nearest neighbor. Handle concurrent access.
+              - generic [ref=e116]:
+                - button "Show Solution " [ref=e117] [cursor=pointer]:
+                  - generic [ref=e118]: Show Solution
+                  - generic [ref=e119]: 
+                - paragraph [ref=e120]: Advanced DS technique. Handle concurrent access with appropriate data structure. Consider distributed/parallel approach.
+          - generic [ref=e121]:
+            - generic [ref=e122]:
+              - generic [ref=e123] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e125]: DSA
+              - generic [ref=e126]: Hard
+            - generic [ref=e127]:
+              - paragraph [ref=e128]: Design distributed B-tree for processing 10M items with frequency count. Handle hot keys.
+              - generic [ref=e129]:
+                - button "Show Solution " [ref=e130] [cursor=pointer]:
+                  - generic [ref=e131]: Show Solution
+                  - generic [ref=e132]: 
+                - paragraph [ref=e133]: Advanced DS technique. Handle hot keys with appropriate data structure. Consider distributed/parallel approach.
+          - generic [ref=e134]:
+            - generic [ref=e135]:
+              - generic [ref=e136] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e138]: DSA
+              - generic [ref=e139]: Hard
+            - generic [ref=e140]:
+              - paragraph [ref=e141]: Design distributed skip list for processing 10M items with sorting. Handle node failures.
+              - generic [ref=e142]:
+                - button "Show Solution " [ref=e143] [cursor=pointer]:
+                  - generic [ref=e144]: Show Solution
+                  - generic [ref=e145]: 
+                - paragraph [ref=e146]: Advanced DS technique. Handle node failures with appropriate data structure. Consider distributed/parallel approach.
+          - generic [ref=e147]:
+            - generic [ref=e148]:
+              - generic [ref=e149] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e151]: AWS
+              - generic [ref=e152]: Hard
+            - generic [ref=e153]:
+              - paragraph [ref=e154]: Design a highly-available, multi-region architecture using ElastiCache, VPC, and MSK for sub-100ms latency. Handle DR.
+              - generic [ref=e155]:
+                - button "Show Solution " [ref=e156] [cursor=pointer]:
+                  - generic [ref=e157]: Show Solution
+                  - generic [ref=e158]: 
+                - paragraph [ref=e159]: Multi-region active-active with Route 53 latency routing. ElastiCache for primary compute, VPC for cross-region data sync. Use DynamoDB Global Tables / Aurora Global DB. CloudFront for edge caching. Chaos engineering for resilience testing.
+          - generic [ref=e160]:
+            - generic [ref=e161]:
+              - generic [ref=e162] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e164]: DSA
+              - generic [ref=e165]: Hard
+            - generic [ref=e166]:
+              - paragraph [ref=e167]: Design distributed segment tree for processing 1M items with max flow. Handle concurrent access.
+              - generic [ref=e168]:
+                - button "Show Solution " [ref=e169] [cursor=pointer]:
+                  - generic [ref=e170]: Show Solution
+                  - generic [ref=e171]: 
+                - paragraph [ref=e172]: Advanced DS technique. Handle concurrent access with appropriate data structure. Consider distributed/parallel approach.
+          - generic [ref=e173]:
+            - generic [ref=e174]:
+              - generic [ref=e175] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e177]: DSA
+              - generic [ref=e178]: Medium
+            - generic [ref=e179]:
+              - paragraph [ref=e180]: Implement graph that supports partition. Handle large input.
+              - generic [ref=e181]:
+                - button "Show Solution " [ref=e182] [cursor=pointer]:
+                  - generic [ref=e183]: Show Solution
+                  - generic [ref=e184]: 
+                - paragraph [ref=e185]: Apply optimal DS & algorithm. Focus on time complexity.
+          - generic [ref=e186]:
+            - generic [ref=e187]:
+              - generic [ref=e188] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e190]: Performance
+              - generic [ref=e191]: Medium
+            - generic [ref=e192]:
+              - paragraph [ref=e193]: What are the Oracle Database memory caches that affect performance?
+              - generic [ref=e194]:
+                - button "Show Solution " [ref=e195] [cursor=pointer]:
+                  - generic [ref=e196]: Show Solution
+                  - generic [ref=e197]: 
+                - paragraph [ref=e198]: "The main Oracle Database memory caches that affect performance include: Database Buffer Cache Redo Log Buffer Shared Pool Large Pool Java Pool Streams Pool Process-Private Memory In-Memory Column Store"
+          - generic [ref=e199]:
+            - generic [ref=e200]:
+              - generic [ref=e201] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e203]: Spring Boot
+              - generic [ref=e204]: Hard
+            - generic [ref=e205]:
+              - paragraph [ref=e206]: Implement a scalable batch processor in Spring Boot using @CircuitBreaker and @CircuitBreaker. Handle managing state for 10k requests/sec. Consider distributed systems patterns.
+              - generic [ref=e207]:
+                - button "Show Solution " [ref=e208] [cursor=pointer]:
+                  - generic [ref=e209]: Show Solution
+                  - generic [ref=e210]: 
+                - paragraph [ref=e211]: Use reactive stack (WebFlux) for high throughput. Implement circuit breaker with Resilience4j. Distribute with Kafka. Cache with Redis. Monitor with Micrometer + Prometheus. Handle managing state with appropriate backpressure and throttling.
+          - generic [ref=e212]:
+            - generic [ref=e213]:
+              - generic [ref=e214] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e216]: DSA
+              - generic [ref=e217]: Hard
+            - generic [ref=e218]:
+              - paragraph [ref=e219]: Design distributed R-tree for processing 10M items with frequency count. Handle memory limits.
+              - generic [ref=e220]:
+                - button "Show Solution " [ref=e221] [cursor=pointer]:
+                  - generic [ref=e222]: Show Solution
+                  - generic [ref=e223]: 
+                - paragraph [ref=e224]: Advanced DS technique. Handle memory limits with appropriate data structure. Consider distributed/parallel approach.
+          - generic [ref=e225]:
+            - generic [ref=e226]:
+              - generic [ref=e227] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e229]: Spring Boot
+              - generic [ref=e230]: Medium
+            - generic [ref=e231]:
+              - paragraph [ref=e232]: Design a batch processor using Spring Boot with @Component. Handle caching responses. Explain the architecture pattern.
+              - generic [ref=e233]:
+                - button "Show Solution " [ref=e234] [cursor=pointer]:
+                  - generic [ref=e235]: Show Solution
+                  - generic [ref=e236]: 
+                - paragraph [ref=e237]: "Use layered architecture: Controller -> Service -> Repository. @Component enables specific functionality. Handle caching responses with proper configuration. Add error handling with @ControllerAdvice, caching with @Cacheable."
+          - generic [ref=e238]:
+            - generic [ref=e239]:
+              - generic [ref=e240] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e242]: DSA
+              - generic [ref=e243]: Hard
+            - generic [ref=e244]:
+              - paragraph [ref=e245]: Design distributed graph for processing 10M items with sorting. Handle data skew.
+              - generic [ref=e246]:
+                - button "Show Solution " [ref=e247] [cursor=pointer]:
+                  - generic [ref=e248]: Show Solution
+                  - generic [ref=e249]: 
+                - paragraph [ref=e250]: Advanced DS technique. Handle data skew with appropriate data structure. Consider distributed/parallel approach.
+          - generic [ref=e251]:
+            - generic [ref=e252]:
+              - generic [ref=e253] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e255]: Troubleshooting
+              - generic [ref=e256]: Easy
+            - generic [ref=e257]:
+              - paragraph [ref=e258]: "[Spring Boot] When scaling from 100 to 10000 users: Gradle build for Spring Boot project fails with 'Could not resolve all dependencies for configuration :compileClasspath'. The dependencies resolve fine in other projects."
+              - generic [ref=e259]:
+                - button "Show Solution " [ref=e260] [cursor=pointer]:
+                  - generic [ref=e261]: Show Solution
+                  - generic [ref=e262]: 
+                - paragraph [ref=e263]: "1) Check if the repository configuration includes Maven Central: 'repositories { mavenCentral() }'. 2) Verify the dependency coordinates are correct - group, name, version. 3) Check for network/proxy issues - configure proxy in gradle.properties if behind a corporate firewall. 4) Run './gradlew dependencies --configuration compileClasspath' to see the resolution tree. 5) Clear Gradle cache: 'rm -rf ~/.gradle/caches/' and rebuild. 6) Check if a dependency is from a private repository that requires authentication. 7) Use './gradlew build --refresh-dependencies' to force re-download. 8) Verify the Gradle version is compatible with the Spring Boot plugin version. Update the team's troubleshooting playbook with this scenario."
+          - generic [ref=e264]:
+            - generic [ref=e265]:
+              - generic [ref=e266] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e268]: Spring Boot
+              - generic [ref=e269]: Hard
+            - generic [ref=e270]:
+              - paragraph [ref=e271]: Implement a scalable batch processor in Spring Boot using @Configuration and @Autowired. Handle handling high traffic for 10k requests/sec. Consider distributed systems patterns.
+              - generic [ref=e272]:
+                - button "Show Solution " [ref=e273] [cursor=pointer]:
+                  - generic [ref=e274]: Show Solution
+                  - generic [ref=e275]: 
+                - paragraph [ref=e276]: Use reactive stack (WebFlux) for high throughput. Implement circuit breaker with Resilience4j. Distribute with Kafka. Cache with Redis. Monitor with Micrometer + Prometheus. Handle handling high traffic with appropriate backpressure and throttling.
+          - generic [ref=e277]:
+            - generic [ref=e278]:
+              - generic [ref=e279] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e281]: Troubleshooting
+              - generic [ref=e282]: Medium
+            - generic [ref=e283]:
+              - paragraph [ref=e284]: "[Spring Boot] Liquibase migration fails with 'Validation Failed: 1 checksums differ'. The migration file wasn't modified but the checksum changed."
+              - generic [ref=e285]:
+                - button "Show Solution " [ref=e286] [cursor=pointer]:
+                  - generic [ref=e287]: Show Solution
+                  - generic [ref=e288]: 
+                - paragraph [ref=e289]: "1) Line ending changes (CRLF vs LF) can change checksums even if content is the same. 2) Run 'liquibase clearChecksums' to recalculate all checksums. 3) For Spring Boot: 'spring.liquibase.clear-checksums=true' (one-time use). 4) Check if the changelog file was reformatted by an IDE or linter. 5) Use 'liquibase validate' to see which changesets have mismatched checksums. 6) For intentional changes, use 'liquibase calculateChecksum' to get the new checksum and update the database. 7) Store changelog files with consistent line endings in version control (use .gitattributes)."
+          - generic [ref=e290]:
+            - generic [ref=e291]:
+              - generic [ref=e292] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e294]: Troubleshooting
+              - generic [ref=e295]: Medium
+            - generic [ref=e296]:
+              - paragraph [ref=e297]: "[Spring Boot] In a Kubernetes cluster with auto-scaling: Spring Data JPA repository method 'findByStatusAndCreatedDateBetween' returns stale data. The database has newer records but the query returns old results."
+              - generic [ref=e298]:
+                - button "Show Solution " [ref=e299] [cursor=pointer]:
+                  - generic [ref=e300]: Show Solution
+                  - generic [ref=e301]: 
+                - paragraph [ref=e302]: 1) Check if Hibernate's first-level cache is returning cached entities - use entityManager.clear() or entityManager.detach(). 2) For second-level cache, verify cache eviction is working. 3) Add '@Modifying(clearAutomatically = true)' if this follows a modifying query. 4) Check transaction isolation level - READ_COMMITTED should see committed changes. 5) Verify the query parameters (date range) are correct - timezone issues can cause date mismatches. 6) Use 'entityManager.flush()' before querying if writes haven't been flushed. 7) Disable query result cache for this method if caching is enabled. Schedule a team knowledge-sharing session on this topic.
+        - button "+ Load More Questions" [ref=e304] [cursor=pointer]:
+          - generic [ref=e305]: +
+          - text: Load More Questions
+        - text: 
+  - text:  
+  - generic [ref=e306]:
+    - generic [ref=e307]:
+      - generic [ref=e308]: 
+      - generic [ref=e309]: "0"
+      - text: questions selected
+    - generic [ref=e310]:
+      - button " Clear" [ref=e311] [cursor=pointer]:
+        - generic [ref=e312]: 
+        - text: Clear
+      - button " Download DOCX" [ref=e313] [cursor=pointer]:
+        - generic [ref=e314]: 
+        - text: Download DOCX
+  - text:     

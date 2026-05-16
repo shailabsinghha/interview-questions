@@ -1,0 +1,1796 @@
+- generic [ref=e3]:
+  - generic [ref=e5]:
+    - generic [ref=e7]:
+      - link "devinterview logo" [ref=e9] [cursor=pointer]:
+        - /url: /
+        - img "devinterview logo" [ref=e10]
+      - generic [ref=e11]:
+        - combobox "Select theme" [ref=e13] [cursor=pointer]:
+          - option "System" [selected]
+          - option "Light"
+          - option "Dark"
+        - button "Sign in" [ref=e16] [cursor=pointer]
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - img "star icon" [ref=e21]
+          - img "star icon" [ref=e22]
+          - img "star icon" [ref=e23]
+          - img "star icon" [ref=e24]
+          - img "star icon" [ref=e25]
+        - paragraph [ref=e26]: "\"Huge timesaver. Worth the money\""
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - img "star icon" [ref=e29]
+          - img "star icon" [ref=e30]
+          - img "star icon" [ref=e31]
+          - img "star icon" [ref=e32]
+          - img "star icon" [ref=e33]
+        - paragraph [ref=e34]: "\"It's an excellent tool\""
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - img "star icon" [ref=e37]
+          - img "star icon" [ref=e38]
+          - img "star icon" [ref=e39]
+          - img "star icon" [ref=e40]
+          - img "star icon" [ref=e41]
+        - paragraph [ref=e42]: "\"Fantastic catalogue of questions\""
+    - generic [ref=e43]:
+      - heading "Ace your next tech interview with confidence" [level=1] [ref=e44]
+      - heading "Explore our carefully curated catalog of interview essentials covering full-stack, data structures and algorithms, system design, data science, and machine learning interview questions" [level=2] [ref=e45]
+      - button "Start preparing now" [ref=e46] [cursor=pointer]
+  - generic [ref=e49]:
+    - generic [ref=e50]:
+      - generic [ref=e51]:
+        - link "Web & Mobile Dev" [ref=e52] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development
+          - generic [ref=e53]: Web & Mobile Dev
+        - link "Data Structures & Algorithms" [ref=e54] [cursor=pointer]:
+          - /url: /questions/data-structures-and-algorithms
+          - generic [ref=e55]: Data Structures & Algorithms
+        - link "System Design" [ref=e56] [cursor=pointer]:
+          - /url: /questions/software-architecture-and-system-design
+          - generic [ref=e57]: System Design
+        - link "Machine Learning & Data Science" [ref=e58] [cursor=pointer]:
+          - /url: /questions/machine-learning-and-data-science
+          - generic [ref=e59]: Machine Learning & Data Science
+        - link "Behavioral Questions" [ref=e60] [cursor=pointer]:
+          - /url: /questions/behavioral-questions
+          - generic [ref=e61]: Behavioral Questions
+      - generic [ref=e62]:
+        - link "topic icon ADO.NET" [ref=e63] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/ado-net-interview-questions/
+          - img "topic icon" [ref=e64]
+          - generic [ref=e65]: ADO.NET
+        - link "topic icon Agile & Scrum" [ref=e66] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/agile-and-scrum-interview-questions/
+          - img "topic icon" [ref=e67]
+          - generic [ref=e68]: Agile & Scrum
+        - link "topic icon Android" [ref=e69] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/android-interview-questions/
+          - img "topic icon" [ref=e70]
+          - generic [ref=e71]: Android
+        - link "topic icon Angular" [ref=e72] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/angular-interview-questions/
+          - img "topic icon" [ref=e73]
+          - generic [ref=e74]: Angular
+        - link "topic icon AngularJS" [ref=e75] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/angular-js-interview-questions/
+          - img "topic icon" [ref=e76]
+          - generic [ref=e77]: AngularJS
+        - link "topic icon ASP.NET" [ref=e78] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/asp-net-interview-questions/
+          - img "topic icon" [ref=e79]
+          - generic [ref=e80]: ASP.NET
+        - link "topic icon ASP.NET MVC" [ref=e81] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/asp-net-mvc-interview-questions/
+          - img "topic icon" [ref=e82]
+          - generic [ref=e83]: ASP.NET MVC
+        - link "topic icon ASP.NET Web API" [ref=e84] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/asp-net-web-api-interview-questions/
+          - img "topic icon" [ref=e85]
+          - generic [ref=e86]: ASP.NET Web API
+        - link "topic icon AWS" [ref=e87] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/aws-interview-questions/
+          - img "topic icon" [ref=e88]
+          - generic [ref=e89]: AWS
+        - link "topic icon Azure" [ref=e90] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/azure-interview-questions/
+          - img "topic icon" [ref=e91]
+          - generic [ref=e92]: Azure
+        - link "topic icon C++" [ref=e93] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/c++-interview-questions/
+          - img "topic icon" [ref=e94]
+          - generic [ref=e95]: C++
+        - link "topic icon C#" [ref=e96] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/c-sharp-interview-questions/
+          - img "topic icon" [ref=e97]
+          - generic [ref=e98]: C#
+        - link "topic icon Cosmos DB" [ref=e99] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/cosmos-db-interview-questions/
+          - img "topic icon" [ref=e100]
+          - generic [ref=e101]: Cosmos DB
+        - link "topic icon CSS" [ref=e102] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/css-interview-questions/
+          - img "topic icon" [ref=e103]
+          - generic [ref=e104]: CSS
+        - link "topic icon Dependency Injection" [ref=e105] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/dependency-injection-interview-questions/
+          - img "topic icon" [ref=e106]
+          - generic [ref=e107]: Dependency Injection
+        - link "topic icon DevOps" [ref=e108] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/devops-interview-questions/
+          - img "topic icon" [ref=e109]
+          - generic [ref=e110]: DevOps
+        - link "topic icon Django" [ref=e111] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/django-interview-questions/
+          - img "topic icon" [ref=e112]
+          - generic [ref=e113]: Django
+        - link "topic icon Entity Framework" [ref=e114] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/entity-framework-interview-questions/
+          - img "topic icon" [ref=e115]
+          - generic [ref=e116]: Entity Framework
+        - link "topic icon Express.js" [ref=e117] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/express-interview-questions/
+          - img "topic icon" [ref=e118]
+          - generic [ref=e119]: Express.js
+        - link "topic icon Flutter" [ref=e120] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/flutter-interview-questions/
+          - img "topic icon" [ref=e121]
+          - generic [ref=e122]: Flutter
+        - link "topic icon GIT" [ref=e123] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/git-interview-questions/
+          - img "topic icon" [ref=e124]
+          - generic [ref=e125]: GIT
+        - link "topic icon Golang" [ref=e126] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/golang-interview-questions/
+          - img "topic icon" [ref=e127]
+          - generic [ref=e128]: Golang
+        - link "topic icon GraphQL" [ref=e129] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/graphql-interview-questions/
+          - img "topic icon" [ref=e130]
+          - generic [ref=e131]: GraphQL
+        - link "topic icon HTML5" [ref=e132] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/html5-interview-questions/
+          - img "topic icon" [ref=e133]
+          - generic [ref=e134]: HTML5
+        - link "topic icon Ionic" [ref=e135] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/ionic-interview-questions/
+          - img "topic icon" [ref=e136]
+          - generic [ref=e137]: Ionic
+        - link "topic icon Java" [ref=e138] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/java-interview-questions/
+          - img "topic icon" [ref=e139]
+          - generic [ref=e140]: Java
+        - link "topic icon JavaScript" [ref=e141] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/javascript-interview-questions/
+          - img "topic icon" [ref=e142]
+          - generic [ref=e143]: JavaScript
+        - link "topic icon jQuery" [ref=e144] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/jquery-interview-questions/
+          - img "topic icon" [ref=e145]
+          - generic [ref=e146]: jQuery
+        - link "topic icon Kotlin" [ref=e147] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/kotlin-interview-questions/
+          - img "topic icon" [ref=e148]
+          - generic [ref=e149]: Kotlin
+        - link "topic icon Laravel" [ref=e150] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/laravel-interview-questions/
+          - img "topic icon" [ref=e151]
+          - generic [ref=e152]: Laravel
+        - link "topic icon LINQ" [ref=e153] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/linq-interview-questions/
+          - img "topic icon" [ref=e154]
+          - generic [ref=e155]: LINQ
+        - link "topic icon MongoDB" [ref=e156] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/mongodb-interview-questions/
+          - img "topic icon" [ref=e157]
+          - generic [ref=e158]: MongoDB
+        - link "topic icon .NET Core" [ref=e159] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/net-core-interview-questions/
+          - img "topic icon" [ref=e160]
+          - generic [ref=e161]: .NET Core
+        - link "topic icon Next.js" [ref=e162] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/next-interview-questions/
+          - img "topic icon" [ref=e163]
+          - generic [ref=e164]: Next.js
+        - link "topic icon Node.js" [ref=e165] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/node-interview-questions/
+          - img "topic icon" [ref=e166]
+          - generic [ref=e167]: Node.js
+        - link "topic icon Objective-C" [ref=e168] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/objective-c-interview-questions/
+          - img "topic icon" [ref=e169]
+          - generic [ref=e170]: Objective-C
+        - link "topic icon OOP" [ref=e171] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/oop-interview-questions/
+          - img "topic icon" [ref=e172]
+          - generic [ref=e173]: OOP
+        - link "topic icon PHP" [ref=e174] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/php-interview-questions/
+          - img "topic icon" [ref=e175]
+          - generic [ref=e176]: PHP
+        - link "topic icon PWA" [ref=e177] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/pwa-interview-questions/
+          - img "topic icon" [ref=e178]
+          - generic [ref=e179]: PWA
+        - link "topic icon Python" [ref=e180] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/python-interview-questions/
+          - img "topic icon" [ref=e181]
+          - generic [ref=e182]: Python
+        - link "topic icon React" [ref=e183] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/react-interview-questions/
+          - img "topic icon" [ref=e184]
+          - generic [ref=e185]: React
+        - link "topic icon React Native" [ref=e186] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/react-native-interview-questions/
+          - img "topic icon" [ref=e187]
+          - generic [ref=e188]: React Native
+        - link "topic icon Reactive Programming" [ref=e189] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/reactive-programming-interview-questions/
+          - img "topic icon" [ref=e190]
+          - generic [ref=e191]: Reactive Programming
+        - link "topic icon Reactive Systems" [ref=e192] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/reactive-systems-interview-questions/
+          - img "topic icon" [ref=e193]
+          - generic [ref=e194]: Reactive Systems
+        - link "topic icon Redis" [ref=e195] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/redis-interview-questions/
+          - img "topic icon" [ref=e196]
+          - generic [ref=e197]: Redis
+        - link "topic icon Redux" [ref=e198] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/redux-interview-questions/
+          - img "topic icon" [ref=e199]
+          - generic [ref=e200]: Redux
+        - link "topic icon Ruby" [ref=e201] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/ruby-interview-questions/
+          - img "topic icon" [ref=e202]
+          - generic [ref=e203]: Ruby
+        - link "topic icon Ruby on Rails" [ref=e204] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/ruby-on-rails-interview-questions/
+          - img "topic icon" [ref=e205]
+          - generic [ref=e206]: Ruby on Rails
+        - link "topic icon Rust" [ref=e207] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/rust-interview-questions/
+          - img "topic icon" [ref=e208]
+          - generic [ref=e209]: Rust
+        - link "topic icon Spring" [ref=e210] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/spring-interview-questions/
+          - img "topic icon" [ref=e211]
+          - generic [ref=e212]: Spring
+        - link "topic icon SQL" [ref=e213] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/sql-interview-questions/
+          - img "topic icon" [ref=e214]
+          - generic [ref=e215]: SQL
+        - link "topic icon Swift" [ref=e216] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/swift-interview-questions/
+          - img "topic icon" [ref=e217]
+          - generic [ref=e218]: Swift
+        - link "topic icon T-SQL" [ref=e219] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/t-sql-interview-questions/
+          - img "topic icon" [ref=e220]
+          - generic [ref=e221]: T-SQL
+        - link "topic icon Testing" [ref=e222] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/testing-interview-questions/
+          - img "topic icon" [ref=e223]
+          - generic [ref=e224]: Testing
+        - link "topic icon TypeScript" [ref=e225] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/typescript-interview-questions/
+          - img "topic icon" [ref=e226]
+          - generic [ref=e227]: TypeScript
+        - link "topic icon UX Design" [ref=e228] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/ux-design-interview-questions/
+          - img "topic icon" [ref=e229]
+          - generic [ref=e230]: UX Design
+        - link "topic icon Vue.js" [ref=e231] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/vue-interview-questions/
+          - img "topic icon" [ref=e232]
+          - generic [ref=e233]: Vue.js
+        - link "topic icon WCF" [ref=e234] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/wcf-interview-questions/
+          - img "topic icon" [ref=e235]
+          - generic [ref=e236]: WCF
+        - link "topic icon Web Security" [ref=e237] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/web-security-interview-questions/
+          - img "topic icon" [ref=e238]
+          - generic [ref=e239]: Web Security
+        - link "topic icon WebSockets" [ref=e240] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/websocket-interview-questions/
+          - img "topic icon" [ref=e241]
+          - generic [ref=e242]: WebSockets
+        - link "topic icon WPF" [ref=e243] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/wpf-interview-questions/
+          - img "topic icon" [ref=e244]
+          - generic [ref=e245]: WPF
+        - link "topic icon Xamarin" [ref=e246] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/xamarin-interview-questions/
+          - img "topic icon" [ref=e247]
+          - generic [ref=e248]: Xamarin
+    - generic [ref=e249]:
+      - generic [ref=e250]:
+        - generic [ref=e251]:
+          - generic [ref=e252]:
+            - img "JavaScript" [ref=e253]
+            - heading "100 JavaScript interview questions" [level=1] [ref=e254]
+          - button "close button" [ref=e255] [cursor=pointer]:
+            - img "close button" [ref=e256]
+        - generic [ref=e257]:
+          - generic [ref=e258]:
+            - generic [ref=e261] [cursor=pointer]: Only coding challenges
+            - button "Reset progress" [ref=e264] [cursor=pointer]
+          - generic [ref=e266]:
+            - img "search bar icon" [ref=e268]
+            - textbox "search bar icon" [ref=e269]:
+              - /placeholder: Search...
+        - generic [ref=e272]:
+          - generic [ref=e273]: "Topic progress:"
+          - generic [ref=e274]: 0%
+      - main [ref=e277]:
+        - generic [ref=e278]:
+          - generic [ref=e279]:
+            - generic [ref=e280]:
+              - separator [ref=e281]
+              - heading "JavaScript Fundamentals" [level=2] [ref=e282]
+              - separator [ref=e283]
+            - list [ref=e284]:
+              - listitem [ref=e285]:
+                - article [ref=e286]:
+                  - generic [ref=e287] [cursor=pointer]:
+                    - generic [ref=e288]:
+                      - generic [ref=e289]: "1."
+                      - heading "What are the data types present in JavaScript?" [level=3] [ref=e290]:
+                        - text: What are the
+                        - emphasis [ref=e291]: data types
+                        - text: present in JavaScript?
+                    - button "Question" [ref=e294]
+                  - generic [ref=e298]: "Answer:"
+              - listitem [ref=e300]:
+                - article [ref=e301]:
+                  - generic [ref=e302] [cursor=pointer]:
+                    - generic [ref=e303]:
+                      - generic [ref=e304]: "2."
+                      - heading "What is the difference between null and undefined?" [level=3] [ref=e305]:
+                        - text: What is the difference between
+                        - emphasis [ref=e306]: "null"
+                        - text: and
+                        - emphasis [ref=e307]: undefined
+                        - text: "?"
+                    - button "Question" [ref=e310]
+                  - generic [ref=e314]: "Answer:"
+              - listitem [ref=e316]:
+                - article [ref=e317]:
+                  - generic [ref=e318] [cursor=pointer]:
+                    - generic [ref=e319]:
+                      - generic [ref=e320]: "3."
+                      - heading "How does JavaScript handle type coercion?" [level=3] [ref=e321]:
+                        - text: How does JavaScript handle
+                        - emphasis [ref=e322]: type coercion
+                        - text: "?"
+                    - button "Question" [ref=e325]
+                  - generic [ref=e329]: "Answer:"
+              - listitem [ref=e331]:
+                - article [ref=e332]:
+                  - generic [ref=e333] [cursor=pointer]:
+                    - generic [ref=e334]:
+                      - generic [ref=e335]: "4."
+                      - heading "Explain the concept of hoisting in JavaScript." [level=3] [ref=e336]:
+                        - text: Explain the concept of
+                        - emphasis [ref=e337]: hoisting
+                        - text: in JavaScript.
+                    - button "Question" [ref=e340]
+                  - generic [ref=e344]: "Answer:"
+              - listitem [ref=e346]:
+                - article [ref=e347]:
+                  - generic [ref=e348] [cursor=pointer]:
+                    - generic [ref=e349]:
+                      - generic [ref=e350]: "5."
+                      - heading "What is the scope in JavaScript?" [level=3] [ref=e351]:
+                        - text: What is the
+                        - emphasis [ref=e352]: scope
+                        - text: in JavaScript?
+                    - button "Question" [ref=e355]
+                  - generic [ref=e359]: "Answer:"
+              - listitem [ref=e361]:
+                - article [ref=e362]:
+                  - generic [ref=e363] [cursor=pointer]:
+                    - generic [ref=e364]:
+                      - generic [ref=e365]: "6."
+                      - heading "What is the difference between == and ===?" [level=3] [ref=e366]:
+                        - text: What is the difference between
+                        - code [ref=e367]: ==
+                        - text: and
+                        - code [ref=e368]: ===
+                        - text: "?"
+                    - button "Question" [ref=e371]
+                  - generic [ref=e375]: "Answer:"
+              - listitem [ref=e377]:
+                - article [ref=e378]:
+                  - generic [ref=e379] [cursor=pointer]:
+                    - generic [ref=e380]:
+                      - generic [ref=e381]: "7."
+                      - heading "Describe closure in JavaScript. Can you give an example?" [level=3] [ref=e382]:
+                        - text: Describe
+                        - emphasis [ref=e383]: closure
+                        - text: in JavaScript. Can you give an example?
+                    - button "Question" [ref=e386]
+                  - generic [ref=e390]: "Answer:"
+              - listitem [ref=e392]:
+                - article [ref=e393]:
+                  - generic [ref=e394] [cursor=pointer]:
+                    - generic [ref=e395]:
+                      - generic [ref=e396]: "8."
+                      - heading "What is the ‘this keyword’ and how does its context change?" [level=3] [ref=e397]:
+                        - text: What is the ‘
+                        - emphasis [ref=e398]: this
+                        - text: keyword’ and how does its context change?
+                    - button "Question" [ref=e401]
+                  - generic [ref=e405]: "Answer:"
+              - listitem [ref=e407]:
+                - article [ref=e408]:
+                  - generic [ref=e409] [cursor=pointer]:
+                    - generic [ref=e410]:
+                      - generic [ref=e411]: "9."
+                      - heading "What are arrow functions and how do they differ from regular functions?" [level=3] [ref=e412]:
+                        - text: What are
+                        - emphasis [ref=e413]: arrow functions
+                        - text: and how do they differ from regular functions?
+                    - button "Question" [ref=e416]
+                  - generic [ref=e420]: "Answer:"
+              - listitem [ref=e422]:
+                - article [ref=e423]:
+                  - generic [ref=e424] [cursor=pointer]:
+                    - generic [ref=e425]:
+                      - generic [ref=e426]: "10."
+                      - heading "What are template literals in JavaScript?" [level=3] [ref=e427]:
+                        - text: What are
+                        - emphasis [ref=e428]: template literals
+                        - text: in JavaScript?
+                    - button "Question" [ref=e431]
+                  - generic [ref=e435]: "Answer:"
+          - generic [ref=e437]:
+            - generic [ref=e438]:
+              - separator [ref=e439]
+              - heading "JavaScript Functions and Higher-Order Functions" [level=2] [ref=e440]
+              - separator [ref=e441]
+            - list [ref=e442]:
+              - listitem [ref=e443]:
+                - article [ref=e444]:
+                  - generic [ref=e445] [cursor=pointer]:
+                    - generic [ref=e446]:
+                      - generic [ref=e447]: "11."
+                      - heading "What is a higher-order function in JavaScript?" [level=3] [ref=e448]:
+                        - text: What is a
+                        - emphasis [ref=e449]: higher-order function
+                        - text: in JavaScript?
+                    - button "Question" [ref=e452]
+                  - generic [ref=e456]: "Answer:"
+              - listitem [ref=e458]:
+                - article [ref=e459]:
+                  - generic [ref=e460] [cursor=pointer]:
+                    - generic [ref=e461]:
+                      - generic [ref=e462]: "12."
+                      - heading "Can functions be assigned as values to variables in JavaScript?" [level=3] [ref=e463]
+                    - button "Question" [ref=e466]
+                  - generic [ref=e470]: "Answer:"
+              - listitem [ref=e472]:
+                - article [ref=e473]:
+                  - generic [ref=e474] [cursor=pointer]:
+                    - generic [ref=e475]:
+                      - generic [ref=e476]: "13."
+                      - heading "How do functional programming concepts apply in JavaScript?" [level=3] [ref=e477]:
+                        - text: How do
+                        - emphasis [ref=e478]: functional programming
+                        - text: concepts apply in JavaScript?
+                    - button "Question" [ref=e481]
+                  - generic [ref=e485]: "Answer:"
+              - listitem [ref=e487]:
+                - article [ref=e488]:
+                  - generic [ref=e489] [cursor=pointer]:
+                    - generic [ref=e490]:
+                      - generic [ref=e491]: "14."
+                      - heading "What are IIFEs (Immediately Invoked Function Expressions)?" [level=3] [ref=e492]:
+                        - text: What are
+                        - emphasis [ref=e493]: IIFEs
+                        - text: (Immediately Invoked Function Expressions)?
+                    - button "Question" [ref=e496]
+                  - generic [ref=e500]: "Answer:"
+              - listitem [ref=e502]:
+                - article [ref=e503]:
+                  - generic [ref=e504] [cursor=pointer]:
+                    - generic [ref=e505]:
+                      - generic [ref=e506]: "15."
+                      - heading "How do you create private variables in JavaScript?" [level=3] [ref=e507]:
+                        - text: How do you create
+                        - emphasis [ref=e508]: private variables
+                        - text: in JavaScript?
+                    - button "Question" [ref=e511]
+                  - generic [ref=e515]: "Answer:"
+          - generic [ref=e517]:
+            - generic [ref=e518]:
+              - separator [ref=e519]
+              - heading "JavaScript Objects and Prototypes" [level=2] [ref=e520]
+              - separator [ref=e521]
+            - list [ref=e522]:
+              - listitem [ref=e523]:
+                - article [ref=e524]:
+                  - generic [ref=e525] [cursor=pointer]:
+                    - generic [ref=e526]:
+                      - generic [ref=e527]: "16."
+                      - heading "How do you create an object in JavaScript?" [level=3] [ref=e528]:
+                        - text: How do you create an
+                        - emphasis [ref=e529]: object
+                        - text: in JavaScript?
+                    - generic [ref=e530]:
+                      - img "Lock icon indicating premium question" [ref=e532]
+                      - button "Question" [ref=e534]
+                  - generic [ref=e538]: "Answer:"
+              - listitem [ref=e540]:
+                - article [ref=e541]:
+                  - generic [ref=e542] [cursor=pointer]:
+                    - generic [ref=e543]:
+                      - generic [ref=e544]: "17."
+                      - heading "What are prototypes in JavaScript?" [level=3] [ref=e545]:
+                        - text: What are
+                        - emphasis [ref=e546]: prototypes
+                        - text: in JavaScript?
+                    - generic [ref=e547]:
+                      - img "Lock icon indicating premium question" [ref=e549]
+                      - button "Question" [ref=e551]
+                  - generic [ref=e555]: "Answer:"
+              - listitem [ref=e557]:
+                - article [ref=e558]:
+                  - generic [ref=e559] [cursor=pointer]:
+                    - generic [ref=e560]:
+                      - generic [ref=e561]: "18."
+                      - heading "Explain prototypal inheritance." [level=3] [ref=e562]:
+                        - text: Explain
+                        - emphasis [ref=e563]: prototypal inheritance
+                        - text: .
+                    - generic [ref=e564]:
+                      - img "Lock icon indicating premium question" [ref=e566]
+                      - button "Question" [ref=e568]
+                  - generic [ref=e572]: "Answer:"
+              - listitem [ref=e574]:
+                - article [ref=e575]:
+                  - generic [ref=e576] [cursor=pointer]:
+                    - generic [ref=e577]:
+                      - generic [ref=e578]: "19."
+                      - heading "What is the difference between object literals and constructor functions?" [level=3] [ref=e579]:
+                        - text: What is the difference between
+                        - emphasis [ref=e580]: object literals
+                        - text: and
+                        - emphasis [ref=e581]: constructor functions
+                        - text: "?"
+                    - generic [ref=e582]:
+                      - img "Lock icon indicating premium question" [ref=e584]
+                      - button "Question" [ref=e586]
+                  - generic [ref=e590]: "Answer:"
+              - listitem [ref=e592]:
+                - article [ref=e593]:
+                  - generic [ref=e594] [cursor=pointer]:
+                    - generic [ref=e595]:
+                      - generic [ref=e596]: "20."
+                      - heading "How do you add or remove properties from an object?" [level=3] [ref=e597]:
+                        - text: How do you add or remove properties from an
+                        - emphasis [ref=e598]: object
+                        - text: "?"
+                    - generic [ref=e599]:
+                      - img "Lock icon indicating premium question" [ref=e601]
+                      - button "Question" [ref=e603]
+                  - generic [ref=e607]: "Answer:"
+          - generic [ref=e609]:
+            - generic [ref=e610]:
+              - separator [ref=e611]
+              - heading "Asynchronous JavaScript" [level=2] [ref=e612]
+              - separator [ref=e613]
+            - list [ref=e614]:
+              - listitem [ref=e615]:
+                - article [ref=e616]:
+                  - generic [ref=e617] [cursor=pointer]:
+                    - generic [ref=e618]:
+                      - generic [ref=e619]: "21."
+                      - heading "What is the event loop in JavaScript?" [level=3] [ref=e620]:
+                        - text: What is the
+                        - emphasis [ref=e621]: event loop
+                        - text: in JavaScript?
+                    - generic [ref=e622]:
+                      - img "Lock icon indicating premium question" [ref=e624]
+                      - button "Question" [ref=e626]
+                  - generic [ref=e630]: "Answer:"
+              - listitem [ref=e632]:
+                - article [ref=e633]:
+                  - generic [ref=e634] [cursor=pointer]:
+                    - generic [ref=e635]:
+                      - generic [ref=e636]: "22."
+                      - heading "Explain how callbacks work in JavaScript." [level=3] [ref=e637]:
+                        - text: Explain how
+                        - emphasis [ref=e638]: callbacks
+                        - text: work in JavaScript.
+                    - generic [ref=e639]:
+                      - img "Lock icon indicating premium question" [ref=e641]
+                      - button "Question" [ref=e643]
+                  - generic [ref=e647]: "Answer:"
+              - listitem [ref=e649]:
+                - article [ref=e650]:
+                  - generic [ref=e651] [cursor=pointer]:
+                    - generic [ref=e652]:
+                      - generic [ref=e653]: "23."
+                      - heading "What are promises and how do they manage asynchronous code?" [level=3] [ref=e654]:
+                        - text: What are
+                        - emphasis [ref=e655]: promises
+                        - text: and how do they manage
+                        - emphasis [ref=e656]: asynchronous code
+                        - text: "?"
+                    - generic [ref=e657]:
+                      - img "Lock icon indicating premium question" [ref=e659]
+                      - button "Question" [ref=e661]
+                  - generic [ref=e665]: "Answer:"
+              - listitem [ref=e667]:
+                - article [ref=e668]:
+                  - generic [ref=e669] [cursor=pointer]:
+                    - generic [ref=e670]:
+                      - generic [ref=e671]: "24."
+                      - heading "Explain async/await in JavaScript and how it differs from Promises." [level=3] [ref=e672]:
+                        - text: Explain
+                        - emphasis [ref=e673]: async/await
+                        - text: in JavaScript and how it differs from Promises.
+                    - generic [ref=e674]:
+                      - img "Lock icon indicating premium question" [ref=e676]
+                      - button "Question" [ref=e678]
+                  - generic [ref=e682]: "Answer:"
+              - listitem [ref=e684]:
+                - article [ref=e685]:
+                  - generic [ref=e686] [cursor=pointer]:
+                    - generic [ref=e687]:
+                      - generic [ref=e688]: "25."
+                      - heading "What is the Job Queue (or Microtask Queue)?" [level=3] [ref=e689]:
+                        - text: What is the
+                        - emphasis [ref=e690]: Job Queue
+                        - text: (or
+                        - emphasis [ref=e691]: Microtask Queue
+                        - text: )?
+                    - generic [ref=e692]:
+                      - img "Lock icon indicating premium question" [ref=e694]
+                      - button "Question" [ref=e696]
+                  - generic [ref=e700]: "Answer:"
+          - generic [ref=e702]:
+            - generic [ref=e703]:
+              - separator [ref=e704]
+              - heading "DOM Manipulation and Browser APIs" [level=2] [ref=e705]
+              - separator [ref=e706]
+            - list [ref=e707]:
+              - listitem [ref=e708]:
+                - article [ref=e709]:
+                  - generic [ref=e710] [cursor=pointer]:
+                    - generic [ref=e711]:
+                      - generic [ref=e712]: "26."
+                      - heading "How do you select DOM elements using JavaScript?" [level=3] [ref=e713]:
+                        - text: How do you select
+                        - emphasis [ref=e714]: DOM elements
+                        - text: using JavaScript?
+                    - generic [ref=e715]:
+                      - img "Lock icon indicating premium question" [ref=e717]
+                      - button "Question" [ref=e719]
+                  - generic [ref=e723]: "Answer:"
+              - listitem [ref=e725]:
+                - article [ref=e726]:
+                  - generic [ref=e727] [cursor=pointer]:
+                    - generic [ref=e728]:
+                      - generic [ref=e729]: "27."
+                      - heading "Explain event propagation in the DOM." [level=3] [ref=e730]:
+                        - text: Explain
+                        - emphasis [ref=e731]: event propagation
+                        - text: in the DOM.
+                    - generic [ref=e732]:
+                      - img "Lock icon indicating premium question" [ref=e734]
+                      - button "Question" [ref=e736]
+                  - generic [ref=e740]: "Answer:"
+              - listitem [ref=e742]:
+                - article [ref=e743]:
+                  - generic [ref=e744] [cursor=pointer]:
+                    - generic [ref=e745]:
+                      - generic [ref=e746]: "28."
+                      - heading "How do you prevent a form from submitting using JavaScript?" [level=3] [ref=e747]
+                    - generic [ref=e748]:
+                      - img "Lock icon indicating premium question" [ref=e750]
+                      - button "Question" [ref=e752]
+                  - generic [ref=e756]: "Answer:"
+              - listitem [ref=e758]:
+                - article [ref=e759]:
+                  - generic [ref=e760] [cursor=pointer]:
+                    - generic [ref=e761]:
+                      - generic [ref=e762]: "29."
+                      - heading "What are Web APIs in the context of JavaScript?" [level=3] [ref=e763]:
+                        - text: What are
+                        - emphasis [ref=e764]: Web APIs
+                        - text: in the context of JavaScript?
+                    - generic [ref=e765]:
+                      - img "Lock icon indicating premium question" [ref=e767]
+                      - button "Question" [ref=e769]
+                  - generic [ref=e773]: "Answer:"
+              - listitem [ref=e775]:
+                - article [ref=e776]:
+                  - generic [ref=e777] [cursor=pointer]:
+                    - generic [ref=e778]:
+                      - generic [ref=e779]: "30."
+                      - heading "How can you manipulate the browser history using JavaScript?" [level=3] [ref=e780]:
+                        - text: How can you manipulate the
+                        - emphasis [ref=e781]: browser history
+                        - text: using JavaScript?
+                    - generic [ref=e782]:
+                      - img "Lock icon indicating premium question" [ref=e784]
+                      - button "Question" [ref=e786]
+                  - generic [ref=e790]: "Answer:"
+          - generic [ref=e792]:
+            - generic [ref=e793]:
+              - separator [ref=e794]
+              - heading "ES2015+ and Modern JavaScript Features" [level=2] [ref=e795]
+              - separator [ref=e796]
+            - list [ref=e797]:
+              - listitem [ref=e798]:
+                - article [ref=e799]:
+                  - generic [ref=e800] [cursor=pointer]:
+                    - generic [ref=e801]:
+                      - generic [ref=e802]: "31."
+                      - heading "What are the new features introduced in ES6?" [level=3] [ref=e803]:
+                        - text: What are the new features introduced in
+                        - emphasis [ref=e804]: ES6
+                        - text: "?"
+                    - generic [ref=e805]:
+                      - img "Lock icon indicating premium question" [ref=e807]
+                      - button "Question" [ref=e809]
+                  - generic [ref=e813]: "Answer:"
+              - listitem [ref=e815]:
+                - article [ref=e816]:
+                  - generic [ref=e817] [cursor=pointer]:
+                    - generic [ref=e818]:
+                      - generic [ref=e819]: "32."
+                      - heading "How do you use destructuring assignments in ES6?" [level=3] [ref=e820]:
+                        - text: How do you use
+                        - emphasis [ref=e821]: destructuring assignments
+                        - text: in ES6?
+                    - generic [ref=e822]:
+                      - img "Lock icon indicating premium question" [ref=e824]
+                      - button "Question" [ref=e826]
+                  - generic [ref=e830]: "Answer:"
+              - listitem [ref=e832]:
+                - article [ref=e833]:
+                  - generic [ref=e834] [cursor=pointer]:
+                    - generic [ref=e835]:
+                      - generic [ref=e836]: "33."
+                      - heading "Explain the use of const and let keywords." [level=3] [ref=e837]:
+                        - text: Explain the use of
+                        - code [ref=e838]: const
+                        - text: and
+                        - code [ref=e839]: let
+                        - text: keywords.
+                    - generic [ref=e840]:
+                      - img "Lock icon indicating premium question" [ref=e842]
+                      - button "Question" [ref=e844]
+                  - generic [ref=e848]: "Answer:"
+              - listitem [ref=e850]:
+                - article [ref=e851]:
+                  - generic [ref=e852] [cursor=pointer]:
+                    - generic [ref=e853]:
+                      - generic [ref=e854]: "34."
+                      - heading "What are default parameters in JavaScript functions?" [level=3] [ref=e855]:
+                        - text: What are
+                        - emphasis [ref=e856]: default parameters
+                        - text: in JavaScript functions?
+                    - generic [ref=e857]:
+                      - img "Lock icon indicating premium question" [ref=e859]
+                      - button "Question" [ref=e861]
+                  - generic [ref=e865]: "Answer:"
+              - listitem [ref=e867]:
+                - article [ref=e868]:
+                  - generic [ref=e869] [cursor=pointer]:
+                    - generic [ref=e870]:
+                      - generic [ref=e871]: "35."
+                      - heading "Explain the concept of modules in ES6." [level=3] [ref=e872]:
+                        - text: Explain the concept of
+                        - emphasis [ref=e873]: modules
+                        - text: in ES6.
+                    - generic [ref=e874]:
+                      - img "Lock icon indicating premium question" [ref=e876]
+                      - button "Question" [ref=e878]
+                  - generic [ref=e882]: "Answer:"
+          - generic [ref=e884]:
+            - generic [ref=e885]:
+              - separator [ref=e886]
+              - heading "Event Handling" [level=2] [ref=e887]
+              - separator [ref=e888]
+            - list [ref=e889]:
+              - listitem [ref=e890]:
+                - article [ref=e891]:
+                  - generic [ref=e892] [cursor=pointer]:
+                    - generic [ref=e893]:
+                      - generic [ref=e894]: "36."
+                      - heading "How do you handle events in JavaScript?" [level=3] [ref=e895]:
+                        - text: How do you handle
+                        - emphasis [ref=e896]: events
+                        - text: in JavaScript?
+                    - generic [ref=e897]:
+                      - img "Lock icon indicating premium question" [ref=e899]
+                      - button "Question" [ref=e901]
+                  - generic [ref=e905]: "Answer:"
+              - listitem [ref=e907]:
+                - article [ref=e908]:
+                  - generic [ref=e909] [cursor=pointer]:
+                    - generic [ref=e910]:
+                      - generic [ref=e911]: "37."
+                      - heading "What is event delegation and why is it useful?" [level=3] [ref=e912]:
+                        - text: What is
+                        - emphasis [ref=e913]: event delegation
+                        - text: and why is it useful?
+                    - generic [ref=e914]:
+                      - img "Lock icon indicating premium question" [ref=e916]
+                      - button "Question" [ref=e918]
+                  - generic [ref=e922]: "Answer:"
+              - listitem [ref=e924]:
+                - article [ref=e925]:
+                  - generic [ref=e926] [cursor=pointer]:
+                    - generic [ref=e927]:
+                      - generic [ref=e928]: "38."
+                      - heading "How do you add and remove an event listener from an element?" [level=3] [ref=e929]:
+                        - text: How do you add and remove an
+                        - emphasis [ref=e930]: event listener
+                        - text: from an element?
+                    - generic [ref=e931]:
+                      - img "Lock icon indicating premium question" [ref=e933]
+                      - button "Question" [ref=e935]
+                  - generic [ref=e939]: "Answer:"
+              - listitem [ref=e941]:
+                - article [ref=e942]:
+                  - generic [ref=e943] [cursor=pointer]:
+                    - generic [ref=e944]:
+                      - generic [ref=e945]: "39."
+                      - heading "Can you explain how “this” works in event handlers?" [level=3] [ref=e946]:
+                        - text: Can you explain how “
+                        - emphasis [ref=e947]: this
+                        - text: ” works in event handlers?
+                    - generic [ref=e948]:
+                      - img "Lock icon indicating premium question" [ref=e950]
+                      - button "Question" [ref=e952]
+                  - generic [ref=e956]: "Answer:"
+              - listitem [ref=e958]:
+                - article [ref=e959]:
+                  - generic [ref=e960] [cursor=pointer]:
+                    - generic [ref=e961]:
+                      - generic [ref=e962]: "40."
+                      - heading "What is the difference between event.preventDefault() and event.stopPropagation()?" [level=3] [ref=e963]:
+                        - text: What is the difference between
+                        - emphasis [ref=e964]: event.preventDefault()
+                        - text: and
+                        - emphasis [ref=e965]: event.stopPropagation()
+                        - text: "?"
+                    - generic [ref=e966]:
+                      - img "Lock icon indicating premium question" [ref=e968]
+                      - button "Question" [ref=e970]
+                  - generic [ref=e974]: "Answer:"
+          - generic [ref=e976]:
+            - generic [ref=e977]:
+              - separator [ref=e978]
+              - heading "Web Storage and Security" [level=2] [ref=e979]
+              - separator [ref=e980]
+            - list [ref=e981]:
+              - listitem [ref=e982]:
+                - article [ref=e983]:
+                  - generic [ref=e984] [cursor=pointer]:
+                    - generic [ref=e985]:
+                      - generic [ref=e986]: "41."
+                      - heading "What is the difference between localStorage, sessionStorage, and cookies?" [level=3] [ref=e987]:
+                        - text: What is the difference between
+                        - emphasis [ref=e988]: localStorage
+                        - text: ","
+                        - emphasis [ref=e989]: sessionStorage
+                        - text: ", and"
+                        - emphasis [ref=e990]: cookies
+                        - text: "?"
+                    - generic [ref=e991]:
+                      - img "Lock icon indicating premium question" [ref=e993]
+                      - button "Question" [ref=e995]
+                  - generic [ref=e999]: "Answer:"
+              - listitem [ref=e1001]:
+                - article [ref=e1002]:
+                  - generic [ref=e1003] [cursor=pointer]:
+                    - generic [ref=e1004]:
+                      - generic [ref=e1005]: "42."
+                      - heading "Can you explain Cross-Site Scripting (XSS) and how to prevent it?" [level=3] [ref=e1006]:
+                        - text: Can you explain
+                        - emphasis [ref=e1007]: Cross-Site Scripting (XSS)
+                        - text: and how to prevent it?
+                    - generic [ref=e1008]:
+                      - img "Lock icon indicating premium question" [ref=e1010]
+                      - button "Question" [ref=e1012]
+                  - generic [ref=e1016]: "Answer:"
+              - listitem [ref=e1018]:
+                - article [ref=e1019]:
+                  - generic [ref=e1020] [cursor=pointer]:
+                    - generic [ref=e1021]:
+                      - generic [ref=e1022]: "43."
+                      - heading "What is Cross-Origin Resource Sharing (CORS) and how does it work?" [level=3] [ref=e1023]:
+                        - text: What is
+                        - emphasis [ref=e1024]: Cross-Origin Resource Sharing (CORS)
+                        - text: and how does it work?
+                    - generic [ref=e1025]:
+                      - img "Lock icon indicating premium question" [ref=e1027]
+                      - button "Question" [ref=e1029]
+                  - generic [ref=e1033]: "Answer:"
+              - listitem [ref=e1035]:
+                - article [ref=e1036]:
+                  - generic [ref=e1037] [cursor=pointer]:
+                    - generic [ref=e1038]:
+                      - generic [ref=e1039]: "44."
+                      - heading "How does content security policy (CSP) help in preventing security attacks?" [level=3] [ref=e1040]:
+                        - text: How does
+                        - emphasis [ref=e1041]: content security policy (CSP)
+                        - text: help in preventing security attacks?
+                    - generic [ref=e1042]:
+                      - img "Lock icon indicating premium question" [ref=e1044]
+                      - button "Question" [ref=e1046]
+                  - generic [ref=e1050]: "Answer:"
+          - generic [ref=e1052]:
+            - generic [ref=e1053]:
+              - separator [ref=e1054]
+              - heading "JavaScript Debugging" [level=2] [ref=e1055]
+              - separator [ref=e1056]
+            - list [ref=e1057]:
+              - listitem [ref=e1058]:
+                - article [ref=e1059]:
+                  - generic [ref=e1060] [cursor=pointer]:
+                    - generic [ref=e1061]:
+                      - generic [ref=e1062]: "45."
+                      - heading "What tools and techniques do you use for debugging JavaScript code?" [level=3] [ref=e1063]:
+                        - text: What tools and techniques do you use for
+                        - emphasis [ref=e1064]: debugging JavaScript code
+                        - text: "?"
+                    - generic [ref=e1065]:
+                      - img "Lock icon indicating premium question" [ref=e1067]
+                      - button "Question" [ref=e1069]
+                  - generic [ref=e1073]: "Answer:"
+              - listitem [ref=e1075]:
+                - article [ref=e1076]:
+                  - generic [ref=e1077] [cursor=pointer]:
+                    - generic [ref=e1078]:
+                      - generic [ref=e1079]: "46."
+                      - heading "How do you debug a JavaScript application in the browser?" [level=3] [ref=e1080]
+                    - generic [ref=e1081]:
+                      - img "Lock icon indicating premium question" [ref=e1083]
+                      - button "Question" [ref=e1085]
+                  - generic [ref=e1089]: "Answer:"
+              - listitem [ref=e1091]:
+                - article [ref=e1092]:
+                  - generic [ref=e1093] [cursor=pointer]:
+                    - generic [ref=e1094]:
+                      - generic [ref=e1095]: "47."
+                      - heading "Explain the concept and use of breakpoints." [level=3] [ref=e1096]:
+                        - text: Explain the concept and use of
+                        - emphasis [ref=e1097]: breakpoints
+                        - text: .
+                    - generic [ref=e1098]:
+                      - img "Lock icon indicating premium question" [ref=e1100]
+                      - button "Question" [ref=e1102]
+                  - generic [ref=e1106]: "Answer:"
+              - listitem [ref=e1108]:
+                - article [ref=e1109]:
+                  - generic [ref=e1110] [cursor=pointer]:
+                    - generic [ref=e1111]:
+                      - generic [ref=e1112]: "48."
+                      - heading "How do you handle exceptions in JavaScript?" [level=3] [ref=e1113]:
+                        - text: How do you handle
+                        - emphasis [ref=e1114]: exceptions
+                        - text: in JavaScript?
+                    - generic [ref=e1115]:
+                      - img "Lock icon indicating premium question" [ref=e1117]
+                      - button "Question" [ref=e1119]
+                  - generic [ref=e1123]: "Answer:"
+          - generic [ref=e1125]:
+            - generic [ref=e1126]:
+              - separator [ref=e1127]
+              - heading "Performance and Optimization" [level=2] [ref=e1128]
+              - separator [ref=e1129]
+            - list [ref=e1130]:
+              - listitem [ref=e1131]:
+                - article [ref=e1132]:
+                  - generic [ref=e1133] [cursor=pointer]:
+                    - generic [ref=e1134]:
+                      - generic [ref=e1135]: "49."
+                      - heading "What techniques can be used to improve JavaScript performance?" [level=3] [ref=e1136]:
+                        - text: What techniques can be used to improve
+                        - emphasis [ref=e1137]: JavaScript performance
+                        - text: "?"
+                    - generic [ref=e1138]:
+                      - img "Lock icon indicating premium question" [ref=e1140]
+                      - button "Question" [ref=e1142]
+                  - generic [ref=e1146]: "Answer:"
+              - listitem [ref=e1148]:
+                - article [ref=e1149]:
+                  - generic [ref=e1150] [cursor=pointer]:
+                    - generic [ref=e1151]:
+                      - generic [ref=e1152]: "50."
+                      - heading "How does JavaScript minification and bundling contribute to performance?" [level=3] [ref=e1153]:
+                        - text: How does
+                        - emphasis [ref=e1154]: JavaScript minification
+                        - text: and
+                        - emphasis [ref=e1155]: bundling
+                        - text: contribute to performance?
+                    - generic [ref=e1156]:
+                      - img "Lock icon indicating premium question" [ref=e1158]
+                      - button "Question" [ref=e1160]
+                  - generic [ref=e1164]: "Answer:"
+              - listitem [ref=e1166]:
+                - article [ref=e1167]:
+                  - generic [ref=e1168] [cursor=pointer]:
+                    - generic [ref=e1169]:
+                      - generic [ref=e1170]: "51."
+                      - heading "Discuss the importance of web page loading time and performance." [level=3] [ref=e1171]:
+                        - text: Discuss the importance of
+                        - emphasis [ref=e1172]: web page loading time
+                        - text: and
+                        - emphasis [ref=e1173]: performance
+                        - text: .
+                    - generic [ref=e1174]:
+                      - img "Lock icon indicating premium question" [ref=e1176]
+                      - button "Question" [ref=e1178]
+                  - generic [ref=e1182]: "Answer:"
+              - listitem [ref=e1184]:
+                - article [ref=e1185]:
+                  - generic [ref=e1186] [cursor=pointer]:
+                    - generic [ref=e1187]:
+                      - generic [ref=e1188]: "52."
+                      - heading "Explain how lazy loading works in JavaScript." [level=3] [ref=e1189]:
+                        - text: Explain how
+                        - emphasis [ref=e1190]: lazy loading
+                        - text: works in JavaScript.
+                    - generic [ref=e1191]:
+                      - img "Lock icon indicating premium question" [ref=e1193]
+                      - button "Question" [ref=e1195]
+                  - generic [ref=e1199]: "Answer:"
+          - generic [ref=e1201]:
+            - generic [ref=e1202]:
+              - separator [ref=e1203]
+              - heading "JavaScript Testing" [level=2] [ref=e1204]
+              - separator [ref=e1205]
+            - list [ref=e1206]:
+              - listitem [ref=e1207]:
+                - article [ref=e1208]:
+                  - generic [ref=e1209] [cursor=pointer]:
+                    - generic [ref=e1210]:
+                      - generic [ref=e1211]: "53."
+                      - heading "What are some JavaScript testing frameworks you know?" [level=3] [ref=e1212]:
+                        - text: What are some JavaScript
+                        - emphasis [ref=e1213]: testing frameworks
+                        - text: you know?
+                    - generic [ref=e1214]:
+                      - img "Lock icon indicating premium question" [ref=e1216]
+                      - button "Question" [ref=e1218]
+                  - generic [ref=e1222]: "Answer:"
+              - listitem [ref=e1224]:
+                - article [ref=e1225]:
+                  - generic [ref=e1226] [cursor=pointer]:
+                    - generic [ref=e1227]:
+                      - generic [ref=e1228]: "54."
+                      - heading "How can you write unit tests for JavaScript code?" [level=3] [ref=e1229]:
+                        - text: How can you write
+                        - emphasis [ref=e1230]: unit tests
+                        - text: for JavaScript code?
+                    - generic [ref=e1231]:
+                      - img "Lock icon indicating premium question" [ref=e1233]
+                      - button "Question" [ref=e1235]
+                  - generic [ref=e1239]: "Answer:"
+              - listitem [ref=e1241]:
+                - article [ref=e1242]:
+                  - generic [ref=e1243] [cursor=pointer]:
+                    - generic [ref=e1244]:
+                      - generic [ref=e1245]: "55."
+                      - heading "What is Test-Driven Development (TDD) in JavaScript?" [level=3] [ref=e1246]:
+                        - text: What is
+                        - emphasis [ref=e1247]: Test-Driven Development (TDD)
+                        - text: in JavaScript?
+                    - generic [ref=e1248]:
+                      - img "Lock icon indicating premium question" [ref=e1250]
+                      - button "Question" [ref=e1252]
+                  - generic [ref=e1256]: "Answer:"
+              - listitem [ref=e1258]:
+                - article [ref=e1259]:
+                  - generic [ref=e1260] [cursor=pointer]:
+                    - generic [ref=e1261]:
+                      - generic [ref=e1262]: "56."
+                      - heading "Can you explain the difference between unit and integration testing?" [level=3] [ref=e1263]:
+                        - text: Can you explain the difference between
+                        - emphasis [ref=e1264]: unit
+                        - text: and
+                        - emphasis [ref=e1265]: integration testing
+                        - text: "?"
+                    - generic [ref=e1266]:
+                      - img "Lock icon indicating premium question" [ref=e1268]
+                      - button "Question" [ref=e1270]
+                  - generic [ref=e1274]: "Answer:"
+          - generic [ref=e1276]:
+            - generic [ref=e1277]:
+              - separator [ref=e1278]
+              - heading "Networking with JavaScript" [level=2] [ref=e1279]
+              - separator [ref=e1280]
+            - list [ref=e1281]:
+              - listitem [ref=e1282]:
+                - article [ref=e1283]:
+                  - generic [ref=e1284] [cursor=pointer]:
+                    - generic [ref=e1285]:
+                      - generic [ref=e1286]: "57."
+                      - heading "How do you make HTTP requests in JavaScript?" [level=3] [ref=e1287]:
+                        - text: How do you make
+                        - emphasis [ref=e1288]: HTTP requests
+                        - text: in JavaScript?
+                    - generic [ref=e1289]:
+                      - img "Lock icon indicating premium question" [ref=e1291]
+                      - button "Question" [ref=e1293]
+                  - generic [ref=e1297]: "Answer:"
+              - listitem [ref=e1299]:
+                - article [ref=e1300]:
+                  - generic [ref=e1301] [cursor=pointer]:
+                    - generic [ref=e1302]:
+                      - generic [ref=e1303]: "58."
+                      - heading "What is the difference between XMLHttpRequest and Fetch API?" [level=3] [ref=e1304]:
+                        - text: What is the difference between
+                        - emphasis [ref=e1305]: XMLHttpRequest
+                        - text: and
+                        - emphasis [ref=e1306]: Fetch API
+                        - text: "?"
+                    - generic [ref=e1307]:
+                      - img "Lock icon indicating premium question" [ref=e1309]
+                      - button "Question" [ref=e1311]
+                  - generic [ref=e1315]: "Answer:"
+              - listitem [ref=e1317]:
+                - article [ref=e1318]:
+                  - generic [ref=e1319] [cursor=pointer]:
+                    - generic [ref=e1320]:
+                      - generic [ref=e1321]: "59."
+                      - heading "What is AJAX, and how does it work?" [level=3] [ref=e1322]:
+                        - text: What is
+                        - emphasis [ref=e1323]: AJAX
+                        - text: ", and how does it work?"
+                    - generic [ref=e1324]:
+                      - img "Lock icon indicating premium question" [ref=e1326]
+                      - button "Question" [ref=e1328]
+                  - generic [ref=e1332]: "Answer:"
+              - listitem [ref=e1334]:
+                - article [ref=e1335]:
+                  - generic [ref=e1336] [cursor=pointer]:
+                    - generic [ref=e1337]:
+                      - generic [ref=e1338]: "60."
+                      - heading "How do you use WebSockets in a web application?" [level=3] [ref=e1339]:
+                        - text: How do you use
+                        - emphasis [ref=e1340]: WebSockets
+                        - text: in a web application?
+                    - generic [ref=e1341]:
+                      - img "Lock icon indicating premium question" [ref=e1343]
+                      - button "Question" [ref=e1345]
+                  - generic [ref=e1349]: "Answer:"
+          - generic [ref=e1351]:
+            - generic [ref=e1352]:
+              - separator [ref=e1353]
+              - heading "JavaScript Patterns and Best Practices" [level=2] [ref=e1354]
+              - separator [ref=e1355]
+            - list [ref=e1356]:
+              - listitem [ref=e1357]:
+                - article [ref=e1358]:
+                  - generic [ref=e1359] [cursor=pointer]:
+                    - generic [ref=e1360]:
+                      - generic [ref=e1361]: "61."
+                      - heading "What is a design pattern in JavaScript?" [level=3] [ref=e1362]:
+                        - text: What is a
+                        - emphasis [ref=e1363]: design pattern
+                        - text: in JavaScript?
+                    - generic [ref=e1364]:
+                      - img "Lock icon indicating premium question" [ref=e1366]
+                      - button "Question" [ref=e1368]
+                  - generic [ref=e1372]: "Answer:"
+              - listitem [ref=e1374]:
+                - article [ref=e1375]:
+                  - generic [ref=e1376] [cursor=pointer]:
+                    - generic [ref=e1377]:
+                      - generic [ref=e1378]: "62."
+                      - heading "Can you explain the module pattern?" [level=3] [ref=e1379]:
+                        - text: Can you explain the
+                        - emphasis [ref=e1380]: module pattern
+                        - text: "?"
+                    - generic [ref=e1381]:
+                      - img "Lock icon indicating premium question" [ref=e1383]
+                      - button "Question" [ref=e1385]
+                  - generic [ref=e1389]: "Answer:"
+              - listitem [ref=e1391]:
+                - article [ref=e1392]:
+                  - generic [ref=e1393] [cursor=pointer]:
+                    - generic [ref=e1394]:
+                      - generic [ref=e1395]: "63."
+                      - heading "What is the Singleton pattern in JavaScript?" [level=3] [ref=e1396]:
+                        - text: What is the
+                        - emphasis [ref=e1397]: Singleton pattern
+                        - text: in JavaScript?
+                    - generic [ref=e1398]:
+                      - img "Lock icon indicating premium question" [ref=e1400]
+                      - button "Question" [ref=e1402]
+                  - generic [ref=e1406]: "Answer:"
+              - listitem [ref=e1408]:
+                - article [ref=e1409]:
+                  - generic [ref=e1410] [cursor=pointer]:
+                    - generic [ref=e1411]:
+                      - generic [ref=e1412]: "64."
+                      - heading "Explain the Revealing Module pattern." [level=3] [ref=e1413]:
+                        - text: Explain the
+                        - emphasis [ref=e1414]: Revealing Module pattern
+                        - text: .
+                    - generic [ref=e1415]:
+                      - img "Lock icon indicating premium question" [ref=e1417]
+                      - button "Question" [ref=e1419]
+                  - generic [ref=e1423]: "Answer:"
+              - listitem [ref=e1425]:
+                - article [ref=e1426]:
+                  - generic [ref=e1427] [cursor=pointer]:
+                    - generic [ref=e1428]:
+                      - generic [ref=e1429]: "65."
+                      - heading "What are some best practices for coding in JavaScript?" [level=3] [ref=e1430]:
+                        - text: What are some
+                        - emphasis [ref=e1431]: best practices
+                        - text: for coding in JavaScript?
+                    - generic [ref=e1432]:
+                      - img "Lock icon indicating premium question" [ref=e1434]
+                      - button "Question" [ref=e1436]
+                  - generic [ref=e1440]: "Answer:"
+          - generic [ref=e1442]:
+            - generic [ref=e1443]:
+              - separator [ref=e1444]
+              - heading "JavaScript Algorithms and Data Structures" [level=2] [ref=e1445]
+              - separator [ref=e1446]
+            - list [ref=e1447]:
+              - listitem [ref=e1448]:
+                - article [ref=e1449]:
+                  - generic [ref=e1450] [cursor=pointer]:
+                    - generic [ref=e1451]:
+                      - generic [ref=e1452]: "66."
+                      - heading "How do you implement a stack and a queue in JavaScript?" [level=3] [ref=e1453]:
+                        - text: How do you implement a
+                        - emphasis [ref=e1454]: stack
+                        - text: and a
+                        - emphasis [ref=e1455]: queue
+                        - text: in JavaScript?
+                    - generic [ref=e1456]:
+                      - img "Lock icon indicating premium question" [ref=e1458]
+                      - button "Question" [ref=e1460]
+                  - generic [ref=e1464]: "Answer:"
+              - listitem [ref=e1466]:
+                - article [ref=e1467]:
+                  - generic [ref=e1468] [cursor=pointer]:
+                    - generic [ref=e1469]:
+                      - generic [ref=e1470]: "67."
+                      - heading "Explain how to sort an array in JavaScript." [level=3] [ref=e1471]:
+                        - text: Explain how to sort an
+                        - emphasis [ref=e1472]: array
+                        - text: in JavaScript.
+                    - generic [ref=e1473]:
+                      - img "Lock icon indicating premium question" [ref=e1475]
+                      - button "Question" [ref=e1477]
+                  - generic [ref=e1481]: "Answer:"
+              - listitem [ref=e1483]:
+                - article [ref=e1484]:
+                  - generic [ref=e1485] [cursor=pointer]:
+                    - generic [ref=e1486]:
+                      - generic [ref=e1487]: "68."
+                      - heading "How do you check if a string is a palindrome?" [level=3] [ref=e1488]:
+                        - text: How do you check if a
+                        - emphasis [ref=e1489]: string
+                        - text: is a
+                        - emphasis [ref=e1490]: palindrome
+                        - text: "?"
+                    - generic [ref=e1491]:
+                      - img "Lock icon indicating premium question" [ref=e1493]
+                      - button "Question" [ref=e1495]
+                  - generic [ref=e1499]: "Answer:"
+              - listitem [ref=e1501]:
+                - article [ref=e1502]:
+                  - generic [ref=e1503] [cursor=pointer]:
+                    - generic [ref=e1504]:
+                      - generic [ref=e1505]: "69."
+                      - heading "Describe a recursive function and provide an example." [level=3] [ref=e1506]:
+                        - text: Describe a
+                        - emphasis [ref=e1507]: recursive function
+                        - text: and provide an example.
+                    - generic [ref=e1508]:
+                      - img "Lock icon indicating premium question" [ref=e1510]
+                      - button "Question" [ref=e1512]
+                  - generic [ref=e1516]: "Answer:"
+              - listitem [ref=e1518]:
+                - article [ref=e1519]:
+                  - generic [ref=e1520] [cursor=pointer]:
+                    - generic [ref=e1521]:
+                      - generic [ref=e1522]: "70."
+                      - heading "What is the time complexity of JavaScript operations?" [level=3] [ref=e1523]:
+                        - text: What is the
+                        - emphasis [ref=e1524]: time complexity
+                        - text: of JavaScript operations?
+                    - generic [ref=e1525]:
+                      - img "Lock icon indicating premium question" [ref=e1527]
+                      - button "Question" [ref=e1529]
+                  - generic [ref=e1533]: "Answer:"
+          - generic [ref=e1535]:
+            - generic [ref=e1536]:
+              - separator [ref=e1537]
+              - heading "JavaScript Libraries and Frameworks" [level=2] [ref=e1538]
+              - separator [ref=e1539]
+            - list [ref=e1540]:
+              - listitem [ref=e1541]:
+                - article [ref=e1542]:
+                  - generic [ref=e1543] [cursor=pointer]:
+                    - generic [ref=e1544]:
+                      - generic [ref=e1545]: "71."
+                      - heading "What is the difference between a library and a framework in JavaScript?" [level=3] [ref=e1546]:
+                        - text: What is the difference between a
+                        - emphasis [ref=e1547]: library
+                        - text: and a
+                        - emphasis [ref=e1548]: framework
+                        - text: in JavaScript?
+                    - generic [ref=e1549]:
+                      - img "Lock icon indicating premium question" [ref=e1551]
+                      - button "Question" [ref=e1553]
+                  - generic [ref=e1557]: "Answer:"
+              - listitem [ref=e1559]:
+                - article [ref=e1560]:
+                  - generic [ref=e1561] [cursor=pointer]:
+                    - generic [ref=e1562]:
+                      - generic [ref=e1563]: "72."
+                      - heading "Explain the Virtual DOM in React." [level=3] [ref=e1564]:
+                        - text: Explain the
+                        - emphasis [ref=e1565]: Virtual DOM
+                        - text: in
+                        - emphasis [ref=e1566]: React
+                        - text: .
+                    - generic [ref=e1567]:
+                      - img "Lock icon indicating premium question" [ref=e1569]
+                      - button "Question" [ref=e1571]
+                  - generic [ref=e1575]: "Answer:"
+              - listitem [ref=e1577]:
+                - article [ref=e1578]:
+                  - generic [ref=e1579] [cursor=pointer]:
+                    - generic [ref=e1580]:
+                      - generic [ref=e1581]: "73."
+                      - heading "How does data binding work in Angular?" [level=3] [ref=e1582]:
+                        - text: How does
+                        - emphasis [ref=e1583]: data binding
+                        - text: work in
+                        - emphasis [ref=e1584]: Angular
+                        - text: "?"
+                    - generic [ref=e1585]:
+                      - img "Lock icon indicating premium question" [ref=e1587]
+                      - button "Question" [ref=e1589]
+                  - generic [ref=e1593]: "Answer:"
+              - listitem [ref=e1595]:
+                - article [ref=e1596]:
+                  - generic [ref=e1597] [cursor=pointer]:
+                    - generic [ref=e1598]:
+                      - generic [ref=e1599]: "74."
+                      - heading "What is Vue.js and what sets it apart from other frameworks?" [level=3] [ref=e1600]:
+                        - text: What is
+                        - emphasis [ref=e1601]: Vue.js
+                        - text: and what sets it apart from other frameworks?
+                    - generic [ref=e1602]:
+                      - img "Lock icon indicating premium question" [ref=e1604]
+                      - button "Question" [ref=e1606]
+                  - generic [ref=e1610]: "Answer:"
+              - listitem [ref=e1612]:
+                - article [ref=e1613]:
+                  - generic [ref=e1614] [cursor=pointer]:
+                    - generic [ref=e1615]:
+                      - generic [ref=e1616]: "75."
+                      - heading "Can you describe the jQuery library and its applications?" [level=3] [ref=e1617]:
+                        - text: Can you describe the
+                        - emphasis [ref=e1618]: jQuery library
+                        - text: and its applications?
+                    - generic [ref=e1619]:
+                      - img "Lock icon indicating premium question" [ref=e1621]
+                      - button "Question" [ref=e1623]
+                  - generic [ref=e1627]: "Answer:"
+          - generic [ref=e1629]:
+            - generic [ref=e1630]:
+              - separator [ref=e1631]
+              - heading "JavaScript ES2017+ and Beyond" [level=2] [ref=e1632]
+              - separator [ref=e1633]
+            - list [ref=e1634]:
+              - listitem [ref=e1635]:
+                - article [ref=e1636]:
+                  - generic [ref=e1637] [cursor=pointer]:
+                    - generic [ref=e1638]:
+                      - generic [ref=e1639]: "76."
+                      - heading "What are async iterators and generators?" [level=3] [ref=e1640]:
+                        - text: What are
+                        - emphasis [ref=e1641]: async iterators
+                        - text: and
+                        - emphasis [ref=e1642]: generators
+                        - text: "?"
+                    - generic [ref=e1643]:
+                      - img "Lock icon indicating premium question" [ref=e1645]
+                      - button "Question" [ref=e1647]
+                  - generic [ref=e1651]: "Answer:"
+              - listitem [ref=e1653]:
+                - article [ref=e1654]:
+                  - generic [ref=e1655] [cursor=pointer]:
+                    - generic [ref=e1656]:
+                      - generic [ref=e1657]: "77."
+                      - heading "What is the purpose of the async keyword?" [level=3] [ref=e1658]:
+                        - text: What is the purpose of the
+                        - code [ref=e1659]: async
+                        - text: keyword?
+                    - generic [ref=e1660]:
+                      - img "Lock icon indicating premium question" [ref=e1662]
+                      - button "Question" [ref=e1664]
+                  - generic [ref=e1668]: "Answer:"
+              - listitem [ref=e1670]:
+                - article [ref=e1671]:
+                  - generic [ref=e1672] [cursor=pointer]:
+                    - generic [ref=e1673]:
+                      - generic [ref=e1674]: "78."
+                      - heading "Can you explain the use of Object.entries() and Object.values()?" [level=3] [ref=e1675]:
+                        - text: Can you explain the use of
+                        - code [ref=e1676]: Object.entries()
+                        - text: and
+                        - code [ref=e1677]: Object.values()
+                        - text: "?"
+                    - generic [ref=e1678]:
+                      - img "Lock icon indicating premium question" [ref=e1680]
+                      - button "Question" [ref=e1682]
+                  - generic [ref=e1686]: "Answer:"
+              - listitem [ref=e1688]:
+                - article [ref=e1689]:
+                  - generic [ref=e1690] [cursor=pointer]:
+                    - generic [ref=e1691]:
+                      - generic [ref=e1692]: "79."
+                      - heading "How does JavaScript Handle big integers (BigInt)?" [level=3] [ref=e1693]:
+                        - text: How does JavaScript Handle
+                        - emphasis [ref=e1694]: big integers
+                        - text: (
+                        - code [ref=e1695]: BigInt
+                        - text: )?
+                    - generic [ref=e1696]:
+                      - img "Lock icon indicating premium question" [ref=e1698]
+                      - button "Question" [ref=e1700]
+                  - generic [ref=e1704]: "Answer:"
+              - listitem [ref=e1706]:
+                - article [ref=e1707]:
+                  - generic [ref=e1708] [cursor=pointer]:
+                    - generic [ref=e1709]:
+                      - generic [ref=e1710]: "80."
+                      - heading "What are dynamic imports in JavaScript?" [level=3] [ref=e1711]:
+                        - text: What are
+                        - emphasis [ref=e1712]: dynamic imports
+                        - text: in JavaScript?
+                    - generic [ref=e1713]:
+                      - img "Lock icon indicating premium question" [ref=e1715]
+                      - button "Question" [ref=e1717]
+                  - generic [ref=e1721]: "Answer:"
+          - generic [ref=e1723]:
+            - generic [ref=e1724]:
+              - separator [ref=e1725]
+              - heading "Browser Compatibility and Transpilation" [level=2] [ref=e1726]
+              - separator [ref=e1727]
+            - list [ref=e1728]:
+              - listitem [ref=e1729]:
+                - article [ref=e1730]:
+                  - generic [ref=e1731] [cursor=pointer]:
+                    - generic [ref=e1732]:
+                      - generic [ref=e1733]: "81."
+                      - heading "How do you ensure your JavaScript code is cross-browser compatible?" [level=3] [ref=e1734]:
+                        - text: How do you ensure your JavaScript code is
+                        - emphasis [ref=e1735]: cross-browser compatible
+                        - text: "?"
+                    - generic [ref=e1736]:
+                      - img "Lock icon indicating premium question" [ref=e1738]
+                      - button "Question" [ref=e1740]
+                  - generic [ref=e1744]: "Answer:"
+              - listitem [ref=e1746]:
+                - article [ref=e1747]:
+                  - generic [ref=e1748] [cursor=pointer]:
+                    - generic [ref=e1749]:
+                      - generic [ref=e1750]: "82."
+                      - heading "What is Babel and how is it used in JavaScript development?" [level=3] [ref=e1751]:
+                        - text: What is
+                        - emphasis [ref=e1752]: Babel
+                        - text: and how is it used in JavaScript development?
+                    - generic [ref=e1753]:
+                      - img "Lock icon indicating premium question" [ref=e1755]
+                      - button "Question" [ref=e1757]
+                  - generic [ref=e1761]: "Answer:"
+              - listitem [ref=e1763]:
+                - article [ref=e1764]:
+                  - generic [ref=e1765] [cursor=pointer]:
+                    - generic [ref=e1766]:
+                      - generic [ref=e1767]: "83."
+                      - heading "What are polyfills, and when would you use them?" [level=3] [ref=e1768]:
+                        - text: What are
+                        - emphasis [ref=e1769]: polyfills
+                        - text: ", and when would you use them?"
+                    - generic [ref=e1770]:
+                      - img "Lock icon indicating premium question" [ref=e1772]
+                      - button "Question" [ref=e1774]
+                  - generic [ref=e1778]: "Answer:"
+          - generic [ref=e1780]:
+            - generic [ref=e1781]:
+              - separator [ref=e1782]
+              - heading "JavaScript and the DOM" [level=2] [ref=e1783]
+              - separator [ref=e1784]
+            - list [ref=e1785]:
+              - listitem [ref=e1786]:
+                - article [ref=e1787]:
+                  - generic [ref=e1788] [cursor=pointer]:
+                    - generic [ref=e1789]:
+                      - generic [ref=e1790]: "84."
+                      - heading "What is the Document Object Model (DOM)?" [level=3] [ref=e1791]:
+                        - text: What is the
+                        - emphasis [ref=e1792]: Document Object Model (DOM)
+                        - text: "?"
+                    - generic [ref=e1793]:
+                      - img "Lock icon indicating premium question" [ref=e1795]
+                      - button "Question" [ref=e1797]
+                  - generic [ref=e1801]: "Answer:"
+              - listitem [ref=e1803]:
+                - article [ref=e1804]:
+                  - generic [ref=e1805] [cursor=pointer]:
+                    - generic [ref=e1806]:
+                      - generic [ref=e1807]: "85."
+                      - heading "How do you create, append, or remove an element from the DOM?" [level=3] [ref=e1808]:
+                        - text: How do you create, append, or remove an element from the
+                        - emphasis [ref=e1809]: DOM
+                        - text: "?"
+                    - generic [ref=e1810]:
+                      - img "Lock icon indicating premium question" [ref=e1812]
+                      - button "Question" [ref=e1814]
+                  - generic [ref=e1818]: "Answer:"
+              - listitem [ref=e1820]:
+                - article [ref=e1821]:
+                  - generic [ref=e1822] [cursor=pointer]:
+                    - generic [ref=e1823]:
+                      - generic [ref=e1824]: "86."
+                      - heading "Describe different ways to find or access HTML elements in the DOM." [level=3] [ref=e1825]:
+                        - text: Describe different ways to find or access HTML elements in the
+                        - emphasis [ref=e1826]: DOM
+                        - text: .
+                    - generic [ref=e1827]:
+                      - img "Lock icon indicating premium question" [ref=e1829]
+                      - button "Question" [ref=e1831]
+                  - generic [ref=e1835]: "Answer:"
+              - listitem [ref=e1837]:
+                - article [ref=e1838]:
+                  - generic [ref=e1839] [cursor=pointer]:
+                    - generic [ref=e1840]:
+                      - generic [ref=e1841]: "87."
+                      - heading "Explain the difference between innerHTML and textContent." [level=3] [ref=e1842]:
+                        - text: Explain the difference between
+                        - code [ref=e1843]: innerHTML
+                        - text: and
+                        - code [ref=e1844]: textContent
+                        - text: .
+                    - generic [ref=e1845]:
+                      - img "Lock icon indicating premium question" [ref=e1847]
+                      - button "Question" [ref=e1849]
+                  - generic [ref=e1853]: "Answer:"
+              - listitem [ref=e1855]:
+                - article [ref=e1856]:
+                  - generic [ref=e1857] [cursor=pointer]:
+                    - generic [ref=e1858]:
+                      - generic [ref=e1859]: "88."
+                      - heading "How do you handle DOM events in a memory-efficient way?" [level=3] [ref=e1860]:
+                        - text: How do you handle
+                        - emphasis [ref=e1861]: DOM events
+                        - text: in a memory-efficient way?
+                    - generic [ref=e1862]:
+                      - img "Lock icon indicating premium question" [ref=e1864]
+                      - button "Question" [ref=e1866]
+                  - generic [ref=e1870]: "Answer:"
+          - generic [ref=e1872]:
+            - generic [ref=e1873]:
+              - separator [ref=e1874]
+              - heading "Tooling and Build Systems" [level=2] [ref=e1875]
+              - separator [ref=e1876]
+            - list [ref=e1877]:
+              - listitem [ref=e1878]:
+                - article [ref=e1879]:
+                  - generic [ref=e1880] [cursor=pointer]:
+                    - generic [ref=e1881]:
+                      - generic [ref=e1882]: "89."
+                      - heading "What is npm, and how do you use it?" [level=3] [ref=e1883]:
+                        - text: What is
+                        - emphasis [ref=e1884]: npm
+                        - text: ", and how do you use it?"
+                    - generic [ref=e1885]:
+                      - img "Lock icon indicating premium question" [ref=e1887]
+                      - button "Question" [ref=e1889]
+                  - generic [ref=e1893]: "Answer:"
+              - listitem [ref=e1895]:
+                - article [ref=e1896]:
+                  - generic [ref=e1897] [cursor=pointer]:
+                    - generic [ref=e1898]:
+                      - generic [ref=e1899]: "90."
+                      - heading "Discuss the role of Webpack in modern JavaScript development." [level=3] [ref=e1900]:
+                        - text: Discuss the role of
+                        - emphasis [ref=e1901]: Webpack
+                        - text: in modern JavaScript development.
+                    - generic [ref=e1902]:
+                      - img "Lock icon indicating premium question" [ref=e1904]
+                      - button "Question" [ref=e1906]
+                  - generic [ref=e1910]: "Answer:"
+              - listitem [ref=e1912]:
+                - article [ref=e1913]:
+                  - generic [ref=e1914] [cursor=pointer]:
+                    - generic [ref=e1915]:
+                      - generic [ref=e1916]: "91."
+                      - heading "What is a source map?" [level=3] [ref=e1917]:
+                        - text: What is a
+                        - emphasis [ref=e1918]: source map
+                        - text: "?"
+                    - generic [ref=e1919]:
+                      - img "Lock icon indicating premium question" [ref=e1921]
+                      - button "Question" [ref=e1923]
+                  - generic [ref=e1927]: "Answer:"
+              - listitem [ref=e1929]:
+                - article [ref=e1930]:
+                  - generic [ref=e1931] [cursor=pointer]:
+                    - generic [ref=e1932]:
+                      - generic [ref=e1933]: "92."
+                      - heading "How do you use ESLint for maintaining JavaScript code quality?" [level=3] [ref=e1934]:
+                        - text: How do you use
+                        - emphasis [ref=e1935]: ESLint
+                        - text: for maintaining JavaScript code quality?
+                    - generic [ref=e1936]:
+                      - img "Lock icon indicating premium question" [ref=e1938]
+                      - button "Question" [ref=e1940]
+                  - generic [ref=e1944]: "Answer:"
+              - listitem [ref=e1946]:
+                - article [ref=e1947]:
+                  - generic [ref=e1948] [cursor=pointer]:
+                    - generic [ref=e1949]:
+                      - generic [ref=e1950]: "93."
+                      - heading "What is continuous integration/continuous deployment (CI/CD) in the context of JS development?" [level=3] [ref=e1951]:
+                        - text: What is
+                        - emphasis [ref=e1952]: continuous integration/continuous deployment (CI/CD)
+                        - text: in the context of JS development?
+                    - generic [ref=e1953]:
+                      - img "Lock icon indicating premium question" [ref=e1955]
+                      - button "Question" [ref=e1957]
+                  - generic [ref=e1961]: "Answer:"
+          - generic [ref=e1963]:
+            - generic [ref=e1964]:
+              - separator [ref=e1965]
+              - heading "JavaScript and the Web Platform" [level=2] [ref=e1966]
+              - separator [ref=e1967]
+            - list [ref=e1968]:
+              - listitem [ref=e1969]:
+                - article [ref=e1970]:
+                  - generic [ref=e1971] [cursor=pointer]:
+                    - generic [ref=e1972]:
+                      - generic [ref=e1973]: "94."
+                      - heading "What is the Window object and its significance?" [level=3] [ref=e1974]:
+                        - text: What is the
+                        - emphasis [ref=e1975]: Window
+                        - text: object and its significance?
+                    - generic [ref=e1976]:
+                      - img "Lock icon indicating premium question" [ref=e1978]
+                      - button "Question" [ref=e1980]
+                  - generic [ref=e1984]: "Answer:"
+              - listitem [ref=e1986]:
+                - article [ref=e1987]:
+                  - generic [ref=e1988] [cursor=pointer]:
+                    - generic [ref=e1989]:
+                      - generic [ref=e1990]: "95."
+                      - heading "Explain the Document object." [level=3] [ref=e1991]:
+                        - text: Explain the
+                        - emphasis [ref=e1992]: Document
+                        - text: object.
+                    - generic [ref=e1993]:
+                      - img "Lock icon indicating premium question" [ref=e1995]
+                      - button "Question" [ref=e1997]
+                  - generic [ref=e2001]: "Answer:"
+              - listitem [ref=e2003]:
+                - article [ref=e2004]:
+                  - generic [ref=e2005] [cursor=pointer]:
+                    - generic [ref=e2006]:
+                      - generic [ref=e2007]: "96."
+                      - heading "What new features does HTML5 bring to JavaScript development?" [level=3] [ref=e2008]:
+                        - text: What new features does
+                        - emphasis [ref=e2009]: HTML5
+                        - text: bring to JavaScript development?
+                    - generic [ref=e2010]:
+                      - img "Lock icon indicating premium question" [ref=e2012]
+                      - button "Question" [ref=e2014]
+                  - generic [ref=e2018]: "Answer:"
+              - listitem [ref=e2020]:
+                - article [ref=e2021]:
+                  - generic [ref=e2022] [cursor=pointer]:
+                    - generic [ref=e2023]:
+                      - generic [ref=e2024]: "97."
+                      - heading "Discuss the role of JavaScript in Progressive Web Apps (PWAs)." [level=3] [ref=e2025]:
+                        - text: Discuss the role of JavaScript in
+                        - emphasis [ref=e2026]: Progressive Web Apps (PWAs)
+                        - text: .
+                    - generic [ref=e2027]:
+                      - img "Lock icon indicating premium question" [ref=e2029]
+                      - button "Question" [ref=e2031]
+                  - generic [ref=e2035]: "Answer:"
+          - generic [ref=e2037]:
+            - generic [ref=e2038]:
+              - separator [ref=e2039]
+              - heading "JavaScript and Mobile Development" [level=2] [ref=e2040]
+              - separator [ref=e2041]
+            - list [ref=e2042]:
+              - listitem [ref=e2043]:
+                - article [ref=e2044]:
+                  - generic [ref=e2045] [cursor=pointer]:
+                    - generic [ref=e2046]:
+                      - generic [ref=e2047]: "98."
+                      - heading "Explain how to use JavaScript for mobile development." [level=3] [ref=e2048]
+                    - generic [ref=e2049]:
+                      - img "Lock icon indicating premium question" [ref=e2051]
+                      - button "Question" [ref=e2053]
+                  - generic [ref=e2057]: "Answer:"
+              - listitem [ref=e2059]:
+                - article [ref=e2060]:
+                  - generic [ref=e2061] [cursor=pointer]:
+                    - generic [ref=e2062]:
+                      - generic [ref=e2063]: "99."
+                      - heading "What is React Native and how does it differ from traditional web apps?" [level=3] [ref=e2064]:
+                        - text: What is
+                        - emphasis [ref=e2065]: React Native
+                        - text: and how does it differ from traditional web apps?
+                    - generic [ref=e2066]:
+                      - img "Lock icon indicating premium question" [ref=e2068]
+                      - button "Question" [ref=e2070]
+                  - generic [ref=e2074]: "Answer:"
+              - listitem [ref=e2076]:
+                - article [ref=e2077]:
+                  - generic [ref=e2078] [cursor=pointer]:
+                    - generic [ref=e2079]:
+                      - generic [ref=e2080]: "100."
+                      - heading "How does JavaScript interact with native mobile components?" [level=3] [ref=e2081]
+                    - generic [ref=e2082]:
+                      - img "Lock icon indicating premium question" [ref=e2084]
+                      - button "Question" [ref=e2086]
+                  - generic [ref=e2090]: "Answer:"
+  - generic [ref=e2094]:
+    - generic [ref=e2095]:
+      - img "graph icon" [ref=e2096]
+      - heading "Track progress" [level=1] [ref=e2097]
+      - paragraph [ref=e2099]: Simple interface helps to track your learning progress. Easily navigate through the wide range of questions and focus on key topics you need for your interview success.
+    - generic [ref=e2100]:
+      - img "clock icon" [ref=e2101]
+      - heading "Save time" [level=1] [ref=e2102]
+      - paragraph [ref=e2104]: Save countless hours searching for information on hundreds of low-quality sites designed to drive traffic and make money from advertising.
+  - generic [ref=e2107]:
+    - paragraph [ref=e2108]: Land a six-figure job at one of the top tech companies
+    - generic [ref=e2109]:
+      - img "amazon logo" [ref=e2110]
+      - img "meta logo" [ref=e2111]
+      - img "google logo" [ref=e2112]
+      - img "microsoft logo" [ref=e2113]
+      - img "openai logo" [ref=e2114]
+  - generic [ref=e2116]:
+    - generic [ref=e2117]: Ready to nail your next interview?
+    - heading "Stand out and get your dream job" [level=1] [ref=e2118]
+    - button "Kickstart your prep" [ref=e2119] [cursor=pointer]
+  - generic [ref=e2122]:
+    - link "logo" [ref=e2124] [cursor=pointer]:
+      - /url: /
+      - img "logo" [ref=e2125]
+    - generic [ref=e2126]:
+      - link "Blog" [ref=e2127] [cursor=pointer]:
+        - /url: /blog-posts
+      - link "Terms of use" [ref=e2128] [cursor=pointer]:
+        - /url: /terms/terms
+      - link "Privacy policy" [ref=e2129] [cursor=pointer]:
+        - /url: /terms/privacy
+      - link "Pricing" [ref=e2130] [cursor=pointer]:
+        - /url: /terms/pricing
+      - link "FAQs" [ref=e2131] [cursor=pointer]:
+        - /url: /terms/faq
+      - link "Contact Us" [ref=e2132] [cursor=pointer]:
+        - /url: /terms/contacts
+      - paragraph [ref=e2133]: © 2026 Devinterview.io
+  - generic [ref=e2134] [cursor=pointer]:
+    - img "scroll up button" [ref=e2135]
+    - paragraph [ref=e2136]: Go up

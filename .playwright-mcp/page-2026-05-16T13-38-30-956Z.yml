@@ -1,0 +1,363 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]:
+          - generic [ref=e6]: 
+          - generic [ref=e7]: InterviewQ
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - generic [ref=e10]: "10308"
+            - generic [ref=e11]: Questions
+          - generic [ref=e12]:
+            - generic [ref=e13]: "14"
+            - generic [ref=e14]: Topics
+        - generic [ref=e15]:
+          - button "Refresh questions" [ref=e16] [cursor=pointer]:
+            - generic: 
+          - text: 
+    - main [ref=e17]:
+      - complementary [ref=e18]:
+        - heading " Filters" [level=2] [ref=e20]:
+          - generic [ref=e21]: 
+          - text: Filters
+        - generic [ref=e22]:
+          - heading "Topic" [level=3] [ref=e23]
+          - generic [ref=e24]:
+            - generic [ref=e25] [cursor=pointer]:
+              - radio " All Topics 10308" [checked]
+              - generic [ref=e26]:
+                - generic [ref=e27]: 
+                - text: All Topics
+                - generic [ref=e28]: "10308"
+            - generic [ref=e29] [cursor=pointer]:
+              - radio " DSA 3398"
+              - generic [ref=e30]:
+                - generic [ref=e31]: 
+                - text: DSA
+                - generic [ref=e32]: "3398"
+            - generic [ref=e33] [cursor=pointer]:
+              - radio " Spring Boot 1666"
+              - generic [ref=e34]:
+                - generic [ref=e35]: 
+                - text: Spring Boot
+                - generic [ref=e36]: "1666"
+            - generic [ref=e37] [cursor=pointer]:
+              - radio " AWS 1430"
+              - generic [ref=e38]:
+                - generic [ref=e39]: 
+                - text: AWS
+                - generic [ref=e40]: "1430"
+            - generic [ref=e41] [cursor=pointer]:
+              - radio " MongoDB 1087"
+              - generic [ref=e42]:
+                - generic [ref=e43]: 
+                - text: MongoDB
+                - generic [ref=e44]: "1087"
+            - generic [ref=e45] [cursor=pointer]:
+              - radio " Troubleshooting 1060"
+              - generic [ref=e46]:
+                - generic [ref=e47]: 
+                - text: Troubleshooting
+                - generic [ref=e48]: "1060"
+            - generic [ref=e49] [cursor=pointer]:
+              - radio " Kubernetes 631"
+              - generic [ref=e50]:
+                - generic [ref=e51]: 
+                - text: Kubernetes
+                - generic [ref=e52]: "631"
+            - generic [ref=e53] [cursor=pointer]:
+              - radio " System Design 408"
+              - generic [ref=e54]:
+                - generic [ref=e55]: 
+                - text: System Design
+                - generic [ref=e56]: "408"
+            - generic [ref=e57] [cursor=pointer]:
+              - radio " Backend Development 205"
+              - generic [ref=e58]:
+                - generic [ref=e59]: 
+                - text: Backend Development
+                - generic [ref=e60]: "205"
+            - generic [ref=e61] [cursor=pointer]:
+              - radio " Performance 205"
+              - generic [ref=e62]:
+                - generic [ref=e63]: 
+                - text: Performance
+                - generic [ref=e64]: "205"
+            - generic [ref=e65] [cursor=pointer]:
+              - radio " Security 57"
+              - generic [ref=e66]:
+                - generic [ref=e67]: 
+                - text: Security
+                - generic [ref=e68]: "57"
+            - generic [ref=e69] [cursor=pointer]:
+              - radio " Docker 56"
+              - generic [ref=e70]:
+                - generic [ref=e71]: 
+                - text: Docker
+                - generic [ref=e72]: "56"
+            - generic [ref=e73] [cursor=pointer]:
+              - radio " Microservices 50"
+              - generic [ref=e74]:
+                - generic [ref=e75]: 
+                - text: Microservices
+                - generic [ref=e76]: "50"
+            - generic [ref=e77] [cursor=pointer]:
+              - radio " Generative AI 49"
+              - generic [ref=e78]:
+                - generic [ref=e79]: 
+                - text: Generative AI
+                - generic [ref=e80]: "49"
+            - generic [ref=e81] [cursor=pointer]:
+              - radio " HTML 6"
+              - generic [ref=e82]:
+                - generic [ref=e83]: 
+                - text: HTML
+                - generic [ref=e84]: "6"
+        - generic [ref=e85]:
+          - heading "Difficulty" [level=3] [ref=e86]
+          - generic [ref=e87]:
+            - generic [ref=e88] [cursor=pointer]:
+              - radio " All Levels" [checked]
+              - generic [ref=e89]:
+                - generic [ref=e90]: 
+                - text: All Levels
+            - generic [ref=e91] [cursor=pointer]:
+              - radio " Easy"
+              - generic [ref=e92]:
+                - generic [ref=e93]: 
+                - text: Easy
+            - generic [ref=e94] [cursor=pointer]:
+              - radio " Medium"
+              - generic [ref=e95]:
+                - generic [ref=e96]: 
+                - text: Medium
+            - generic [ref=e97] [cursor=pointer]:
+              - radio " Hard"
+              - generic [ref=e98]:
+                - generic [ref=e99]: 
+                - text: Hard
+        - button " Reset Filters" [ref=e101] [cursor=pointer]:
+          - generic [ref=e102]: 
+          - text: Reset Filters
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - generic [ref=e105]:
+            - generic [ref=e106]: 
+            - textbox "Search questions by scenario, technology, or keyword..." [ref=e107]
+            - text: 
+          - generic [ref=e108]: Showing 15 of 10308 questions
+        - generic [ref=e109]:
+          - generic [ref=e110]:
+            - generic [ref=e111]:
+              - generic [ref=e112] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e114]: AWS
+              - generic [ref=e115]: Medium
+            - generic [ref=e116]:
+              - paragraph [ref=e117]: Design an architecture using ALB, DynamoDB, and Cognito for a web app. How do they integrate?
+              - generic [ref=e118]:
+                - button "Show Solution " [ref=e119] [cursor=pointer]:
+                  - generic [ref=e120]: Show Solution
+                  - generic [ref=e121]: 
+                - paragraph [ref=e122]: "Architecture: ALB for compute/storage, DynamoDB for messaging/data, use IAM for security. Use VPC for networking. Auto-scale with load balancer. Monitor with CloudWatch. Follow AWS Well-Architected Framework."
+          - generic [ref=e123]:
+            - generic [ref=e124]:
+              - generic [ref=e125] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e127]: DSA
+              - generic [ref=e128]: Hard
+            - generic [ref=e129]:
+              - paragraph [ref=e130]: Design distributed LFU cache for processing 1M items with range query. Handle clock skew.
+              - generic [ref=e131]:
+                - button "Show Solution " [ref=e132] [cursor=pointer]:
+                  - generic [ref=e133]: Show Solution
+                  - generic [ref=e134]: 
+                - paragraph [ref=e135]: Advanced DS technique. Handle clock skew with appropriate data structure. Consider distributed/parallel approach.
+          - generic [ref=e136]:
+            - generic [ref=e137]:
+              - generic [ref=e138] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e140]: DSA
+              - generic [ref=e141]: Medium
+            - generic [ref=e142]:
+              - paragraph [ref=e143]: Implement graph that supports rotate. Handle negative values.
+              - generic [ref=e144]:
+                - button "Show Solution " [ref=e145] [cursor=pointer]:
+                  - generic [ref=e146]: Show Solution
+                  - generic [ref=e147]: 
+                - paragraph [ref=e148]: Apply optimal DS & algorithm. Focus on time complexity.
+          - generic [ref=e149]:
+            - generic [ref=e150]:
+              - generic [ref=e151] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e153]: Spring Boot
+              - generic [ref=e154]: Medium
+            - generic [ref=e155]:
+              - paragraph [ref=e156]: Design a REST API using Spring Boot with @ControllerAdvice. Handle caching responses. Explain the architecture pattern.
+              - generic [ref=e157]:
+                - button "Show Solution " [ref=e158] [cursor=pointer]:
+                  - generic [ref=e159]: Show Solution
+                  - generic [ref=e160]: 
+                - paragraph [ref=e161]: "Use layered architecture: Controller -> Service -> Repository. @ControllerAdvice enables specific functionality. Handle caching responses with proper configuration. Add error handling with @ControllerAdvice, caching with @Cacheable."
+          - generic [ref=e162]:
+            - generic [ref=e163]:
+              - generic [ref=e164] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e166]: Spring Boot
+              - generic [ref=e167]: Hard
+            - generic [ref=e168]:
+              - paragraph [ref=e169]: Implement a scalable REST API in Spring Boot using @Scheduled and @RestController. Handle handling high traffic for 1000 requests/sec. Consider distributed systems patterns.
+              - generic [ref=e170]:
+                - button "Show Solution " [ref=e171] [cursor=pointer]:
+                  - generic [ref=e172]: Show Solution
+                  - generic [ref=e173]: 
+                - paragraph [ref=e174]: Use reactive stack (WebFlux) for high throughput. Implement circuit breaker with Resilience4j. Distribute with Kafka. Cache with Redis. Monitor with Micrometer + Prometheus. Handle handling high traffic with appropriate backpressure and throttling.
+          - generic [ref=e175]:
+            - generic [ref=e176]:
+              - generic [ref=e177] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e179]: Spring Boot
+              - generic [ref=e180]: Medium
+            - generic [ref=e181]:
+              - paragraph [ref=e182]: Design a microservice using Spring Boot with @RestController. Handle processing files. Explain the architecture pattern.
+              - generic [ref=e183]:
+                - button "Show Solution " [ref=e184] [cursor=pointer]:
+                  - generic [ref=e185]: Show Solution
+                  - generic [ref=e186]: 
+                - paragraph [ref=e187]: "Use layered architecture: Controller -> Service -> Repository. @RestController enables specific functionality. Handle processing files with proper configuration. Add error handling with @ControllerAdvice, caching with @Cacheable."
+          - generic [ref=e188]:
+            - generic [ref=e189]:
+              - generic [ref=e190] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e192]: DSA
+              - generic [ref=e193]: Hard
+            - generic [ref=e194]:
+              - paragraph [ref=e195]: Design distributed LRU cache for processing 10M items with range query. Handle network partitions.
+              - generic [ref=e196]:
+                - button "Show Solution " [ref=e197] [cursor=pointer]:
+                  - generic [ref=e198]: Show Solution
+                  - generic [ref=e199]: 
+                - paragraph [ref=e200]: Advanced DS technique. Handle network partitions with appropriate data structure. Consider distributed/parallel approach.
+          - generic [ref=e201]:
+            - generic [ref=e202]:
+              - generic [ref=e203] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e205]: DSA
+              - generic [ref=e206]: Hard
+            - generic [ref=e207]:
+              - paragraph [ref=e208]: Design distributed segment tree for processing 10M items with nearest neighbor. Handle hot keys.
+              - generic [ref=e209]:
+                - button "Show Solution " [ref=e210] [cursor=pointer]:
+                  - generic [ref=e211]: Show Solution
+                  - generic [ref=e212]: 
+                - paragraph [ref=e213]: Advanced DS technique. Handle hot keys with appropriate data structure. Consider distributed/parallel approach.
+          - generic [ref=e214]:
+            - generic [ref=e215]:
+              - generic [ref=e216] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e218]: Kubernetes
+              - generic [ref=e219]: Medium
+            - generic [ref=e220]:
+              - paragraph [ref=e221]: How do you configure ConfigMap for a API service in Kubernetes? Handle security.
+              - generic [ref=e222]:
+                - button "Show Solution " [ref=e223] [cursor=pointer]:
+                  - generic [ref=e224]: Show Solution
+                  - generic [ref=e225]: 
+                - paragraph [ref=e226]: "Define ConfigMap manifest with proper spec. For scaling: HPA with CPU/memory targets. Networking: Service + Ingress. Storage: PVC with StorageClass. Security: NetworkPolicy + RBAC."
+          - generic [ref=e227]:
+            - generic [ref=e228]:
+              - generic [ref=e229] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e231]: System Design
+              - generic [ref=e232]: Hard
+            - generic [ref=e233]:
+              - paragraph [ref=e234]: Design Slack. Handle 1M requests/sec. Discuss API design.
+              - generic [ref=e235]:
+                - button "Show Solution " [ref=e236] [cursor=pointer]:
+                  - generic [ref=e237]: Show Solution
+                  - generic [ref=e238]: 
+                - paragraph [ref=e239]: "Architecture: microservices + API gateway. DB: DynamoDB. Cache: Redis + CDN. CAP: CP. Scale: horizontal sharding + read replicas. Handle 1M requests/sec with auto-scaling and load balancing."
+          - generic [ref=e240]:
+            - generic [ref=e241]:
+              - generic [ref=e242] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e244]: DSA
+              - generic [ref=e245]: Medium
+            - generic [ref=e246]:
+              - paragraph [ref=e247]: Implement binary tree that supports search. Handle null input.
+              - generic [ref=e248]:
+                - button "Show Solution " [ref=e249] [cursor=pointer]:
+                  - generic [ref=e250]: Show Solution
+                  - generic [ref=e251]: 
+                - paragraph [ref=e252]: Apply optimal DS & algorithm. Focus on time complexity.
+          - generic [ref=e253]:
+            - generic [ref=e254]:
+              - generic [ref=e255] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e257]: MongoDB
+              - generic [ref=e258]: Easy
+            - generic [ref=e259]:
+              - paragraph [ref=e260]: Write a MongoDB query to aggregate documents in the 'logs' collection where category < active.
+              - generic [ref=e261]:
+                - button "Show Solution " [ref=e262] [cursor=pointer]:
+                  - generic [ref=e263]: Show Solution
+                  - generic [ref=e264]: 
+                - paragraph [ref=e265]: "db.logs.aggregate({field: value}). Use $gt/$lt for comparisons. Add projection to limit fields. Use explain() to verify index usage."
+          - generic [ref=e266]:
+            - generic [ref=e267]:
+              - generic [ref=e268] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e270]: MongoDB
+              - generic [ref=e271]: Easy
+            - generic [ref=e272]:
+              - paragraph [ref=e273]: Write a MongoDB query to aggregate documents in the 'sessions' collection where price > 2024.
+              - generic [ref=e274]:
+                - button "Show Solution " [ref=e275] [cursor=pointer]:
+                  - generic [ref=e276]: Show Solution
+                  - generic [ref=e277]: 
+                - paragraph [ref=e278]: "db.sessions.aggregate({field: value}). Use $gt/$lt for comparisons. Add projection to limit fields. Use explain() to verify index usage."
+          - generic [ref=e279]:
+            - generic [ref=e280]:
+              - generic [ref=e281] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e283]: Security
+              - generic [ref=e284]: Hard
+            - generic [ref=e285]:
+              - paragraph [ref=e286]: How do you prevent container security in a REST API? Explain best practices.
+              - generic [ref=e287]:
+                - button "Show Solution " [ref=e288] [cursor=pointer]:
+                  - generic [ref=e289]: Show Solution
+                  - generic [ref=e290]: 
+                - paragraph [ref=e291]: Output encoding + CSP headers. Defense in depth. Regular security audits. Use security linters and scanners.
+          - generic [ref=e292]:
+            - generic [ref=e293]:
+              - generic [ref=e294] [cursor=pointer]:
+                - checkbox
+              - generic [ref=e296]: Troubleshooting
+              - generic [ref=e297]: Hard
+            - generic [ref=e298]:
+              - paragraph [ref=e299]: "[Spring Boot] In a multi-tenant SaaS application: MockMvc test for a REST endpoint returns 401 Unauthorized despite using @WithMockUser. The security configuration should allow authenticated access."
+              - generic [ref=e300]:
+                - button "Show Solution " [ref=e301] [cursor=pointer]:
+                  - generic [ref=e302]: Show Solution
+                  - generic [ref=e303]: 
+                - paragraph [ref=e304]: "1) Ensure 'spring-security-test' dependency is included. 2) @WithMockUser requires 'spring-security-test' on the classpath. 3) For @WebMvcTest, add '@AutoConfigureMockMvc' and import the security config. 4) Check if the SecurityFilterChain is being loaded in the test context. 5) Use 'mockMvc.perform(get('/endpoint').with(SecurityMockMvcRequestPostProcessors.user('testUser')))' as an alternative. 6) Verify the mock user has the required role: '@WithMockUser(username = 'admin', roles = {'ADMIN'})'. 7) For Spring Security 6, ensure the test uses the correct security context setup. Create a post-mortem document for the team."
+        - button "+ Load More Questions" [ref=e306] [cursor=pointer]:
+          - generic [ref=e307]: +
+          - text: Load More Questions
+        - text: 
+  - text:  
+  - generic [ref=e308]:
+    - generic [ref=e309]:
+      - generic [ref=e310]: 
+      - generic [ref=e311]: "0"
+      - text: questions selected
+    - generic [ref=e312]:
+      - button " Clear" [ref=e313] [cursor=pointer]:
+        - generic [ref=e314]: 
+        - text: Clear
+      - button " Download DOCX" [ref=e315] [cursor=pointer]:
+        - generic [ref=e316]: 
+        - text: Download DOCX
+  - text:     

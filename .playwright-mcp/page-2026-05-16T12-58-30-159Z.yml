@@ -1,0 +1,1867 @@
+- generic [ref=e3]:
+  - generic [ref=e5]:
+    - generic [ref=e7]:
+      - link "devinterview logo" [ref=e9] [cursor=pointer]:
+        - /url: /
+        - img "devinterview logo" [ref=e10]
+      - generic [ref=e11]:
+        - combobox "Select theme" [ref=e13] [cursor=pointer]:
+          - option "System" [selected]
+          - option "Light"
+          - option "Dark"
+        - button "Sign in" [ref=e16] [cursor=pointer]
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - generic [ref=e20]:
+          - img "star icon" [ref=e21]
+          - img "star icon" [ref=e22]
+          - img "star icon" [ref=e23]
+          - img "star icon" [ref=e24]
+          - img "star icon" [ref=e25]
+        - paragraph [ref=e26]: "\"Huge timesaver. Worth the money\""
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - img "star icon" [ref=e29]
+          - img "star icon" [ref=e30]
+          - img "star icon" [ref=e31]
+          - img "star icon" [ref=e32]
+          - img "star icon" [ref=e33]
+        - paragraph [ref=e34]: "\"It's an excellent tool\""
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - img "star icon" [ref=e37]
+          - img "star icon" [ref=e38]
+          - img "star icon" [ref=e39]
+          - img "star icon" [ref=e40]
+          - img "star icon" [ref=e41]
+        - paragraph [ref=e42]: "\"Fantastic catalogue of questions\""
+    - generic [ref=e43]:
+      - heading "Ace your next tech interview with confidence" [level=1] [ref=e44]
+      - heading "Explore our carefully curated catalog of interview essentials covering full-stack, data structures and algorithms, system design, data science, and machine learning interview questions" [level=2] [ref=e45]
+      - button "Start preparing now" [ref=e46] [cursor=pointer]
+  - generic [ref=e49]:
+    - generic [ref=e50]:
+      - generic [ref=e51]:
+        - link "Web & Mobile Dev" [ref=e52] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development
+          - generic [ref=e53]: Web & Mobile Dev
+        - link "Data Structures & Algorithms" [ref=e54] [cursor=pointer]:
+          - /url: /questions/data-structures-and-algorithms
+          - generic [ref=e55]: Data Structures & Algorithms
+        - link "System Design" [ref=e56] [cursor=pointer]:
+          - /url: /questions/software-architecture-and-system-design
+          - generic [ref=e57]: System Design
+        - link "Machine Learning & Data Science" [ref=e58] [cursor=pointer]:
+          - /url: /questions/machine-learning-and-data-science
+          - generic [ref=e59]: Machine Learning & Data Science
+        - link "Behavioral Questions" [ref=e60] [cursor=pointer]:
+          - /url: /questions/behavioral-questions
+          - generic [ref=e61]: Behavioral Questions
+      - generic [ref=e62]:
+        - link "topic icon ADO.NET" [ref=e63] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/ado-net-interview-questions/
+          - img "topic icon" [ref=e64]
+          - generic [ref=e65]: ADO.NET
+        - link "topic icon Agile & Scrum" [ref=e66] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/agile-and-scrum-interview-questions/
+          - img "topic icon" [ref=e67]
+          - generic [ref=e68]: Agile & Scrum
+        - link "topic icon Android" [ref=e69] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/android-interview-questions/
+          - img "topic icon" [ref=e70]
+          - generic [ref=e71]: Android
+        - link "topic icon Angular" [ref=e72] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/angular-interview-questions/
+          - img "topic icon" [ref=e73]
+          - generic [ref=e74]: Angular
+        - link "topic icon AngularJS" [ref=e75] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/angular-js-interview-questions/
+          - img "topic icon" [ref=e76]
+          - generic [ref=e77]: AngularJS
+        - link "topic icon ASP.NET" [ref=e78] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/asp-net-interview-questions/
+          - img "topic icon" [ref=e79]
+          - generic [ref=e80]: ASP.NET
+        - link "topic icon ASP.NET MVC" [ref=e81] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/asp-net-mvc-interview-questions/
+          - img "topic icon" [ref=e82]
+          - generic [ref=e83]: ASP.NET MVC
+        - link "topic icon ASP.NET Web API" [ref=e84] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/asp-net-web-api-interview-questions/
+          - img "topic icon" [ref=e85]
+          - generic [ref=e86]: ASP.NET Web API
+        - link "topic icon AWS" [ref=e87] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/aws-interview-questions/
+          - img "topic icon" [ref=e88]
+          - generic [ref=e89]: AWS
+        - link "topic icon Azure" [ref=e90] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/azure-interview-questions/
+          - img "topic icon" [ref=e91]
+          - generic [ref=e92]: Azure
+        - link "topic icon C++" [ref=e93] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/c++-interview-questions/
+          - img "topic icon" [ref=e94]
+          - generic [ref=e95]: C++
+        - link "topic icon C#" [ref=e96] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/c-sharp-interview-questions/
+          - img "topic icon" [ref=e97]
+          - generic [ref=e98]: C#
+        - link "topic icon Cosmos DB" [ref=e99] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/cosmos-db-interview-questions/
+          - img "topic icon" [ref=e100]
+          - generic [ref=e101]: Cosmos DB
+        - link "topic icon CSS" [ref=e102] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/css-interview-questions/
+          - img "topic icon" [ref=e103]
+          - generic [ref=e104]: CSS
+        - link "topic icon Dependency Injection" [ref=e105] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/dependency-injection-interview-questions/
+          - img "topic icon" [ref=e106]
+          - generic [ref=e107]: Dependency Injection
+        - link "topic icon DevOps" [ref=e108] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/devops-interview-questions/
+          - img "topic icon" [ref=e109]
+          - generic [ref=e110]: DevOps
+        - link "topic icon Django" [ref=e111] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/django-interview-questions/
+          - img "topic icon" [ref=e112]
+          - generic [ref=e113]: Django
+        - link "topic icon Entity Framework" [ref=e114] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/entity-framework-interview-questions/
+          - img "topic icon" [ref=e115]
+          - generic [ref=e116]: Entity Framework
+        - link "topic icon Express.js" [ref=e117] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/express-interview-questions/
+          - img "topic icon" [ref=e118]
+          - generic [ref=e119]: Express.js
+        - link "topic icon Flutter" [ref=e120] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/flutter-interview-questions/
+          - img "topic icon" [ref=e121]
+          - generic [ref=e122]: Flutter
+        - link "topic icon GIT" [ref=e123] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/git-interview-questions/
+          - img "topic icon" [ref=e124]
+          - generic [ref=e125]: GIT
+        - link "topic icon Golang" [ref=e126] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/golang-interview-questions/
+          - img "topic icon" [ref=e127]
+          - generic [ref=e128]: Golang
+        - link "topic icon GraphQL" [ref=e129] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/graphql-interview-questions/
+          - img "topic icon" [ref=e130]
+          - generic [ref=e131]: GraphQL
+        - link "topic icon HTML5" [ref=e132] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/html5-interview-questions/
+          - img "topic icon" [ref=e133]
+          - generic [ref=e134]: HTML5
+        - link "topic icon Ionic" [ref=e135] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/ionic-interview-questions/
+          - img "topic icon" [ref=e136]
+          - generic [ref=e137]: Ionic
+        - link "topic icon Java" [ref=e138] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/java-interview-questions/
+          - img "topic icon" [ref=e139]
+          - generic [ref=e140]: Java
+        - link "topic icon JavaScript" [ref=e141] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/javascript-interview-questions/
+          - img "topic icon" [ref=e142]
+          - generic [ref=e143]: JavaScript
+        - link "topic icon jQuery" [ref=e144] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/jquery-interview-questions/
+          - img "topic icon" [ref=e145]
+          - generic [ref=e146]: jQuery
+        - link "topic icon Kotlin" [ref=e147] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/kotlin-interview-questions/
+          - img "topic icon" [ref=e148]
+          - generic [ref=e149]: Kotlin
+        - link "topic icon Laravel" [ref=e150] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/laravel-interview-questions/
+          - img "topic icon" [ref=e151]
+          - generic [ref=e152]: Laravel
+        - link "topic icon LINQ" [ref=e153] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/linq-interview-questions/
+          - img "topic icon" [ref=e154]
+          - generic [ref=e155]: LINQ
+        - link "topic icon MongoDB" [ref=e156] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/mongodb-interview-questions/
+          - img "topic icon" [ref=e157]
+          - generic [ref=e158]: MongoDB
+        - link "topic icon .NET Core" [ref=e159] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/net-core-interview-questions/
+          - img "topic icon" [ref=e160]
+          - generic [ref=e161]: .NET Core
+        - link "topic icon Next.js" [ref=e162] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/next-interview-questions/
+          - img "topic icon" [ref=e163]
+          - generic [ref=e164]: Next.js
+        - link "topic icon Node.js" [ref=e165] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/node-interview-questions/
+          - img "topic icon" [ref=e166]
+          - generic [ref=e167]: Node.js
+        - link "topic icon Objective-C" [ref=e168] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/objective-c-interview-questions/
+          - img "topic icon" [ref=e169]
+          - generic [ref=e170]: Objective-C
+        - link "topic icon OOP" [ref=e171] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/oop-interview-questions/
+          - img "topic icon" [ref=e172]
+          - generic [ref=e173]: OOP
+        - link "topic icon PHP" [ref=e174] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/php-interview-questions/
+          - img "topic icon" [ref=e175]
+          - generic [ref=e176]: PHP
+        - link "topic icon PWA" [ref=e177] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/pwa-interview-questions/
+          - img "topic icon" [ref=e178]
+          - generic [ref=e179]: PWA
+        - link "topic icon Python" [ref=e180] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/python-interview-questions/
+          - img "topic icon" [ref=e181]
+          - generic [ref=e182]: Python
+        - link "topic icon React" [ref=e183] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/react-interview-questions/
+          - img "topic icon" [ref=e184]
+          - generic [ref=e185]: React
+        - link "topic icon React Native" [ref=e186] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/react-native-interview-questions/
+          - img "topic icon" [ref=e187]
+          - generic [ref=e188]: React Native
+        - link "topic icon Reactive Programming" [ref=e189] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/reactive-programming-interview-questions/
+          - img "topic icon" [ref=e190]
+          - generic [ref=e191]: Reactive Programming
+        - link "topic icon Reactive Systems" [ref=e192] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/reactive-systems-interview-questions/
+          - img "topic icon" [ref=e193]
+          - generic [ref=e194]: Reactive Systems
+        - link "topic icon Redis" [ref=e195] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/redis-interview-questions/
+          - img "topic icon" [ref=e196]
+          - generic [ref=e197]: Redis
+        - link "topic icon Redux" [ref=e198] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/redux-interview-questions/
+          - img "topic icon" [ref=e199]
+          - generic [ref=e200]: Redux
+        - link "topic icon Ruby" [ref=e201] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/ruby-interview-questions/
+          - img "topic icon" [ref=e202]
+          - generic [ref=e203]: Ruby
+        - link "topic icon Ruby on Rails" [ref=e204] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/ruby-on-rails-interview-questions/
+          - img "topic icon" [ref=e205]
+          - generic [ref=e206]: Ruby on Rails
+        - link "topic icon Rust" [ref=e207] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/rust-interview-questions/
+          - img "topic icon" [ref=e208]
+          - generic [ref=e209]: Rust
+        - link "topic icon Spring" [ref=e210] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/spring-interview-questions/
+          - img "topic icon" [ref=e211]
+          - generic [ref=e212]: Spring
+        - link "topic icon SQL" [ref=e213] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/sql-interview-questions/
+          - img "topic icon" [ref=e214]
+          - generic [ref=e215]: SQL
+        - link "topic icon Swift" [ref=e216] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/swift-interview-questions/
+          - img "topic icon" [ref=e217]
+          - generic [ref=e218]: Swift
+        - link "topic icon T-SQL" [ref=e219] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/t-sql-interview-questions/
+          - img "topic icon" [ref=e220]
+          - generic [ref=e221]: T-SQL
+        - link "topic icon Testing" [ref=e222] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/testing-interview-questions/
+          - img "topic icon" [ref=e223]
+          - generic [ref=e224]: Testing
+        - link "topic icon TypeScript" [ref=e225] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/typescript-interview-questions/
+          - img "topic icon" [ref=e226]
+          - generic [ref=e227]: TypeScript
+        - link "topic icon UX Design" [ref=e228] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/ux-design-interview-questions/
+          - img "topic icon" [ref=e229]
+          - generic [ref=e230]: UX Design
+        - link "topic icon Vue.js" [ref=e231] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/vue-interview-questions/
+          - img "topic icon" [ref=e232]
+          - generic [ref=e233]: Vue.js
+        - link "topic icon WCF" [ref=e234] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/wcf-interview-questions/
+          - img "topic icon" [ref=e235]
+          - generic [ref=e236]: WCF
+        - link "topic icon Web Security" [ref=e237] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/web-security-interview-questions/
+          - img "topic icon" [ref=e238]
+          - generic [ref=e239]: Web Security
+        - link "topic icon WebSockets" [ref=e240] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/websocket-interview-questions/
+          - img "topic icon" [ref=e241]
+          - generic [ref=e242]: WebSockets
+        - link "topic icon WPF" [ref=e243] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/wpf-interview-questions/
+          - img "topic icon" [ref=e244]
+          - generic [ref=e245]: WPF
+        - link "topic icon Xamarin" [ref=e246] [cursor=pointer]:
+          - /url: /questions/web-and-mobile-development/xamarin-interview-questions/
+          - img "topic icon" [ref=e247]
+          - generic [ref=e248]: Xamarin
+    - generic [ref=e249]:
+      - generic [ref=e250]:
+        - generic [ref=e251]:
+          - generic [ref=e252]:
+            - img "Spring" [ref=e253]
+            - heading "100 Spring interview questions" [level=1] [ref=e254]
+          - button "close button" [ref=e255] [cursor=pointer]:
+            - img "close button" [ref=e256]
+        - generic [ref=e257]:
+          - generic [ref=e258]:
+            - generic [ref=e261] [cursor=pointer]: Only coding challenges
+            - button "Reset progress" [ref=e264] [cursor=pointer]
+          - generic [ref=e266]:
+            - img "search bar icon" [ref=e268]
+            - textbox "search bar icon" [ref=e269]:
+              - /placeholder: Search...
+        - generic [ref=e272]:
+          - generic [ref=e273]: "Topic progress:"
+          - generic [ref=e274]: 0%
+      - main [ref=e277]:
+        - generic [ref=e278]:
+          - generic [ref=e279]:
+            - generic [ref=e280]:
+              - separator [ref=e281]
+              - heading "Spring Fundamentals" [level=2] [ref=e282]
+              - separator [ref=e283]
+            - list [ref=e284]:
+              - listitem [ref=e285]:
+                - article [ref=e286]:
+                  - generic [ref=e287] [cursor=pointer]:
+                    - generic [ref=e288]:
+                      - generic [ref=e289]: "1."
+                      - heading "What is the Spring Framework and what are its core features?" [level=3] [ref=e290]:
+                        - text: What is the
+                        - emphasis [ref=e291]: Spring Framework
+                        - text: and what are its core features?
+                    - button "Question" [ref=e294]
+                  - generic [ref=e298]: "Answer:"
+              - listitem [ref=e300]:
+                - article [ref=e301]:
+                  - generic [ref=e302] [cursor=pointer]:
+                    - generic [ref=e303]:
+                      - generic [ref=e304]: "2."
+                      - heading "How do you create a simple Spring application?" [level=3] [ref=e305]:
+                        - text: How do you create a simple
+                        - emphasis [ref=e306]: Spring
+                        - text: application?
+                    - button "Question" [ref=e309]
+                  - generic [ref=e313]: "Answer:"
+              - listitem [ref=e315]:
+                - article [ref=e316]:
+                  - generic [ref=e317] [cursor=pointer]:
+                    - generic [ref=e318]:
+                      - generic [ref=e319]: "3."
+                      - heading "What is Inversion of Control (IoC)? How does Spring facilitate IoC?" [level=3] [ref=e320]:
+                        - text: What is
+                        - emphasis [ref=e321]: Inversion of Control (IoC)
+                        - text: "? How does"
+                        - emphasis [ref=e322]: Spring
+                        - text: facilitate
+                        - emphasis [ref=e323]: IoC
+                        - text: "?"
+                    - button "Question" [ref=e326]
+                  - generic [ref=e330]: "Answer:"
+              - listitem [ref=e332]:
+                - article [ref=e333]:
+                  - generic [ref=e334] [cursor=pointer]:
+                    - generic [ref=e335]:
+                      - generic [ref=e336]: "4."
+                      - heading "What is the ApplicationContext in Spring?" [level=3] [ref=e337]:
+                        - text: What is the
+                        - emphasis [ref=e338]: ApplicationContext
+                        - text: in
+                        - emphasis [ref=e339]: Spring
+                        - text: "?"
+                    - button "Question" [ref=e342]
+                  - generic [ref=e346]: "Answer:"
+              - listitem [ref=e348]:
+                - article [ref=e349]:
+                  - generic [ref=e350] [cursor=pointer]:
+                    - generic [ref=e351]:
+                      - generic [ref=e352]: "5."
+                      - heading "Explain Dependency Injection and its types in the Spring context." [level=3] [ref=e353]:
+                        - text: Explain
+                        - emphasis [ref=e354]: Dependency Injection
+                        - text: and its types in the
+                        - emphasis [ref=e355]: Spring
+                        - text: context.
+                    - button "Question" [ref=e358]
+                  - generic [ref=e362]: "Answer:"
+              - listitem [ref=e364]:
+                - article [ref=e365]:
+                  - generic [ref=e366] [cursor=pointer]:
+                    - generic [ref=e367]:
+                      - generic [ref=e368]: "6."
+                      - heading "What are Bean Scopes in Spring? Name them." [level=3] [ref=e369]:
+                        - text: What are
+                        - emphasis [ref=e370]: Bean Scopes
+                        - text: in
+                        - emphasis [ref=e371]: Spring
+                        - text: "? Name them."
+                    - button "Question" [ref=e374]
+                  - generic [ref=e378]: "Answer:"
+              - listitem [ref=e380]:
+                - article [ref=e381]:
+                  - generic [ref=e382] [cursor=pointer]:
+                    - generic [ref=e383]:
+                      - generic [ref=e384]: "7."
+                      - heading "How do you configure a bean in Spring?" [level=3] [ref=e385]:
+                        - text: How do you configure a
+                        - emphasis [ref=e386]: bean
+                        - text: in
+                        - emphasis [ref=e387]: Spring
+                        - text: "?"
+                    - button "Question" [ref=e390]
+                  - generic [ref=e394]: "Answer:"
+              - listitem [ref=e396]:
+                - article [ref=e397]:
+                  - generic [ref=e398] [cursor=pointer]:
+                    - generic [ref=e399]:
+                      - generic [ref=e400]: "8."
+                      - heading "Describe the role of the Spring Core container." [level=3] [ref=e401]:
+                        - text: Describe the role of the
+                        - emphasis [ref=e402]: Spring Core container
+                        - text: .
+                    - button "Question" [ref=e405]
+                  - generic [ref=e409]: "Answer:"
+              - listitem [ref=e411]:
+                - article [ref=e412]:
+                  - generic [ref=e413] [cursor=pointer]:
+                    - generic [ref=e414]:
+                      - generic [ref=e415]: "9."
+                      - heading "What is a Spring configuration file?" [level=3] [ref=e416]:
+                        - text: What is a
+                        - emphasis [ref=e417]: Spring configuration file
+                        - text: "?"
+                    - button "Question" [ref=e420]
+                  - generic [ref=e424]: "Answer:"
+              - listitem [ref=e426]:
+                - article [ref=e427]:
+                  - generic [ref=e428] [cursor=pointer]:
+                    - generic [ref=e429]:
+                      - generic [ref=e430]: "10."
+                      - heading "How do you create an ApplicationContext in a Spring application?" [level=3] [ref=e431]:
+                        - text: How do you create an
+                        - emphasis [ref=e432]: ApplicationContext
+                        - text: in a
+                        - emphasis [ref=e433]: Spring
+                        - text: application?
+                    - button "Question" [ref=e436]
+                  - generic [ref=e440]: "Answer:"
+          - generic [ref=e442]:
+            - generic [ref=e443]:
+              - separator [ref=e444]
+              - heading "Spring AOP" [level=2] [ref=e445]
+              - separator [ref=e446]
+            - list [ref=e447]:
+              - listitem [ref=e448]:
+                - article [ref=e449]:
+                  - generic [ref=e450] [cursor=pointer]:
+                    - generic [ref=e451]:
+                      - generic [ref=e452]: "11."
+                      - heading "What is Aspect-Oriented Programming (AOP)?" [level=3] [ref=e453]:
+                        - text: What is
+                        - emphasis [ref=e454]: Aspect-Oriented Programming (AOP)
+                        - text: "?"
+                    - button "Question" [ref=e457]
+                  - generic [ref=e461]: "Answer:"
+              - listitem [ref=e463]:
+                - article [ref=e464]:
+                  - generic [ref=e465] [cursor=pointer]:
+                    - generic [ref=e466]:
+                      - generic [ref=e467]: "12."
+                      - heading "How does Spring support AOP?" [level=3] [ref=e468]:
+                        - text: How does
+                        - emphasis [ref=e469]: Spring
+                        - text: support
+                        - emphasis [ref=e470]: AOP
+                        - text: "?"
+                    - button "Question" [ref=e473]
+                  - generic [ref=e477]: "Answer:"
+              - listitem [ref=e479]:
+                - article [ref=e480]:
+                  - generic [ref=e481] [cursor=pointer]:
+                    - generic [ref=e482]:
+                      - generic [ref=e483]: "13."
+                      - heading "Can you explain a Pointcut and an Advice in Spring AOP?" [level=3] [ref=e484]:
+                        - text: Can you explain a
+                        - emphasis [ref=e485]: Pointcut
+                        - text: and an
+                        - emphasis [ref=e486]: Advice
+                        - text: in
+                        - emphasis [ref=e487]: Spring AOP
+                        - text: "?"
+                    - button "Question" [ref=e490]
+                  - generic [ref=e494]: "Answer:"
+              - listitem [ref=e496]:
+                - article [ref=e497]:
+                  - generic [ref=e498] [cursor=pointer]:
+                    - generic [ref=e499]:
+                      - generic [ref=e500]: "14."
+                      - heading "What is a Join Point in Spring AOP?" [level=3] [ref=e501]:
+                        - text: What is a
+                        - emphasis [ref=e502]: Join Point
+                        - text: in
+                        - emphasis [ref=e503]: Spring AOP
+                        - text: "?"
+                    - button "Question" [ref=e506]
+                  - generic [ref=e510]: "Answer:"
+              - listitem [ref=e512]:
+                - article [ref=e513]:
+                  - generic [ref=e514] [cursor=pointer]:
+                    - generic [ref=e515]:
+                      - generic [ref=e516]: "15."
+                      - heading "What is the difference between a Concern and a Cross-cutting Concern in Spring AOP?" [level=3] [ref=e517]:
+                        - text: What is the difference between a
+                        - emphasis [ref=e518]: Concern
+                        - text: and a
+                        - emphasis [ref=e519]: Cross-cutting Concern
+                        - text: in
+                        - emphasis [ref=e520]: Spring AOP
+                        - text: "?"
+                    - button "Question" [ref=e523]
+                  - generic [ref=e527]: "Answer:"
+              - listitem [ref=e529]:
+                - article [ref=e530]:
+                  - generic [ref=e531] [cursor=pointer]:
+                    - generic [ref=e532]:
+                      - generic [ref=e533]: "16."
+                      - heading "Describe the different types of Advices in AOP." [level=3] [ref=e534]:
+                        - text: Describe the different types of
+                        - emphasis [ref=e535]: Advices
+                        - text: in
+                        - emphasis [ref=e536]: AOP
+                        - text: .
+                    - generic [ref=e537]:
+                      - img "Lock icon indicating premium question" [ref=e539]
+                      - button "Question" [ref=e541]
+                  - generic [ref=e545]: "Answer:"
+              - listitem [ref=e547]:
+                - article [ref=e548]:
+                  - generic [ref=e549] [cursor=pointer]:
+                    - generic [ref=e550]:
+                      - generic [ref=e551]: "17."
+                      - heading "How do you implement AOP in Spring?" [level=3] [ref=e552]:
+                        - text: How do you implement
+                        - emphasis [ref=e553]: AOP
+                        - text: in
+                        - emphasis [ref=e554]: Spring
+                        - text: "?"
+                    - generic [ref=e555]:
+                      - img "Lock icon indicating premium question" [ref=e557]
+                      - button "Question" [ref=e559]
+                  - generic [ref=e563]: "Answer:"
+              - listitem [ref=e565]:
+                - article [ref=e566]:
+                  - generic [ref=e567] [cursor=pointer]:
+                    - generic [ref=e568]:
+                      - generic [ref=e569]: "18."
+                      - heading "What is the @Aspect annotation used for in Spring AOP?" [level=3] [ref=e570]:
+                        - text: What is the
+                        - emphasis [ref=e571]: "@Aspect"
+                        - text: annotation used for in
+                        - emphasis [ref=e572]: Spring AOP
+                        - text: "?"
+                    - generic [ref=e573]:
+                      - img "Lock icon indicating premium question" [ref=e575]
+                      - button "Question" [ref=e577]
+                  - generic [ref=e581]: "Answer:"
+              - listitem [ref=e583]:
+                - article [ref=e584]:
+                  - generic [ref=e585] [cursor=pointer]:
+                    - generic [ref=e586]:
+                      - generic [ref=e587]: "19."
+                      - heading "How would you enable AOP in a Spring application?" [level=3] [ref=e588]:
+                        - text: How would you enable
+                        - emphasis [ref=e589]: AOP
+                        - text: in a
+                        - emphasis [ref=e590]: Spring
+                        - text: application?
+                    - generic [ref=e591]:
+                      - img "Lock icon indicating premium question" [ref=e593]
+                      - button "Question" [ref=e595]
+                  - generic [ref=e599]: "Answer:"
+          - generic [ref=e601]:
+            - generic [ref=e602]:
+              - separator [ref=e603]
+              - heading "Spring Data Access" [level=2] [ref=e604]
+              - separator [ref=e605]
+            - list [ref=e606]:
+              - listitem [ref=e607]:
+                - article [ref=e608]:
+                  - generic [ref=e609] [cursor=pointer]:
+                    - generic [ref=e610]:
+                      - generic [ref=e611]: "20."
+                      - heading "Describe how Spring interacts with databases." [level=3] [ref=e612]:
+                        - text: Describe how
+                        - emphasis [ref=e613]: Spring
+                        - text: interacts with databases.
+                    - generic [ref=e614]:
+                      - img "Lock icon indicating premium question" [ref=e616]
+                      - button "Question" [ref=e618]
+                  - generic [ref=e622]: "Answer:"
+              - listitem [ref=e624]:
+                - article [ref=e625]:
+                  - generic [ref=e626] [cursor=pointer]:
+                    - generic [ref=e627]:
+                      - generic [ref=e628]: "21."
+                      - heading "What is the DataAccessException class in Spring?" [level=3] [ref=e629]:
+                        - text: What is the
+                        - emphasis [ref=e630]: DataAccessException
+                        - text: class in
+                        - emphasis [ref=e631]: Spring
+                        - text: "?"
+                    - generic [ref=e632]:
+                      - img "Lock icon indicating premium question" [ref=e634]
+                      - button "Question" [ref=e636]
+                  - generic [ref=e640]: "Answer:"
+              - listitem [ref=e642]:
+                - article [ref=e643]:
+                  - generic [ref=e644] [cursor=pointer]:
+                    - generic [ref=e645]:
+                      - generic [ref=e646]: "22."
+                      - heading "Explain the Template design pattern as used in Spring." [level=3] [ref=e647]:
+                        - text: Explain the
+                        - emphasis [ref=e648]: Template design pattern
+                        - text: as used in
+                        - emphasis [ref=e649]: Spring
+                        - text: .
+                    - generic [ref=e650]:
+                      - img "Lock icon indicating premium question" [ref=e652]
+                      - button "Question" [ref=e654]
+                  - generic [ref=e658]: "Answer:"
+              - listitem [ref=e660]:
+                - article [ref=e661]:
+                  - generic [ref=e662] [cursor=pointer]:
+                    - generic [ref=e663]:
+                      - generic [ref=e664]: "23."
+                      - heading "What is the Spring JDBC Template and how do you use it?" [level=3] [ref=e665]:
+                        - text: What is the
+                        - emphasis [ref=e666]: Spring JDBC Template
+                        - text: and how do you use it?
+                    - generic [ref=e667]:
+                      - img "Lock icon indicating premium question" [ref=e669]
+                      - button "Question" [ref=e671]
+                  - generic [ref=e675]: "Answer:"
+              - listitem [ref=e677]:
+                - article [ref=e678]:
+                  - generic [ref=e679] [cursor=pointer]:
+                    - generic [ref=e680]:
+                      - generic [ref=e681]: "24."
+                      - heading "How does Spring support transaction management?" [level=3] [ref=e682]:
+                        - text: How does
+                        - emphasis [ref=e683]: Spring
+                        - text: support transaction management?
+                    - generic [ref=e684]:
+                      - img "Lock icon indicating premium question" [ref=e686]
+                      - button "Question" [ref=e688]
+                  - generic [ref=e692]: "Answer:"
+              - listitem [ref=e694]:
+                - article [ref=e695]:
+                  - generic [ref=e696] [cursor=pointer]:
+                    - generic [ref=e697]:
+                      - generic [ref=e698]: "25."
+                      - heading "Can you explain Spring’s support for ORM frameworks?" [level=3] [ref=e699]:
+                        - text: Can you explain
+                        - emphasis [ref=e700]: Spring’s
+                        - text: support for
+                        - emphasis [ref=e701]: ORM frameworks
+                        - text: "?"
+                    - generic [ref=e702]:
+                      - img "Lock icon indicating premium question" [ref=e704]
+                      - button "Question" [ref=e706]
+                  - generic [ref=e710]: "Answer:"
+              - listitem [ref=e712]:
+                - article [ref=e713]:
+                  - generic [ref=e714] [cursor=pointer]:
+                    - generic [ref=e715]:
+                      - generic [ref=e716]: "26."
+                      - heading "What are the key interfaces used for JDBC operations in Spring?" [level=3] [ref=e717]:
+                        - text: What are the key interfaces used for
+                        - emphasis [ref=e718]: JDBC
+                        - text: operations in
+                        - emphasis [ref=e719]: Spring
+                        - text: "?"
+                    - generic [ref=e720]:
+                      - img "Lock icon indicating premium question" [ref=e722]
+                      - button "Question" [ref=e724]
+                  - generic [ref=e728]: "Answer:"
+          - generic [ref=e730]:
+            - generic [ref=e731]:
+              - separator [ref=e732]
+              - heading "Spring MVC" [level=2] [ref=e733]
+              - separator [ref=e734]
+            - list [ref=e735]:
+              - listitem [ref=e736]:
+                - article [ref=e737]:
+                  - generic [ref=e738] [cursor=pointer]:
+                    - generic [ref=e739]:
+                      - generic [ref=e740]: "27."
+                      - heading "What is the Spring MVC framework?" [level=3] [ref=e741]:
+                        - text: What is the
+                        - emphasis [ref=e742]: Spring MVC framework
+                        - text: "?"
+                    - generic [ref=e743]:
+                      - img "Lock icon indicating premium question" [ref=e745]
+                      - button "Question" [ref=e747]
+                  - generic [ref=e751]: "Answer:"
+              - listitem [ref=e753]:
+                - article [ref=e754]:
+                  - generic [ref=e755] [cursor=pointer]:
+                    - generic [ref=e756]:
+                      - generic [ref=e757]: "28."
+                      - heading "Describe the architecture of a Spring MVC application." [level=3] [ref=e758]:
+                        - text: Describe the architecture of a
+                        - emphasis [ref=e759]: Spring MVC
+                        - text: application.
+                    - generic [ref=e760]:
+                      - img "Lock icon indicating premium question" [ref=e762]
+                      - button "Question" [ref=e764]
+                  - generic [ref=e768]: "Answer:"
+              - listitem [ref=e770]:
+                - article [ref=e771]:
+                  - generic [ref=e772] [cursor=pointer]:
+                    - generic [ref=e773]:
+                      - generic [ref=e774]: "29."
+                      - heading "What are the roles of the @Controller and @RequestMapping annotations?" [level=3] [ref=e775]:
+                        - text: What are the roles of the
+                        - emphasis [ref=e776]: "@Controller"
+                        - text: and
+                        - emphasis [ref=e777]: "@RequestMapping"
+                        - text: annotations?
+                    - generic [ref=e778]:
+                      - img "Lock icon indicating premium question" [ref=e780]
+                      - button "Question" [ref=e782]
+                  - generic [ref=e786]: "Answer:"
+              - listitem [ref=e788]:
+                - article [ref=e789]:
+                  - generic [ref=e790] [cursor=pointer]:
+                    - generic [ref=e791]:
+                      - generic [ref=e792]: "30."
+                      - heading "Explain the DispatcherServlet and its functions." [level=3] [ref=e793]:
+                        - text: Explain the
+                        - emphasis [ref=e794]: DispatcherServlet
+                        - text: and its functions.
+                    - generic [ref=e795]:
+                      - img "Lock icon indicating premium question" [ref=e797]
+                      - button "Question" [ref=e799]
+                  - generic [ref=e803]: "Answer:"
+              - listitem [ref=e805]:
+                - article [ref=e806]:
+                  - generic [ref=e807] [cursor=pointer]:
+                    - generic [ref=e808]:
+                      - generic [ref=e809]: "31."
+                      - heading "How do you handle web requests in Spring MVC?" [level=3] [ref=e810]:
+                        - text: How do you handle web requests in
+                        - emphasis [ref=e811]: Spring MVC
+                        - text: "?"
+                    - generic [ref=e812]:
+                      - img "Lock icon indicating premium question" [ref=e814]
+                      - button "Question" [ref=e816]
+                  - generic [ref=e820]: "Answer:"
+              - listitem [ref=e822]:
+                - article [ref=e823]:
+                  - generic [ref=e824] [cursor=pointer]:
+                    - generic [ref=e825]:
+                      - generic [ref=e826]: "32."
+                      - heading "Can you discuss the Request-response lifecycle in a Spring MVC application?" [level=3] [ref=e827]:
+                        - text: Can you discuss the
+                        - emphasis [ref=e828]: Request-response lifecycle
+                        - text: in a
+                        - emphasis [ref=e829]: Spring MVC
+                        - text: application?
+                    - generic [ref=e830]:
+                      - img "Lock icon indicating premium question" [ref=e832]
+                      - button "Question" [ref=e834]
+                  - generic [ref=e838]: "Answer:"
+              - listitem [ref=e840]:
+                - article [ref=e841]:
+                  - generic [ref=e842] [cursor=pointer]:
+                    - generic [ref=e843]:
+                      - generic [ref=e844]: "33."
+                      - heading "How do you validate user input in Spring MVC?" [level=3] [ref=e845]:
+                        - text: How do you validate user input in
+                        - emphasis [ref=e846]: Spring MVC
+                        - text: "?"
+                    - generic [ref=e847]:
+                      - img "Lock icon indicating premium question" [ref=e849]
+                      - button "Question" [ref=e851]
+                  - generic [ref=e855]: "Answer:"
+              - listitem [ref=e857]:
+                - article [ref=e858]:
+                  - generic [ref=e859] [cursor=pointer]:
+                    - generic [ref=e860]:
+                      - generic [ref=e861]: "34."
+                      - heading "What are the differences between @Controller and @RestController?" [level=3] [ref=e862]:
+                        - text: What are the differences between
+                        - emphasis [ref=e863]: "@Controller"
+                        - text: and
+                        - emphasis [ref=e864]: "@RestController"
+                        - text: "?"
+                    - generic [ref=e865]:
+                      - img "Lock icon indicating premium question" [ref=e867]
+                      - button "Question" [ref=e869]
+                  - generic [ref=e873]: "Answer:"
+          - generic [ref=e875]:
+            - generic [ref=e876]:
+              - separator [ref=e877]
+              - heading "Spring Boot" [level=2] [ref=e878]
+              - separator [ref=e879]
+            - list [ref=e880]:
+              - listitem [ref=e881]:
+                - article [ref=e882]:
+                  - generic [ref=e883] [cursor=pointer]:
+                    - generic [ref=e884]:
+                      - generic [ref=e885]: "35."
+                      - heading "What is Spring Boot and what are its advantages?" [level=3] [ref=e886]:
+                        - text: What is
+                        - emphasis [ref=e887]: Spring Boot
+                        - text: and what are its advantages?
+                    - generic [ref=e888]:
+                      - img "Lock icon indicating premium question" [ref=e890]
+                      - button "Question" [ref=e892]
+                  - generic [ref=e896]: "Answer:"
+              - listitem [ref=e898]:
+                - article [ref=e899]:
+                  - generic [ref=e900] [cursor=pointer]:
+                    - generic [ref=e901]:
+                      - generic [ref=e902]: "36."
+                      - heading "How do you create a Spring Boot application?" [level=3] [ref=e903]:
+                        - text: How do you create a
+                        - emphasis [ref=e904]: Spring Boot
+                        - text: application?
+                    - generic [ref=e905]:
+                      - img "Lock icon indicating premium question" [ref=e907]
+                      - button "Question" [ref=e909]
+                  - generic [ref=e913]: "Answer:"
+              - listitem [ref=e915]:
+                - article [ref=e916]:
+                  - generic [ref=e917] [cursor=pointer]:
+                    - generic [ref=e918]:
+                      - generic [ref=e919]: "37."
+                      - heading "Explain Auto-Configuration in Spring Boot." [level=3] [ref=e920]:
+                        - text: Explain
+                        - emphasis [ref=e921]: Auto-Configuration
+                        - text: in
+                        - emphasis [ref=e922]: Spring Boot
+                        - text: .
+                    - generic [ref=e923]:
+                      - img "Lock icon indicating premium question" [ref=e925]
+                      - button "Question" [ref=e927]
+                  - generic [ref=e931]: "Answer:"
+              - listitem [ref=e933]:
+                - article [ref=e934]:
+                  - generic [ref=e935] [cursor=pointer]:
+                    - generic [ref=e936]:
+                      - generic [ref=e937]: "38."
+                      - heading "What is a Spring Boot Starter?" [level=3] [ref=e938]:
+                        - text: What is a
+                        - emphasis [ref=e939]: Spring Boot Starter
+                        - text: "?"
+                    - generic [ref=e940]:
+                      - img "Lock icon indicating premium question" [ref=e942]
+                      - button "Question" [ref=e944]
+                  - generic [ref=e948]: "Answer:"
+              - listitem [ref=e950]:
+                - article [ref=e951]:
+                  - generic [ref=e952] [cursor=pointer]:
+                    - generic [ref=e953]:
+                      - generic [ref=e954]: "39."
+                      - heading "How does Spring Boot support data access?" [level=3] [ref=e955]:
+                        - text: How does
+                        - emphasis [ref=e956]: Spring Boot
+                        - text: support data access?
+                    - generic [ref=e957]:
+                      - img "Lock icon indicating premium question" [ref=e959]
+                      - button "Question" [ref=e961]
+                  - generic [ref=e965]: "Answer:"
+              - listitem [ref=e967]:
+                - article [ref=e968]:
+                  - generic [ref=e969] [cursor=pointer]:
+                    - generic [ref=e970]:
+                      - generic [ref=e971]: "40."
+                      - heading "What is the embedded server concept in Spring Boot?" [level=3] [ref=e972]:
+                        - text: What is the
+                        - emphasis [ref=e973]: embedded server concept
+                        - text: in
+                        - emphasis [ref=e974]: Spring Boot
+                        - text: "?"
+                    - generic [ref=e975]:
+                      - img "Lock icon indicating premium question" [ref=e977]
+                      - button "Question" [ref=e979]
+                  - generic [ref=e983]: "Answer:"
+              - listitem [ref=e985]:
+                - article [ref=e986]:
+                  - generic [ref=e987] [cursor=pointer]:
+                    - generic [ref=e988]:
+                      - generic [ref=e989]: "41."
+                      - heading "Explain the role of the SpringApplication class." [level=3] [ref=e990]:
+                        - text: Explain the role of the
+                        - emphasis [ref=e991]: SpringApplication
+                        - text: class.
+                    - generic [ref=e992]:
+                      - img "Lock icon indicating premium question" [ref=e994]
+                      - button "Question" [ref=e996]
+                  - generic [ref=e1000]: "Answer:"
+              - listitem [ref=e1002]:
+                - article [ref=e1003]:
+                  - generic [ref=e1004] [cursor=pointer]:
+                    - generic [ref=e1005]:
+                      - generic [ref=e1006]: "42."
+                      - heading "What properties file is used by default in Spring Boot?" [level=3] [ref=e1007]:
+                        - text: What
+                        - emphasis [ref=e1008]: properties file
+                        - text: is used by default in
+                        - emphasis [ref=e1009]: Spring Boot
+                        - text: "?"
+                    - generic [ref=e1010]:
+                      - img "Lock icon indicating premium question" [ref=e1012]
+                      - button "Question" [ref=e1014]
+                  - generic [ref=e1018]: "Answer:"
+          - generic [ref=e1020]:
+            - generic [ref=e1021]:
+              - separator [ref=e1022]
+              - heading "Spring Security" [level=2] [ref=e1023]
+              - separator [ref=e1024]
+            - list [ref=e1025]:
+              - listitem [ref=e1026]:
+                - article [ref=e1027]:
+                  - generic [ref=e1028] [cursor=pointer]:
+                    - generic [ref=e1029]:
+                      - generic [ref=e1030]: "43."
+                      - heading "What is Spring Security and why is it important?" [level=3] [ref=e1031]:
+                        - text: What is
+                        - emphasis [ref=e1032]: Spring Security
+                        - text: and why is it important?
+                    - generic [ref=e1033]:
+                      - img "Lock icon indicating premium question" [ref=e1035]
+                      - button "Question" [ref=e1037]
+                  - generic [ref=e1041]: "Answer:"
+              - listitem [ref=e1043]:
+                - article [ref=e1044]:
+                  - generic [ref=e1045] [cursor=pointer]:
+                    - generic [ref=e1046]:
+                      - generic [ref=e1047]: "44."
+                      - heading "Explain how authentication and authorization work in Spring Security." [level=3] [ref=e1048]:
+                        - text: Explain how authentication and authorization work in
+                        - emphasis [ref=e1049]: Spring Security
+                        - text: .
+                    - generic [ref=e1050]:
+                      - img "Lock icon indicating premium question" [ref=e1052]
+                      - button "Question" [ref=e1054]
+                  - generic [ref=e1058]: "Answer:"
+              - listitem [ref=e1060]:
+                - article [ref=e1061]:
+                  - generic [ref=e1062] [cursor=pointer]:
+                    - generic [ref=e1063]:
+                      - generic [ref=e1064]: "45."
+                      - heading "How do you configure Spring Security in an application?" [level=3] [ref=e1065]:
+                        - text: How do you configure
+                        - emphasis [ref=e1066]: Spring Security
+                        - text: in an application?
+                    - generic [ref=e1067]:
+                      - img "Lock icon indicating premium question" [ref=e1069]
+                      - button "Question" [ref=e1071]
+                  - generic [ref=e1075]: "Answer:"
+              - listitem [ref=e1077]:
+                - article [ref=e1078]:
+                  - generic [ref=e1079] [cursor=pointer]:
+                    - generic [ref=e1080]:
+                      - generic [ref=e1081]: "46."
+                      - heading "What is a Principal in Spring Security?" [level=3] [ref=e1082]:
+                        - text: What is a
+                        - emphasis [ref=e1083]: Principal
+                        - text: in
+                        - emphasis [ref=e1084]: Spring Security
+                        - text: "?"
+                    - generic [ref=e1085]:
+                      - img "Lock icon indicating premium question" [ref=e1087]
+                      - button "Question" [ref=e1089]
+                  - generic [ref=e1093]: "Answer:"
+              - listitem [ref=e1095]:
+                - article [ref=e1096]:
+                  - generic [ref=e1097] [cursor=pointer]:
+                    - generic [ref=e1098]:
+                      - generic [ref=e1099]: "47."
+                      - heading "How do you secure Restful web services in Spring Security?" [level=3] [ref=e1100]:
+                        - text: How do you secure
+                        - emphasis [ref=e1101]: Restful web services
+                        - text: in
+                        - emphasis [ref=e1102]: Spring Security
+                        - text: "?"
+                    - generic [ref=e1103]:
+                      - img "Lock icon indicating premium question" [ref=e1105]
+                      - button "Question" [ref=e1107]
+                  - generic [ref=e1111]: "Answer:"
+              - listitem [ref=e1113]:
+                - article [ref=e1114]:
+                  - generic [ref=e1115] [cursor=pointer]:
+                    - generic [ref=e1116]:
+                      - generic [ref=e1117]: "48."
+                      - heading "Explain the importance of the @PreAuthorize annotation." [level=3] [ref=e1118]:
+                        - text: Explain the importance of the
+                        - emphasis [ref=e1119]: "@PreAuthorize"
+                        - text: annotation.
+                    - generic [ref=e1120]:
+                      - img "Lock icon indicating premium question" [ref=e1122]
+                      - button "Question" [ref=e1124]
+                  - generic [ref=e1128]: "Answer:"
+              - listitem [ref=e1130]:
+                - article [ref=e1131]:
+                  - generic [ref=e1132] [cursor=pointer]:
+                    - generic [ref=e1133]:
+                      - generic [ref=e1134]: "49."
+                      - heading "What is the role of the WebSecurityConfigurerAdapter class?" [level=3] [ref=e1135]:
+                        - text: What is the role of the
+                        - emphasis [ref=e1136]: WebSecurityConfigurerAdapter
+                        - text: class?
+                    - generic [ref=e1137]:
+                      - img "Lock icon indicating premium question" [ref=e1139]
+                      - button "Question" [ref=e1141]
+                  - generic [ref=e1145]: "Answer:"
+              - listitem [ref=e1147]:
+                - article [ref=e1148]:
+                  - generic [ref=e1149] [cursor=pointer]:
+                    - generic [ref=e1150]:
+                      - generic [ref=e1151]: "50."
+                      - heading "How do you handle CSRF protection in Spring Security?" [level=3] [ref=e1152]:
+                        - text: How do you handle
+                        - emphasis [ref=e1153]: CSRF protection
+                        - text: in
+                        - emphasis [ref=e1154]: Spring Security
+                        - text: "?"
+                    - generic [ref=e1155]:
+                      - img "Lock icon indicating premium question" [ref=e1157]
+                      - button "Question" [ref=e1159]
+                  - generic [ref=e1163]: "Answer:"
+          - generic [ref=e1165]:
+            - generic [ref=e1166]:
+              - separator [ref=e1167]
+              - heading "Spring with Microservices" [level=2] [ref=e1168]
+              - separator [ref=e1169]
+            - list [ref=e1170]:
+              - listitem [ref=e1171]:
+                - article [ref=e1172]:
+                  - generic [ref=e1173] [cursor=pointer]:
+                    - generic [ref=e1174]:
+                      - generic [ref=e1175]: "51."
+                      - heading "How is Spring used in building microservices?" [level=3] [ref=e1176]:
+                        - text: How is
+                        - emphasis [ref=e1177]: Spring
+                        - text: used in building microservices?
+                    - generic [ref=e1178]:
+                      - img "Lock icon indicating premium question" [ref=e1180]
+                      - button "Question" [ref=e1182]
+                  - generic [ref=e1186]: "Answer:"
+              - listitem [ref=e1188]:
+                - article [ref=e1189]:
+                  - generic [ref=e1190] [cursor=pointer]:
+                    - generic [ref=e1191]:
+                      - generic [ref=e1192]: "52."
+                      - heading "What is Spring Cloud?" [level=3] [ref=e1193]:
+                        - text: What is
+                        - emphasis [ref=e1194]: Spring Cloud
+                        - text: "?"
+                    - generic [ref=e1195]:
+                      - img "Lock icon indicating premium question" [ref=e1197]
+                      - button "Question" [ref=e1199]
+                  - generic [ref=e1203]: "Answer:"
+              - listitem [ref=e1205]:
+                - article [ref=e1206]:
+                  - generic [ref=e1207] [cursor=pointer]:
+                    - generic [ref=e1208]:
+                      - generic [ref=e1209]: "53."
+                      - heading "Explain the role of Eureka in Spring Cloud." [level=3] [ref=e1210]:
+                        - text: Explain the role of
+                        - emphasis [ref=e1211]: Eureka
+                        - text: in
+                        - emphasis [ref=e1212]: Spring Cloud
+                        - text: .
+                    - generic [ref=e1213]:
+                      - img "Lock icon indicating premium question" [ref=e1215]
+                      - button "Question" [ref=e1217]
+                  - generic [ref=e1221]: "Answer:"
+              - listitem [ref=e1223]:
+                - article [ref=e1224]:
+                  - generic [ref=e1225] [cursor=pointer]:
+                    - generic [ref=e1226]:
+                      - generic [ref=e1227]: "54."
+                      - heading "How do you implement client-side load balancing with Spring Cloud?" [level=3] [ref=e1228]:
+                        - text: How do you implement client-side load balancing with
+                        - emphasis [ref=e1229]: Spring Cloud
+                        - text: "?"
+                    - generic [ref=e1230]:
+                      - img "Lock icon indicating premium question" [ref=e1232]
+                      - button "Question" [ref=e1234]
+                  - generic [ref=e1238]: "Answer:"
+              - listitem [ref=e1240]:
+                - article [ref=e1241]:
+                  - generic [ref=e1242] [cursor=pointer]:
+                    - generic [ref=e1243]:
+                      - generic [ref=e1244]: "55."
+                      - heading "What are Spring Cloud Config and its use case?" [level=3] [ref=e1245]:
+                        - text: What are
+                        - emphasis [ref=e1246]: Spring Cloud Config
+                        - text: and its use case?
+                    - generic [ref=e1247]:
+                      - img "Lock icon indicating premium question" [ref=e1249]
+                      - button "Question" [ref=e1251]
+                  - generic [ref=e1255]: "Answer:"
+              - listitem [ref=e1257]:
+                - article [ref=e1258]:
+                  - generic [ref=e1259] [cursor=pointer]:
+                    - generic [ref=e1260]:
+                      - generic [ref=e1261]: "56."
+                      - heading "Can you explain the Circuit Breaker pattern in the context of Spring Cloud?" [level=3] [ref=e1262]:
+                        - text: Can you explain the
+                        - emphasis [ref=e1263]: Circuit Breaker pattern
+                        - text: in the context of
+                        - emphasis [ref=e1264]: Spring Cloud
+                        - text: "?"
+                    - generic [ref=e1265]:
+                      - img "Lock icon indicating premium question" [ref=e1267]
+                      - button "Question" [ref=e1269]
+                  - generic [ref=e1273]: "Answer:"
+              - listitem [ref=e1275]:
+                - article [ref=e1276]:
+                  - generic [ref=e1277] [cursor=pointer]:
+                    - generic [ref=e1278]:
+                      - generic [ref=e1279]: "57."
+                      - heading "What is a Spring Cloud Gateway?" [level=3] [ref=e1280]:
+                        - text: What is a
+                        - emphasis [ref=e1281]: Spring Cloud Gateway
+                        - text: "?"
+                    - generic [ref=e1282]:
+                      - img "Lock icon indicating premium question" [ref=e1284]
+                      - button "Question" [ref=e1286]
+                  - generic [ref=e1290]: "Answer:"
+          - generic [ref=e1292]:
+            - generic [ref=e1293]:
+              - separator [ref=e1294]
+              - heading "Spring Reactive Programming" [level=2] [ref=e1295]
+              - separator [ref=e1296]
+            - list [ref=e1297]:
+              - listitem [ref=e1298]:
+                - article [ref=e1299]:
+                  - generic [ref=e1300] [cursor=pointer]:
+                    - generic [ref=e1301]:
+                      - generic [ref=e1302]: "58."
+                      - heading "What is Reactive Programming and how does Spring support it?" [level=3] [ref=e1303]:
+                        - text: What is
+                        - emphasis [ref=e1304]: Reactive Programming
+                        - text: and how does
+                        - emphasis [ref=e1305]: Spring
+                        - text: support it?
+                    - generic [ref=e1306]:
+                      - img "Lock icon indicating premium question" [ref=e1308]
+                      - button "Question" [ref=e1310]
+                  - generic [ref=e1314]: "Answer:"
+              - listitem [ref=e1316]:
+                - article [ref=e1317]:
+                  - generic [ref=e1318] [cursor=pointer]:
+                    - generic [ref=e1319]:
+                      - generic [ref=e1320]: "59."
+                      - heading "What is the WebFlux framework in Spring 5?" [level=3] [ref=e1321]:
+                        - text: What is the
+                        - emphasis [ref=e1322]: WebFlux framework
+                        - text: in
+                        - emphasis [ref=e1323]: Spring 5
+                        - text: "?"
+                    - generic [ref=e1324]:
+                      - img "Lock icon indicating premium question" [ref=e1326]
+                      - button "Question" [ref=e1328]
+                  - generic [ref=e1332]: "Answer:"
+              - listitem [ref=e1334]:
+                - article [ref=e1335]:
+                  - generic [ref=e1336] [cursor=pointer]:
+                    - generic [ref=e1337]:
+                      - generic [ref=e1338]: "60."
+                      - heading "Explain the back-pressure concept in reactive streams." [level=3] [ref=e1339]:
+                        - text: Explain the
+                        - emphasis [ref=e1340]: back-pressure
+                        - text: concept in
+                        - emphasis [ref=e1341]: reactive streams
+                        - text: .
+                    - generic [ref=e1342]:
+                      - img "Lock icon indicating premium question" [ref=e1344]
+                      - button "Question" [ref=e1346]
+                  - generic [ref=e1350]: "Answer:"
+              - listitem [ref=e1352]:
+                - article [ref=e1353]:
+                  - generic [ref=e1354] [cursor=pointer]:
+                    - generic [ref=e1355]:
+                      - generic [ref=e1356]: "61."
+                      - heading "How do you create a non-blocking REST API in Spring WebFlux?" [level=3] [ref=e1357]:
+                        - text: How do you create a
+                        - emphasis [ref=e1358]: non-blocking REST API
+                        - text: in
+                        - emphasis [ref=e1359]: Spring WebFlux
+                        - text: "?"
+                    - generic [ref=e1360]:
+                      - img "Lock icon indicating premium question" [ref=e1362]
+                      - button "Question" [ref=e1364]
+                  - generic [ref=e1368]: "Answer:"
+          - generic [ref=e1370]:
+            - generic [ref=e1371]:
+              - separator [ref=e1372]
+              - heading "Spring Testing" [level=2] [ref=e1373]
+              - separator [ref=e1374]
+            - list [ref=e1375]:
+              - listitem [ref=e1376]:
+                - article [ref=e1377]:
+                  - generic [ref=e1378] [cursor=pointer]:
+                    - generic [ref=e1379]:
+                      - generic [ref=e1380]: "62."
+                      - heading "How do you perform unit testing in a Spring application?" [level=3] [ref=e1381]:
+                        - text: How do you perform unit testing in a
+                        - emphasis [ref=e1382]: Spring
+                        - text: application?
+                    - generic [ref=e1383]:
+                      - img "Lock icon indicating premium question" [ref=e1385]
+                      - button "Question" [ref=e1387]
+                  - generic [ref=e1391]: "Answer:"
+              - listitem [ref=e1393]:
+                - article [ref=e1394]:
+                  - generic [ref=e1395] [cursor=pointer]:
+                    - generic [ref=e1396]:
+                      - generic [ref=e1397]: "63."
+                      - heading "What role does Spring TestContext Framework play in testing?" [level=3] [ref=e1398]:
+                        - text: What role does
+                        - emphasis [ref=e1399]: Spring TestContext Framework
+                        - text: play in testing?
+                    - generic [ref=e1400]:
+                      - img "Lock icon indicating premium question" [ref=e1402]
+                      - button "Question" [ref=e1404]
+                  - generic [ref=e1408]: "Answer:"
+              - listitem [ref=e1410]:
+                - article [ref=e1411]:
+                  - generic [ref=e1412] [cursor=pointer]:
+                    - generic [ref=e1413]:
+                      - generic [ref=e1414]: "64."
+                      - heading "What is the @SpringBootTest annotation used for?" [level=3] [ref=e1415]:
+                        - text: What is the
+                        - emphasis [ref=e1416]: "@SpringBootTest"
+                        - text: annotation used for?
+                    - generic [ref=e1417]:
+                      - img "Lock icon indicating premium question" [ref=e1419]
+                      - button "Question" [ref=e1421]
+                  - generic [ref=e1425]: "Answer:"
+              - listitem [ref=e1427]:
+                - article [ref=e1428]:
+                  - generic [ref=e1429] [cursor=pointer]:
+                    - generic [ref=e1430]:
+                      - generic [ref=e1431]: "65."
+                      - heading "How do you mock beans in a Spring context for testing?" [level=3] [ref=e1432]:
+                        - text: How do you mock beans in a
+                        - emphasis [ref=e1433]: Spring
+                        - text: context for testing?
+                    - generic [ref=e1434]:
+                      - img "Lock icon indicating premium question" [ref=e1436]
+                      - button "Question" [ref=e1438]
+                  - generic [ref=e1442]: "Answer:"
+          - generic [ref=e1444]:
+            - generic [ref=e1445]:
+              - separator [ref=e1446]
+              - heading "Advanced Spring" [level=2] [ref=e1447]
+              - separator [ref=e1448]
+            - list [ref=e1449]:
+              - listitem [ref=e1450]:
+                - article [ref=e1451]:
+                  - generic [ref=e1452] [cursor=pointer]:
+                    - generic [ref=e1453]:
+                      - generic [ref=e1454]: "66."
+                      - heading "How does Spring support internationalization (i18n)?" [level=3] [ref=e1455]:
+                        - text: How does
+                        - emphasis [ref=e1456]: Spring
+                        - text: support internationalization (i18n)?
+                    - generic [ref=e1457]:
+                      - img "Lock icon indicating premium question" [ref=e1459]
+                      - button "Question" [ref=e1461]
+                  - generic [ref=e1465]: "Answer:"
+              - listitem [ref=e1467]:
+                - article [ref=e1468]:
+                  - generic [ref=e1469] [cursor=pointer]:
+                    - generic [ref=e1470]:
+                      - generic [ref=e1471]: "67."
+                      - heading "Explain the concept of Spring Expression Language (SpEL)." [level=3] [ref=e1472]:
+                        - text: Explain the concept of
+                        - emphasis [ref=e1473]: Spring Expression Language (SpEL)
+                        - text: .
+                    - generic [ref=e1474]:
+                      - img "Lock icon indicating premium question" [ref=e1476]
+                      - button "Question" [ref=e1478]
+                  - generic [ref=e1482]: "Answer:"
+              - listitem [ref=e1484]:
+                - article [ref=e1485]:
+                  - generic [ref=e1486] [cursor=pointer]:
+                    - generic [ref=e1487]:
+                      - generic [ref=e1488]: "68."
+                      - heading "How do you schedule tasks in Spring?" [level=3] [ref=e1489]:
+                        - text: How do you schedule tasks in
+                        - emphasis [ref=e1490]: Spring
+                        - text: "?"
+                    - generic [ref=e1491]:
+                      - img "Lock icon indicating premium question" [ref=e1493]
+                      - button "Question" [ref=e1495]
+                  - generic [ref=e1499]: "Answer:"
+              - listitem [ref=e1501]:
+                - article [ref=e1502]:
+                  - generic [ref=e1503] [cursor=pointer]:
+                    - generic [ref=e1504]:
+                      - generic [ref=e1505]: "69."
+                      - heading "What is the difference between @Bean and @Component in Spring?" [level=3] [ref=e1506]:
+                        - text: What is the difference between
+                        - emphasis [ref=e1507]: "@Bean"
+                        - text: and
+                        - emphasis [ref=e1508]: "@Component"
+                        - text: in
+                        - emphasis [ref=e1509]: Spring
+                        - text: "?"
+                    - generic [ref=e1510]:
+                      - img "Lock icon indicating premium question" [ref=e1512]
+                      - button "Question" [ref=e1514]
+                  - generic [ref=e1518]: "Answer:"
+              - listitem [ref=e1520]:
+                - article [ref=e1521]:
+                  - generic [ref=e1522] [cursor=pointer]:
+                    - generic [ref=e1523]:
+                      - generic [ref=e1524]: "70."
+                      - heading "Explain the difference between @Inject and @Autowired in Spring." [level=3] [ref=e1525]:
+                        - text: Explain the difference between
+                        - emphasis [ref=e1526]: "@Inject"
+                        - text: and
+                        - emphasis [ref=e1527]: "@Autowired"
+                        - text: in
+                        - emphasis [ref=e1528]: Spring
+                        - text: .
+                    - generic [ref=e1529]:
+                      - img "Lock icon indicating premium question" [ref=e1531]
+                      - button "Question" [ref=e1533]
+                  - generic [ref=e1537]: "Answer:"
+          - generic [ref=e1539]:
+            - generic [ref=e1540]:
+              - separator [ref=e1541]
+              - heading "Spring Best Practices" [level=2] [ref=e1542]
+              - separator [ref=e1543]
+            - list [ref=e1544]:
+              - listitem [ref=e1545]:
+                - article [ref=e1546]:
+                  - generic [ref=e1547] [cursor=pointer]:
+                    - generic [ref=e1548]:
+                      - generic [ref=e1549]: "71."
+                      - heading "What are some best practices for designing Spring applications?" [level=3] [ref=e1550]:
+                        - text: What are some best practices for designing
+                        - emphasis [ref=e1551]: Spring
+                        - text: applications?
+                    - generic [ref=e1552]:
+                      - img "Lock icon indicating premium question" [ref=e1554]
+                      - button "Question" [ref=e1556]
+                  - generic [ref=e1560]: "Answer:"
+              - listitem [ref=e1562]:
+                - article [ref=e1563]:
+                  - generic [ref=e1564] [cursor=pointer]:
+                    - generic [ref=e1565]:
+                      - generic [ref=e1566]: "72."
+                      - heading "How do you handle exceptions in a Spring application?" [level=3] [ref=e1567]:
+                        - text: How do you handle exceptions in a
+                        - emphasis [ref=e1568]: Spring
+                        - text: application?
+                    - generic [ref=e1569]:
+                      - img "Lock icon indicating premium question" [ref=e1571]
+                      - button "Question" [ref=e1573]
+                  - generic [ref=e1577]: "Answer:"
+              - listitem [ref=e1579]:
+                - article [ref=e1580]:
+                  - generic [ref=e1581] [cursor=pointer]:
+                    - generic [ref=e1582]:
+                      - generic [ref=e1583]: "73."
+                      - heading "What are the practices for securing passwords in Spring?" [level=3] [ref=e1584]:
+                        - text: What are the practices for securing passwords in
+                        - emphasis [ref=e1585]: Spring
+                        - text: "?"
+                    - generic [ref=e1586]:
+                      - img "Lock icon indicating premium question" [ref=e1588]
+                      - button "Question" [ref=e1590]
+                  - generic [ref=e1594]: "Answer:"
+              - listitem [ref=e1596]:
+                - article [ref=e1597]:
+                  - generic [ref=e1598] [cursor=pointer]:
+                    - generic [ref=e1599]:
+                      - generic [ref=e1600]: "74."
+                      - heading "How can you improve the performance of a Spring-based web application?" [level=3] [ref=e1601]:
+                        - text: How can you improve the performance of a
+                        - emphasis [ref=e1602]: Spring
+                        - text: "-based web application?"
+                    - generic [ref=e1603]:
+                      - img "Lock icon indicating premium question" [ref=e1605]
+                      - button "Question" [ref=e1607]
+                  - generic [ref=e1611]: "Answer:"
+              - listitem [ref=e1613]:
+                - article [ref=e1614]:
+                  - generic [ref=e1615] [cursor=pointer]:
+                    - generic [ref=e1616]:
+                      - generic [ref=e1617]: "75."
+                      - heading "When should you use Aspect-Oriented Programming in Spring?" [level=3] [ref=e1618]:
+                        - text: When should you use
+                        - emphasis [ref=e1619]: Aspect-Oriented Programming
+                        - text: in
+                        - emphasis [ref=e1620]: Spring
+                        - text: "?"
+                    - generic [ref=e1621]:
+                      - img "Lock icon indicating premium question" [ref=e1623]
+                      - button "Question" [ref=e1625]
+                  - generic [ref=e1629]: "Answer:"
+          - generic [ref=e1631]:
+            - generic [ref=e1632]:
+              - separator [ref=e1633]
+              - heading "Spring Integration and Batch Processing" [level=2] [ref=e1634]
+              - separator [ref=e1635]
+            - list [ref=e1636]:
+              - listitem [ref=e1637]:
+                - article [ref=e1638]:
+                  - generic [ref=e1639] [cursor=pointer]:
+                    - generic [ref=e1640]:
+                      - generic [ref=e1641]: "76."
+                      - heading "What is Spring Integration and where is it best applied?" [level=3] [ref=e1642]:
+                        - text: What is
+                        - emphasis [ref=e1643]: Spring Integration
+                        - text: and where is it best applied?
+                    - generic [ref=e1644]:
+                      - img "Lock icon indicating premium question" [ref=e1646]
+                      - button "Question" [ref=e1648]
+                  - generic [ref=e1652]: "Answer:"
+              - listitem [ref=e1654]:
+                - article [ref=e1655]:
+                  - generic [ref=e1656] [cursor=pointer]:
+                    - generic [ref=e1657]:
+                      - generic [ref=e1658]: "77."
+                      - heading "Explain the key components of Spring Batch and its use cases." [level=3] [ref=e1659]:
+                        - text: Explain the key components of
+                        - emphasis [ref=e1660]: Spring Batch
+                        - text: and its use cases.
+                    - generic [ref=e1661]:
+                      - img "Lock icon indicating premium question" [ref=e1663]
+                      - button "Question" [ref=e1665]
+                  - generic [ref=e1669]: "Answer:"
+              - listitem [ref=e1671]:
+                - article [ref=e1672]:
+                  - generic [ref=e1673] [cursor=pointer]:
+                    - generic [ref=e1674]:
+                      - generic [ref=e1675]: "78."
+                      - heading "How does Spring Integration differ from Spring Batch?" [level=3] [ref=e1676]:
+                        - text: How does
+                        - emphasis [ref=e1677]: Spring Integration
+                        - text: differ from
+                        - emphasis [ref=e1678]: Spring Batch
+                        - text: "?"
+                    - generic [ref=e1679]:
+                      - img "Lock icon indicating premium question" [ref=e1681]
+                      - button "Question" [ref=e1683]
+                  - generic [ref=e1687]: "Answer:"
+              - listitem [ref=e1689]:
+                - article [ref=e1690]:
+                  - generic [ref=e1691] [cursor=pointer]:
+                    - generic [ref=e1692]:
+                      - generic [ref=e1693]: "79."
+                      - heading "What are endpoints in Spring Integration?" [level=3] [ref=e1694]:
+                        - text: What are
+                        - emphasis [ref=e1695]: endpoints
+                        - text: in
+                        - emphasis [ref=e1696]: Spring Integration
+                        - text: "?"
+                    - generic [ref=e1697]:
+                      - img "Lock icon indicating premium question" [ref=e1699]
+                      - button "Question" [ref=e1701]
+                  - generic [ref=e1705]: "Answer:"
+              - listitem [ref=e1707]:
+                - article [ref=e1708]:
+                  - generic [ref=e1709] [cursor=pointer]:
+                    - generic [ref=e1710]:
+                      - generic [ref=e1711]: "80."
+                      - heading "Explain the concept of Chunk processing in Spring Batch." [level=3] [ref=e1712]:
+                        - text: Explain the concept of
+                        - emphasis [ref=e1713]: Chunk processing
+                        - text: in
+                        - emphasis [ref=e1714]: Spring Batch
+                        - text: .
+                    - generic [ref=e1715]:
+                      - img "Lock icon indicating premium question" [ref=e1717]
+                      - button "Question" [ref=e1719]
+                  - generic [ref=e1723]: "Answer:"
+          - generic [ref=e1725]:
+            - generic [ref=e1726]:
+              - separator [ref=e1727]
+              - heading "Spring Cloud Data Flow" [level=2] [ref=e1728]
+              - separator [ref=e1729]
+            - list [ref=e1730]:
+              - listitem [ref=e1731]:
+                - article [ref=e1732]:
+                  - generic [ref=e1733] [cursor=pointer]:
+                    - generic [ref=e1734]:
+                      - generic [ref=e1735]: "81."
+                      - heading "What is Spring Cloud Data Flow and its benefits for data-driven applications?" [level=3] [ref=e1736]:
+                        - text: What is
+                        - emphasis [ref=e1737]: Spring Cloud Data Flow
+                        - text: and its benefits for data-driven applications?
+                    - generic [ref=e1738]:
+                      - img "Lock icon indicating premium question" [ref=e1740]
+                      - button "Question" [ref=e1742]
+                  - generic [ref=e1746]: "Answer:"
+              - listitem [ref=e1748]:
+                - article [ref=e1749]:
+                  - generic [ref=e1750] [cursor=pointer]:
+                    - generic [ref=e1751]:
+                      - generic [ref=e1752]: "82."
+                      - heading "How do you create custom processors in Spring Cloud Data Flow?" [level=3] [ref=e1753]:
+                        - text: How do you create custom processors in
+                        - emphasis [ref=e1754]: Spring Cloud Data Flow
+                        - text: "?"
+                    - generic [ref=e1755]:
+                      - img "Lock icon indicating premium question" [ref=e1757]
+                      - button "Question" [ref=e1759]
+                  - generic [ref=e1763]: "Answer:"
+              - listitem [ref=e1765]:
+                - article [ref=e1766]:
+                  - generic [ref=e1767] [cursor=pointer]:
+                    - generic [ref=e1768]:
+                      - generic [ref=e1769]: "83."
+                      - heading "Explain how Spring Cloud Data Flow handles stream processing." [level=3] [ref=e1770]:
+                        - text: Explain how
+                        - emphasis [ref=e1771]: Spring Cloud Data Flow
+                        - text: handles stream processing.
+                    - generic [ref=e1772]:
+                      - img "Lock icon indicating premium question" [ref=e1774]
+                      - button "Question" [ref=e1776]
+                  - generic [ref=e1780]: "Answer:"
+          - generic [ref=e1782]:
+            - generic [ref=e1783]:
+              - separator [ref=e1784]
+              - heading "Spring and Messaging" [level=2] [ref=e1785]
+              - separator [ref=e1786]
+            - list [ref=e1787]:
+              - listitem [ref=e1788]:
+                - article [ref=e1789]:
+                  - generic [ref=e1790] [cursor=pointer]:
+                    - generic [ref=e1791]:
+                      - generic [ref=e1792]: "84."
+                      - heading "How does Spring integrate with message brokers?" [level=3] [ref=e1793]:
+                        - text: How does
+                        - emphasis [ref=e1794]: Spring
+                        - text: integrate with message brokers?
+                    - generic [ref=e1795]:
+                      - img "Lock icon indicating premium question" [ref=e1797]
+                      - button "Question" [ref=e1799]
+                  - generic [ref=e1803]: "Answer:"
+              - listitem [ref=e1805]:
+                - article [ref=e1806]:
+                  - generic [ref=e1807] [cursor=pointer]:
+                    - generic [ref=e1808]:
+                      - generic [ref=e1809]: "85."
+                      - heading "What is JMS (Java Message Service) and how does Spring provide support for it?" [level=3] [ref=e1810]:
+                        - text: What is
+                        - emphasis [ref=e1811]: JMS (Java Message Service)
+                        - text: and how does
+                        - emphasis [ref=e1812]: Spring
+                        - text: provide support for it?
+                    - generic [ref=e1813]:
+                      - img "Lock icon indicating premium question" [ref=e1815]
+                      - button "Question" [ref=e1817]
+                  - generic [ref=e1821]: "Answer:"
+              - listitem [ref=e1823]:
+                - article [ref=e1824]:
+                  - generic [ref=e1825] [cursor=pointer]:
+                    - generic [ref=e1826]:
+                      - generic [ref=e1827]: "86."
+                      - heading "Explain the role of the @KafkaListener annotation in Spring." [level=3] [ref=e1828]:
+                        - text: Explain the role of the
+                        - emphasis [ref=e1829]: "@KafkaListener"
+                        - text: annotation in
+                        - emphasis [ref=e1830]: Spring
+                        - text: .
+                    - generic [ref=e1831]:
+                      - img "Lock icon indicating premium question" [ref=e1833]
+                      - button "Question" [ref=e1835]
+                  - generic [ref=e1839]: "Answer:"
+              - listitem [ref=e1841]:
+                - article [ref=e1842]:
+                  - generic [ref=e1843] [cursor=pointer]:
+                    - generic [ref=e1844]:
+                      - generic [ref=e1845]: "87."
+                      - heading "How can you send and receive messages using AMQP in Spring?" [level=3] [ref=e1846]:
+                        - text: How can you send and receive messages using
+                        - emphasis [ref=e1847]: AMQP
+                        - text: in
+                        - emphasis [ref=e1848]: Spring
+                        - text: "?"
+                    - generic [ref=e1849]:
+                      - img "Lock icon indicating premium question" [ref=e1851]
+                      - button "Question" [ref=e1853]
+                  - generic [ref=e1857]: "Answer:"
+          - generic [ref=e1859]:
+            - generic [ref=e1860]:
+              - separator [ref=e1861]
+              - heading "Spring Kafka" [level=2] [ref=e1862]
+              - separator [ref=e1863]
+            - list [ref=e1864]:
+              - listitem [ref=e1865]:
+                - article [ref=e1866]:
+                  - generic [ref=e1867] [cursor=pointer]:
+                    - generic [ref=e1868]:
+                      - generic [ref=e1869]: "88."
+                      - heading "What is Spring Kafka and how does it integrate with Apache Kafka?" [level=3] [ref=e1870]:
+                        - text: What is
+                        - emphasis [ref=e1871]: Spring Kafka
+                        - text: and how does it integrate with
+                        - emphasis [ref=e1872]: Apache Kafka
+                        - text: "?"
+                    - generic [ref=e1873]:
+                      - img "Lock icon indicating premium question" [ref=e1875]
+                      - button "Question" [ref=e1877]
+                  - generic [ref=e1881]: "Answer:"
+              - listitem [ref=e1883]:
+                - article [ref=e1884]:
+                  - generic [ref=e1885] [cursor=pointer]:
+                    - generic [ref=e1886]:
+                      - generic [ref=e1887]: "89."
+                      - heading "How do you manage transactions in Kafka with Spring?" [level=3] [ref=e1888]:
+                        - text: How do you manage transactions in
+                        - emphasis [ref=e1889]: Kafka
+                        - text: with
+                        - emphasis [ref=e1890]: Spring
+                        - text: "?"
+                    - generic [ref=e1891]:
+                      - img "Lock icon indicating premium question" [ref=e1893]
+                      - button "Question" [ref=e1895]
+                  - generic [ref=e1899]: "Answer:"
+              - listitem [ref=e1901]:
+                - article [ref=e1902]:
+                  - generic [ref=e1903] [cursor=pointer]:
+                    - generic [ref=e1904]:
+                      - generic [ref=e1905]: "90."
+                      - heading "Explain the use of KafkaTemplate in Spring Kafka." [level=3] [ref=e1906]:
+                        - text: Explain the use of
+                        - emphasis [ref=e1907]: KafkaTemplate
+                        - text: in
+                        - emphasis [ref=e1908]: Spring Kafka
+                        - text: .
+                    - generic [ref=e1909]:
+                      - img "Lock icon indicating premium question" [ref=e1911]
+                      - button "Question" [ref=e1913]
+                  - generic [ref=e1917]: "Answer:"
+          - generic [ref=e1919]:
+            - generic [ref=e1920]:
+              - separator [ref=e1921]
+              - heading "Spring Caching" [level=2] [ref=e1922]
+              - separator [ref=e1923]
+            - list [ref=e1924]:
+              - listitem [ref=e1925]:
+                - article [ref=e1926]:
+                  - generic [ref=e1927] [cursor=pointer]:
+                    - generic [ref=e1928]:
+                      - generic [ref=e1929]: "91."
+                      - heading "How do you implement caching in a Spring application?" [level=3] [ref=e1930]:
+                        - text: How do you implement caching in a
+                        - emphasis [ref=e1931]: Spring
+                        - text: application?
+                    - generic [ref=e1932]:
+                      - img "Lock icon indicating premium question" [ref=e1934]
+                      - button "Question" [ref=e1936]
+                  - generic [ref=e1940]: "Answer:"
+              - listitem [ref=e1942]:
+                - article [ref=e1943]:
+                  - generic [ref=e1944] [cursor=pointer]:
+                    - generic [ref=e1945]:
+                      - generic [ref=e1946]: "92."
+                      - heading "What is the Cache Abstraction in Spring?" [level=3] [ref=e1947]:
+                        - text: What is the
+                        - emphasis [ref=e1948]: Cache Abstraction
+                        - text: in
+                        - emphasis [ref=e1949]: Spring
+                        - text: "?"
+                    - generic [ref=e1950]:
+                      - img "Lock icon indicating premium question" [ref=e1952]
+                      - button "Question" [ref=e1954]
+                  - generic [ref=e1958]: "Answer:"
+              - listitem [ref=e1960]:
+                - article [ref=e1961]:
+                  - generic [ref=e1962] [cursor=pointer]:
+                    - generic [ref=e1963]:
+                      - generic [ref=e1964]: "93."
+                      - heading "Explain the differences between @CachePut, @CacheEvict, and @Cacheable annotations." [level=3] [ref=e1965]:
+                        - text: Explain the differences between
+                        - emphasis [ref=e1966]: "@CachePut"
+                        - text: ","
+                        - emphasis [ref=e1967]: "@CacheEvict"
+                        - text: ", and"
+                        - emphasis [ref=e1968]: "@Cacheable"
+                        - text: annotations.
+                    - generic [ref=e1969]:
+                      - img "Lock icon indicating premium question" [ref=e1971]
+                      - button "Question" [ref=e1973]
+                  - generic [ref=e1977]: "Answer:"
+          - generic [ref=e1979]:
+            - generic [ref=e1980]:
+              - separator [ref=e1981]
+              - heading "Spring GraphQL" [level=2] [ref=e1982]
+              - separator [ref=e1983]
+            - list [ref=e1984]:
+              - listitem [ref=e1985]:
+                - article [ref=e1986]:
+                  - generic [ref=e1987] [cursor=pointer]:
+                    - generic [ref=e1988]:
+                      - generic [ref=e1989]: "94."
+                      - heading "How does Spring support building GraphQL APIs?" [level=3] [ref=e1990]:
+                        - text: How does
+                        - emphasis [ref=e1991]: Spring
+                        - text: support building
+                        - emphasis [ref=e1992]: GraphQL APIs
+                        - text: "?"
+                    - generic [ref=e1993]:
+                      - img "Lock icon indicating premium question" [ref=e1995]
+                      - button "Question" [ref=e1997]
+                  - generic [ref=e2001]: "Answer:"
+              - listitem [ref=e2003]:
+                - article [ref=e2004]:
+                  - generic [ref=e2005] [cursor=pointer]:
+                    - generic [ref=e2006]:
+                      - generic [ref=e2007]: "95."
+                      - heading "What are the advantages of using GraphQL over REST in Spring?" [level=3] [ref=e2008]:
+                        - text: What are the advantages of using
+                        - emphasis [ref=e2009]: GraphQL
+                        - text: over
+                        - emphasis [ref=e2010]: REST
+                        - text: in
+                        - emphasis [ref=e2011]: Spring
+                        - text: "?"
+                    - generic [ref=e2012]:
+                      - img "Lock icon indicating premium question" [ref=e2014]
+                      - button "Question" [ref=e2016]
+                  - generic [ref=e2020]: "Answer:"
+          - generic [ref=e2022]:
+            - generic [ref=e2023]:
+              - separator [ref=e2024]
+              - heading "Spring Actuator and Monitoring" [level=2] [ref=e2025]
+              - separator [ref=e2026]
+            - list [ref=e2027]:
+              - listitem [ref=e2028]:
+                - article [ref=e2029]:
+                  - generic [ref=e2030] [cursor=pointer]:
+                    - generic [ref=e2031]:
+                      - generic [ref=e2032]: "96."
+                      - heading "What is the Spring Boot Actuator and its purposes?" [level=3] [ref=e2033]:
+                        - text: What is the
+                        - emphasis [ref=e2034]: Spring Boot Actuator
+                        - text: and its purposes?
+                    - generic [ref=e2035]:
+                      - img "Lock icon indicating premium question" [ref=e2037]
+                      - button "Question" [ref=e2039]
+                  - generic [ref=e2043]: "Answer:"
+              - listitem [ref=e2045]:
+                - article [ref=e2046]:
+                  - generic [ref=e2047] [cursor=pointer]:
+                    - generic [ref=e2048]:
+                      - generic [ref=e2049]: "97."
+                      - heading "How do you expose custom metrics using Spring Boot Actuator?" [level=3] [ref=e2050]:
+                        - text: How do you expose custom metrics using
+                        - emphasis [ref=e2051]: Spring Boot Actuator
+                        - text: "?"
+                    - generic [ref=e2052]:
+                      - img "Lock icon indicating premium question" [ref=e2054]
+                      - button "Question" [ref=e2056]
+                  - generic [ref=e2060]: "Answer:"
+              - listitem [ref=e2062]:
+                - article [ref=e2063]:
+                  - generic [ref=e2064] [cursor=pointer]:
+                    - generic [ref=e2065]:
+                      - generic [ref=e2066]: "98."
+                      - heading "Describe how to secure Spring Boot Actuator endpoints." [level=3] [ref=e2067]:
+                        - text: Describe how to secure
+                        - emphasis [ref=e2068]: Spring Boot Actuator
+                        - text: endpoints.
+                    - generic [ref=e2069]:
+                      - img "Lock icon indicating premium question" [ref=e2071]
+                      - button "Question" [ref=e2073]
+                  - generic [ref=e2077]: "Answer:"
+          - generic [ref=e2079]:
+            - generic [ref=e2080]:
+              - separator [ref=e2081]
+              - heading "Spring Application Deployment and Management" [level=2] [ref=e2082]
+              - separator [ref=e2083]
+            - list [ref=e2084]:
+              - listitem [ref=e2085]:
+                - article [ref=e2086]:
+                  - generic [ref=e2087] [cursor=pointer]:
+                    - generic [ref=e2088]:
+                      - generic [ref=e2089]: "99."
+                      - heading "What considerations should be made when deploying a Spring Boot application in a containerized environment?" [level=3] [ref=e2090]:
+                        - text: What considerations should be made when deploying a
+                        - emphasis [ref=e2091]: Spring Boot
+                        - text: application in a containerized environment?
+                    - generic [ref=e2092]:
+                      - img "Lock icon indicating premium question" [ref=e2094]
+                      - button "Question" [ref=e2096]
+                  - generic [ref=e2100]: "Answer:"
+              - listitem [ref=e2102]:
+                - article [ref=e2103]:
+                  - generic [ref=e2104] [cursor=pointer]:
+                    - generic [ref=e2105]:
+                      - generic [ref=e2106]: "100."
+                      - heading "How can you manage application profiles in a Spring Boot application?" [level=3] [ref=e2107]:
+                        - text: How can you manage application profiles in a
+                        - emphasis [ref=e2108]: Spring Boot
+                        - text: application?
+                    - generic [ref=e2109]:
+                      - img "Lock icon indicating premium question" [ref=e2111]
+                      - button "Question" [ref=e2113]
+                  - generic [ref=e2117]: "Answer:"
+  - generic [ref=e2121]:
+    - generic [ref=e2122]:
+      - img "graph icon" [ref=e2123]
+      - heading "Track progress" [level=1] [ref=e2124]
+      - paragraph [ref=e2126]: Simple interface helps to track your learning progress. Easily navigate through the wide range of questions and focus on key topics you need for your interview success.
+    - generic [ref=e2127]:
+      - img "clock icon" [ref=e2128]
+      - heading "Save time" [level=1] [ref=e2129]
+      - paragraph [ref=e2131]: Save countless hours searching for information on hundreds of low-quality sites designed to drive traffic and make money from advertising.
+  - generic [ref=e2134]:
+    - paragraph [ref=e2135]: Land a six-figure job at one of the top tech companies
+    - generic [ref=e2136]:
+      - img "amazon logo" [ref=e2137]
+      - img "meta logo" [ref=e2138]
+      - img "google logo" [ref=e2139]
+      - img "microsoft logo" [ref=e2140]
+      - img "openai logo" [ref=e2141]
+  - generic [ref=e2143]:
+    - generic [ref=e2144]: Ready to nail your next interview?
+    - heading "Stand out and get your dream job" [level=1] [ref=e2145]
+    - button "Kickstart your prep" [ref=e2146] [cursor=pointer]
+  - generic [ref=e2149]:
+    - link "logo" [ref=e2151] [cursor=pointer]:
+      - /url: /
+      - img "logo" [ref=e2152]
+    - generic [ref=e2153]:
+      - link "Blog" [ref=e2154] [cursor=pointer]:
+        - /url: /blog-posts
+      - link "Terms of use" [ref=e2155] [cursor=pointer]:
+        - /url: /terms/terms
+      - link "Privacy policy" [ref=e2156] [cursor=pointer]:
+        - /url: /terms/privacy
+      - link "Pricing" [ref=e2157] [cursor=pointer]:
+        - /url: /terms/pricing
+      - link "FAQs" [ref=e2158] [cursor=pointer]:
+        - /url: /terms/faq
+      - link "Contact Us" [ref=e2159] [cursor=pointer]:
+        - /url: /terms/contacts
+      - paragraph [ref=e2160]: © 2026 Devinterview.io
+  - generic [ref=e2161] [cursor=pointer]:
+    - img "scroll up button" [ref=e2162]
+    - paragraph [ref=e2163]: Go up
